@@ -60,6 +60,18 @@ These preview graphics are **illustrative portfolio concepts**, not screenshots 
 
 </div>
 
+<!-- PUBLIC-REPO-AUTO:START -->
+## Latest public projects · Automatically updated
+
+<div align="center">
+<img src="./assets/auto-repos.svg?v=initial" width="100%" alt="Auto updated purple cyan repository cards"/>
+</div>
+
+New public repositories will appear here approximately every four hours. Private repositories are excluded.
+
+[**View all public repositories →**](./AUTO_REPOSITORIES.md)
+<!-- PUBLIC-REPO-AUTO:END -->
+
 ## Programming languages, technologies and frameworks
 
 | Development category | Technologies and languages |

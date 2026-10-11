@@ -1,0 +1,40 @@
+name: Auto-update public portfolio
+
+on:
+  schedule:
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/sync-public-repos.yml'
+      - 'scripts/sync_public_repos.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-portfolio-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate public portfolio
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/sync_public_repos.py
+      - name: Commit updated public repository cards
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md AUTO_REPOSITORIES.md assets/auto-repos.svg; then
+            echo "Nothing to update"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md AUTO_REPOSITORIES.md assets/auto-repos.svg
+          git commit -m "chore: refresh public repository showcase [skip ci]"
+          git push
