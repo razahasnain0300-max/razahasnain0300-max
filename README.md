@@ -1,50 +1,51 @@
-<!-- Dark neon software-engineering portfolio. This public repo holds only presentation assets. -->
+<!-- Reel-inspired developer profile for Syed Hasnain Raza. GitHub-safe self-contained SVG/SMIL; no scripts. -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/239327170?v=4" width="170" alt="Portrait of Syed Hasnain Raza" />
+<img src="./assets/reel-terminal.svg?v=1" width="100%" alt="Animated purple-particle portrait transitioning into coding symbol with developer terminal details"/>
 
-<img src="./assets/hero-3d.svg?v=6" width="100%" alt="Animated dark code background and software developer introduction" />
+[**Full portfolio · 13 projects**](./PORTFOLIO.md) &nbsp; | &nbsp; [**Public repositories**](https://github.com/razahasnain0300-max?tab=repositories&type=public) &nbsp; | &nbsp; [**Email**](mailto:razahasnain0300@gmail.com)
 
-[**Explore 13 projects**](./PORTFOLIO.md) &nbsp; | &nbsp; [**Public Repositories**](https://github.com/razahasnain0300-max?tab=repositories&type=public) &nbsp; | &nbsp; [**Email**](mailto:razahasnain0300@gmail.com)
-
-<img src="./assets/skills-3d.svg?v=6" width="100%" alt="Services across websites, apps and desktop systems" />
-<img src="./assets/impact-3d.svg?v=6" width="100%" alt="Dated activity statistics and project portfolio" />
+<img src="./assets/reel-analytics.svg?v=1" width="100%" alt="Verified dated contribution count and repository overview"/>
+<img src="./assets/reel-stack.svg?v=1" width="100%" alt="Software engineering technologies and tools"/>
+<img src="./assets/reel-showcase.svg?v=1" width="100%" alt="Neon portfolio card showcase"/>
 
 </div>
 
-## About me
+## ⚡ About me
 
-**Syed Hasnain Raza** — Full-Stack Developer, IT Manager, Web Developer and Electronic Engineer based in Dubai, UAE.
+I'm **Syed Hasnain Raza**, a **full-stack developer, IT manager, web engineer, and electronics graduate** working on professional digital products from Dubai.
 
-I work on **websites, web apps, Android apps, desktop software, dashboards, admin panels, APIs, e-commerce and automation systems**. I combine modern interfaces with dependable server-side engineering, database design, integrations and deployment.
+I develop **websites, web applications, Android apps, desktop software, e-commerce platforms, dashboards, API integrations, and automation systems**.
 
-**Technology:** Node.js · React · TypeScript · JavaScript · MySQL · PostgreSQL · Python · Tailwind CSS · Git / GitHub · API development.
+**Focus:** scalable software, thoughtful UI/UX, reliable infrastructure, and practical problem-solving.
 
-**Business:** Syed's IT Solution & Digital Marketing Services.
+## ✦ Project previews
 
-### Real project showcase
-
-*Images are illustrative UI concepts, not screenshots of deployed applications; private source code stays private.*
+*These visuals are illustrative design concepts, not production screenshots. Private project source code is not contained in this public profile repository.*
 
 | | |
 |:--:|:--:|
-| <strong>GOEV.PK</strong><br/><img src="./assets/previews/goev.svg?v=2" width="100%" alt="GOEV.PK concept preview"><br/><sub>EV marketplace, charging and automotive ecosystem.</sub> | <strong>REHABCONNECT</strong><br/><img src="./assets/previews/rehabconnect.svg?v=2" width="100%" alt="REHABCONNECT concept preview"><br/><sub>Find care providers, centers and recovery services.</sub> |
-| <strong>SYDEX / JAVIZ</strong><br/><img src="./assets/previews/sydex-javiz.svg?v=2" width="100%" alt="SYDEX / JAVIZ concept preview"><br/><sub>Desktop AI command center and interactive assistant.</sub> | <strong>OVERTHE TOP CRM</strong><br/><img src="./assets/previews/overthetop.svg?v=2" width="100%" alt="OVERTHE TOP CRM concept preview"><br/><sub>Gym customer management and device integrations.</sub> |
-| <strong>GANI DESIGNER</strong><br/><img src="./assets/previews/ganidesigner.svg?v=2" width="100%" alt="GANI DESIGNER concept preview"><br/><sub>Independent retail and design-oriented storefront.</sub> | <strong>DR. SHOAIB ZAFAR</strong><br/><img src="./assets/previews/dr-shoaib.svg?v=2" width="100%" alt="DR. SHOAIB ZAFAR concept preview"><br/><sub>Clinical website and practice administration.</sub> |
+| **GOEV.PK**<br/><img src="./assets/previews/goev.svg?v=2" width="100%" alt="GOEV.PK illustrative concept"/><br/><sub>EV marketplace and charging ecosystem.</sub> | **RehabConnect**<br/><img src="./assets/previews/rehabconnect.svg?v=2" width="100%" alt="RehabConnect illustrative concept"/><br/><sub>Treatment-center and specialist discovery.</sub> |
+| **SYDEX / JAVIZ**<br/><img src="./assets/previews/sydex-javiz.svg?v=2" width="100%" alt="SYDEX / JAVIZ illustrative concept"/><br/><sub>AI desktop assistant and automation.</sub> | **Over The Top CRM**<br/><img src="./assets/previews/overthetop.svg?v=2" width="100%" alt="Over The Top CRM illustrative concept"/><br/><sub>Gym management and device integrations.</sub> |
+| **Gani Designer**<br/><img src="./assets/previews/ganidesigner.svg?v=2" width="100%" alt="Gani Designer illustrative concept"/><br/><sub>Independent e-commerce storefront.</sub> | **Dr. Shoaib Zafar**<br/><img src="./assets/previews/dr-shoaib.svg?v=2" width="100%" alt="Dr. Shoaib Zafar illustrative concept"/><br/><sub>Clinical website and practice systems.</sub> |
 
+[**Explore all 13 projects →**](./PORTFOLIO.md)
 
+## ✦ Real GitHub contributions
 
+The official contribution calendar displayed by GitHub below this README is authoritative. **569 contributions** is a dated screenshot reading from **11 October 2026**, not a claim about today's live total.
 
+## ✦ Public source repositories
 
-[**Explore the full 13-project portfolio →**](./PORTFOLIO.md)
+- [Interactive 5D/3D ARE Card](https://github.com/razahasnain0300-max/5D-3D-interacting---ARE-Business-Card)
+- [ARE Business Card](https://github.com/razahasnain0300-max/5D-interacting---ARE-Business-Card)
+- [Amaken CEO Dashboard](https://github.com/razahasnain0300-max/amaken-real-estate-ceo)
+- [Amaken Executive Dashboard](https://github.com/razahasnain0300-max/ceo-amaken-realestate)
 
 <div align="center">
 
-<img src="./assets/id-dashboard.svg?v=6" width="100%" alt="Professional animated software engineer ID" />
-<img src="./assets/connect-3d.svg?v=6" width="100%" alt="Connect for software development" />
+**[GitHub](https://github.com/razahasnain0300-max) · [Portfolio](./PORTFOLIO.md) · [Email](mailto:razahasnain0300@gmail.com)**
 
-[GitHub](https://github.com/razahasnain0300-max) · [Portfolio](./PORTFOLIO.md) · [Email](mailto:razahasnain0300@gmail.com)
-
-<sub>Neon code-stream animation is decorative and accessibility-aware. The profile picture uses the public GitHub avatar. GitHub's own contribution calendar below this README is the real activity source; 569 is a dated screenshot count.</sub>
+<sub>Visual recreation inspired by the supplied reel, customized with a portrait sampled from the supplied photo. Some clients may show reduced or static SVG motion; GitHub's site-wide appearance is controlled by each visitor.</sub>
 
 </div>
