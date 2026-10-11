@@ -1,27 +1,38 @@
 <!-- Syed Hasnain Raza — GitHub-safe professional purple/cyan 3D portfolio. No private app source. -->
 <div align="center">
 
+<img src="./assets/agency-identity.svg?v=8" width="100%" alt="Syed's IT Solution & Digital Marketing Services software development team" />
+
 <img src="./assets/reel-terminal.svg?v=7" width="100%" alt="Animated purple particle portrait and developer terminal" />
 
-### Software solutions for your business
+### Multi-member software development & digital solutions team
 
-**Websites • Web Apps • Android Apps • Desktop Software • AI & Automation**
+**Websites • Web Applications • Mobile Apps • Desktop Software • APIs • AI & Automation • Digital Marketing**
 
-[**✉️ Hire Me / Get a Quote**](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry) &nbsp;·&nbsp; [**Explore 13 Projects**](./PORTFOLIO.md) &nbsp;·&nbsp; [**View Public Code**](https://github.com/razahasnain0300-max?tab=repositories&type=public)
+[**✉️ Hire Our Team / Request a Proposal**](mailto:razahasnain0300@gmail.com?subject=Team%20Software%20Project%20Proposal) &nbsp;·&nbsp; [**Explore 13 Projects**](./PORTFOLIO.md) &nbsp;·&nbsp; [**View Public Code**](https://github.com/razahasnain0300-max?tab=repositories&type=public)
 
 <img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
 
 </div>
 
-## About me
+## About our software development team
 
-I'm **Syed Hasnain Raza**, a Dubai-based **Full-Stack Developer, IT Manager, Web Developer and Electronic Engineer**. I build digital products and software systems for businesses, founders and teams.
+**Syed's IT Solution & Digital Marketing Services** is a **multidisciplinary organization/team** delivering digital products and software solutions through collaboration across technical and creative disciplines.
 
-**What I can help you create:** Responsive business websites, e-commerce stores, customer portals, CRM/ERP-style workflows, dashboards, Android apps, desktop utilities, database-backed platforms, APIs and automation tools.
+**Technical Lead:** **Syed Hasnain Raza**, a Dubai-based Full-Stack Developer, IT Manager, Web Developer and Electronic Engineer.
 
-**What matters to me:** Clear requirements, thoughtful UI/UX, maintainable code, testing, and reliable delivery.
+**Our team approach:** We combine project planning, UI/UX, frontend and backend engineering, database systems, mobile and desktop solutions, quality assurance, release engineering and ongoing support. Individual assignments and availability are agreed for each project.
 
-If you have a brief, design reference or existing application you want to improve, **[email me your scope and preferred timeline](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry)**.
+**Our services:** Business websites, e-commerce, web applications, admin panels, CRM/ERP-style platforms, Android solutions, desktop tools, AI-assisted automation, REST APIs, integrations and search-focused digital solutions.
+
+[**Request a proposal from our team →**](mailto:razahasnain0300@gmail.com?subject=Team%20Software%20Project%20Proposal)
+
+<div align="center">
+
+<img src="./assets/agency-team.svg?v=8" width="100%" alt="Collaborative software team functions from planning to delivery" />
+<img src="./assets/agency-stack.svg?v=8" width="100%" alt="Programming languages technologies and platforms used for websites web apps mobile and desktop solutions" />
+
+</div>
 
 <div align="center">
 
@@ -49,25 +60,33 @@ These preview graphics are **illustrative portfolio concepts**, not screenshots 
 
 </div>
 
-## Technologies and professional focus
+## Programming languages, technologies and frameworks
 
-**Web:** Node.js, React, JavaScript/TypeScript, Tailwind CSS, APIs and integrations.
+| Development category | Technologies and languages |
+|---|---|
+| **Websites and frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS |
+| **Web applications / backend** | JavaScript, TypeScript, Node.js, Express, Python, REST APIs |
+| **Database technologies** | SQL, MySQL/mysql2, PostgreSQL, MongoDB |
+| **Desktop applications** | Electron, JavaScript, TypeScript, Node.js, Python |
+| **Mobile development options** | Android (Kotlin, Java), React Native, Flutter/Dart — dependent on requirements |
+| **Infrastructure & tooling** | Git, GitHub, Linux/VPS, Nginx, PM2, automated tests and delivery |
+| **Other common language ecosystems** | PHP, C#, C++, Go, Rust, Ruby and Swift — discuss fit and specialist availability |
 
-**Data and tooling:** MySQL, PostgreSQL, Python, Git, testing and deployment workflows.
+Our **core demonstrated project stack** centers on Node.js, React, JavaScript/TypeScript, HTML/CSS, MySQL, Python, API integrations and software automation. Other languages listed are **potential project options**, not a claim of expert proficiency in every language.
 
-**Systems:** Websites, web apps, Android solutions, desktop utilities, dashboards, automation and e-commerce.
+[**Explore our technology and team capabilities →**](./TECHNOLOGY_STACK.md)
 
-GitHub's own contribution calendar is the authoritative record. The previously shared **569 contributions** number is a **11 October 2026 screenshot snapshot**, not a live counter or artificially generated activity.
+GitHub's official contribution graph is the authoritative source of activity. The previously shared **569 contributions** figure is a screenshot snapshot dated **11 October 2026**, not a live counter.
 
-## Work with me
+## Work with our team
 
 <div align="center">
 
 <img src="./assets/client-contact.svg?v=7" width="100%" alt="Invite clients to request a project quote" />
 
-[**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
+[**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Team%20Software%20Project%20Proposal) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
 
-<sub>Syed's IT Solution & Digital Marketing Services · Dubai, UAE</sub>
+<sub>Syed's IT Solution & Digital Marketing Services · Multidisciplinary software team · Dubai, UAE</sub>
 
 <sub>Design uses self-contained GitHub-safe SVGs. Animation support varies; GitHub's outer light/dark appearance depends on each visitor's settings.</sub>
 

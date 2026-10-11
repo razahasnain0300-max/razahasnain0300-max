@@ -1,6 +1,8 @@
 # Software Development Portfolio
 
-**Syed Hasnain Raza** — Web, Android and desktop applications • API and software integrations • AI-assisted automation
+**Syed's IT Solution & Digital Marketing Services** — multi-member software development team led by **Syed Hasnain Raza**. Delivering web, Android and desktop solutions, APIs, automation and digital marketing.
+
+[Technology & team capabilities](./TECHNOLOGY_STACK.md)
 
 [**✉️ Discuss a project**](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry) · [**Back to Profile**](./README.md)
 
@@ -10,7 +12,7 @@
 
 I design and build **websites, web applications, Android apps, desktop software, custom dashboards, APIs, e-commerce systems, admin panels and automation tools**. This is a capability overview, not a claim that each project has a public live demonstration.
 
-Thirteen software repositories, one developer portfolio. Each image below is an **illustrative design mockup**, not a real application screenshot. Project descriptions are intentionally high level. This public document does **not** contain the underlying private source code, credentials or deployment configuration.
+Thirteen software repositories, one team-led project portfolio. Each image below is an **illustrative design mockup**, not a real application screenshot. Project descriptions are intentionally high level. This public document does **not** contain the underlying private source code, credentials or deployment configuration.
 
 [← Back to GitHub profile](./README.md)
 

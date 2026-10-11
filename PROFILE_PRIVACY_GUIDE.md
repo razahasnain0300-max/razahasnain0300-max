@@ -58,3 +58,8 @@ The public avatar URL in the README points to the current GitHub profile photo. 
 The public profile now features a matching purple/cyan palette, six client service offerings, a collaboration process, an email quote link and professional project concepts. The 13 illustrative concept images do not show private production dashboards, private source code or customer information.
 
 To change the account sidebar: GitHub **Settings → Public profile**. Suggested short bio: `Full-Stack Developer | Web, Android & Desktop Software | APIs & Automation | Dubai`. Keep business contact details accurate. The visitor controls GitHub's overall website theme.
+
+
+## Team presentation update
+
+This README identifies Syed's IT Solution & Digital Marketing Services as a multi-member, multidisciplinary development team and Syed Hasnain Raza as its technical lead. Team names and exact number have not been invented. The organization-style design is part of the README, not a change to GitHub account ownership or creation of a formal GitHub Organization.

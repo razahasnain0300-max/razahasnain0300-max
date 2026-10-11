@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="549" viewBox="0 0 1120 549" role="img" aria-label="Website web application desktop mobile development languages and frameworks"><title>Website web application desktop mobile development languages and frameworks</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".6" stop-color="#0B1020"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B2244"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".33"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0 H0 V25" fill="none" stroke="#22D3EE" stroke-width=".7" stroke-opacity=".09"/></pattern>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:'Consolas','Courier New',monospace}.float{animation:float 6.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="549" rx="22" fill="url(#bg)"/><rect width="1120" height="549" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="547" rx="21" fill="none" stroke="#8B5CF6" stroke-opacity=".4"/><rect x="37" y="0" width="198" height="3" rx="2" fill="url(#accent)"/>
+
+<text x="45" y="53" font-size="13" font-weight="760" fill="#22D3EE" class="mono">PROGRAMMING LANGUAGES / FRAMEWORKS / PLATFORMS</text>
+<text x="45" y="107" font-size="38" font-weight="850" fill="#EAF2FF" >Technology matched to the job.</text>
+<text x="45" y="133" font-size="16" font-weight="550" fill="#94A3B8" >Core technologies alongside project-dependent mobile and language options.</text>
+<g class="float" style="animation-delay:0s">
+<path d="M57 167 l468 -10 l15 15 l-471 12 Z" fill="#8B5CF6" fill-opacity=".14"/>
+<rect x="51" y="160" width="504" height="161" rx="17" fill="#050715" opacity=".7"/>
+<rect x="45" y="152" width="504" height="161" rx="17" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".66"/>
+<text x="65" y="182" font-size="12" font-weight="750" fill="#8B5CF6" class="mono">FRONTEND</text>
+<text x="65" y="213" font-size="23" font-weight="840" fill="#EAF2FF" >WEB FOUNDATIONS</text>
+<text x="65" y="245" font-size="16" font-weight="590" fill="#C4B5FD" class="mono">HTML5 · CSS3 · JavaScript</text><text x="65" y="268" font-size="16" font-weight="590" fill="#94A3B8" class="mono">TypeScript · React · Tailwind CSS</text><text x="65" y="291" font-size="16" font-weight="590" fill="#94A3B8" class="mono">Responsive UI · Accessibility</text>
+</g><g class="float" style="animation-delay:0.37s">
+<path d="M591 167 l468 -10 l15 15 l-471 12 Z" fill="#22D3EE" fill-opacity=".14"/>
+<rect x="585" y="160" width="504" height="161" rx="17" fill="#050715" opacity=".7"/>
+<rect x="579" y="152" width="504" height="161" rx="17" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".66"/>
+<text x="599" y="182" font-size="12" font-weight="750" fill="#22D3EE" class="mono">SERVICES + DATA</text>
+<text x="599" y="213" font-size="23" font-weight="840" fill="#EAF2FF" >BACKEND &amp; DATABASES</text>
+<text x="599" y="245" font-size="16" font-weight="590" fill="#C4B5FD" class="mono">Node.js · Express · Python</text><text x="599" y="268" font-size="16" font-weight="590" fill="#94A3B8" class="mono">SQL · MySQL / mysql2</text><text x="599" y="291" font-size="16" font-weight="590" fill="#94A3B8" class="mono">PostgreSQL · MongoDB</text>
+</g><g class="float" style="animation-delay:0.74s">
+<path d="M57 349 l468 -10 l15 15 l-471 12 Z" fill="#8B5CF6" fill-opacity=".14"/>
+<rect x="51" y="342" width="504" height="161" rx="17" fill="#050715" opacity=".7"/>
+<rect x="45" y="334" width="504" height="161" rx="17" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".66"/>
+<text x="65" y="364" font-size="12" font-weight="750" fill="#8B5CF6" class="mono">SYSTEMS</text>
+<text x="65" y="395" font-size="23" font-weight="840" fill="#EAF2FF" >DESKTOP SOFTWARE</text>
+<text x="65" y="427" font-size="16" font-weight="590" fill="#C4B5FD" class="mono">Electron · Node.js</text><text x="65" y="450" font-size="16" font-weight="590" fill="#94A3B8" class="mono">JavaScript · TypeScript</text><text x="65" y="473" font-size="16" font-weight="590" fill="#94A3B8" class="mono">Python · Device Integration</text>
+</g><g class="float" style="animation-delay:1.1099999999999999s">
+<path d="M591 349 l468 -10 l15 15 l-471 12 Z" fill="#22D3EE" fill-opacity=".14"/>
+<rect x="585" y="342" width="504" height="161" rx="17" fill="#050715" opacity=".7"/>
+<rect x="579" y="334" width="504" height="161" rx="17" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".66"/>
+<text x="599" y="364" font-size="12" font-weight="750" fill="#22D3EE" class="mono">PROJECT OPTIONS</text>
+<text x="599" y="395" font-size="23" font-weight="840" fill="#EAF2FF" >MOBILE ECOSYSTEM</text>
+<text x="599" y="427" font-size="16" font-weight="590" fill="#C4B5FD" class="mono">Kotlin · Java · Android</text><text x="599" y="450" font-size="16" font-weight="590" fill="#94A3B8" class="mono">React Native · JavaScript</text><text x="599" y="473" font-size="16" font-weight="590" fill="#94A3B8" class="mono">Dart · Flutter (scope dependent)</text>
+</g>
+<text x="45" y="539" font-size="12" font-weight="660" fill="#C4B5FD" class="mono">OTHER ECOSYSTEMS: PHP · C# · .NET · C++ · GO · RUST · RUBY · SWIFT — ASSESSED CASE BY CASE</text></svg>

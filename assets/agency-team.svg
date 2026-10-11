@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="357" viewBox="0 0 1120 357" role="img" aria-label="Organization delivery team with project design development mobile desktop and QA functions"><title>Organization delivery team with project design development mobile desktop and QA functions</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".6" stop-color="#0B1020"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B2244"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".33"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0 H0 V25" fill="none" stroke="#22D3EE" stroke-width=".7" stroke-opacity=".09"/></pattern>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:'Consolas','Courier New',monospace}.float{animation:float 6.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="357" rx="22" fill="url(#bg)"/><rect width="1120" height="357" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="355" rx="21" fill="none" stroke="#8B5CF6" stroke-opacity=".4"/><rect x="37" y="0" width="198" height="3" rx="2" fill="url(#accent)"/>
+
+<text x="45" y="53" font-size="13" font-weight="770" fill="#22D3EE" class="mono">TEAM / COLLABORATIVE DELIVERY</text>
+<text x="45" y="103" font-size="35" font-weight="840" fill="#EAF2FF" >Cross-functional roles. One delivery focus.</text>
+<g class="float" style="animation-delay:0s"><rect x="51" y="137" width="327" height="84" rx="15" fill="#02040C" opacity=".7"/>
+<rect x="46" y="131" width="327" height="84" rx="15" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".62"/>
+<rect x="60" y="148" width="27" height="27" rx="7" fill="#8B5CF6" fill-opacity=".15" stroke="#8B5CF6" stroke-opacity=".5"/>
+<text x="69" y="167" font-size="15" font-weight="780" fill="#8B5CF6" class="mono">1</text>
+<text x="99" y="164" font-size="16" font-weight="790" fill="#EAF2FF" >PROJECT DISCOVERY</text>
+<text x="61" y="195" font-size="14" font-weight="560" fill="#94A3B8" >Scope, planning and coordination</text></g><g class="float" style="animation-delay:0.31s"><rect x="411" y="137" width="327" height="84" rx="15" fill="#02040C" opacity=".7"/>
+<rect x="406" y="131" width="327" height="84" rx="15" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".62"/>
+<rect x="420" y="148" width="27" height="27" rx="7" fill="#22D3EE" fill-opacity=".15" stroke="#22D3EE" stroke-opacity=".5"/>
+<text x="429" y="167" font-size="15" font-weight="780" fill="#22D3EE" class="mono">2</text>
+<text x="459" y="164" font-size="16" font-weight="790" fill="#EAF2FF" >DESIGN &amp; UX</text>
+<text x="421" y="195" font-size="14" font-weight="560" fill="#94A3B8" >Wireframes and responsive design</text></g><g class="float" style="animation-delay:0.62s"><rect x="771" y="137" width="327" height="84" rx="15" fill="#02040C" opacity=".7"/>
+<rect x="766" y="131" width="327" height="84" rx="15" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".62"/>
+<rect x="780" y="148" width="27" height="27" rx="7" fill="#8B5CF6" fill-opacity=".15" stroke="#8B5CF6" stroke-opacity=".5"/>
+<text x="789" y="167" font-size="15" font-weight="780" fill="#8B5CF6" class="mono">3</text>
+<text x="819" y="164" font-size="16" font-weight="790" fill="#EAF2FF" >FRONTEND &amp; BACKEND</text>
+<text x="781" y="195" font-size="14" font-weight="560" fill="#94A3B8" >Web applications, APIs and data</text></g><g class="float" style="animation-delay:0.9299999999999999s"><rect x="51" y="242" width="327" height="84" rx="15" fill="#02040C" opacity=".7"/>
+<rect x="46" y="236" width="327" height="84" rx="15" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".62"/>
+<rect x="60" y="253" width="27" height="27" rx="7" fill="#22D3EE" fill-opacity=".15" stroke="#22D3EE" stroke-opacity=".5"/>
+<text x="69" y="272" font-size="15" font-weight="780" fill="#22D3EE" class="mono">4</text>
+<text x="99" y="269" font-size="16" font-weight="790" fill="#EAF2FF" >MOBILE &amp; DESKTOP</text>
+<text x="61" y="300" font-size="14" font-weight="560" fill="#94A3B8" >Cross-platform and PC solutions</text></g><g class="float" style="animation-delay:1.24s"><rect x="411" y="242" width="327" height="84" rx="15" fill="#02040C" opacity=".7"/>
+<rect x="406" y="236" width="327" height="84" rx="15" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".62"/>
+<rect x="420" y="253" width="27" height="27" rx="7" fill="#8B5CF6" fill-opacity=".15" stroke="#8B5CF6" stroke-opacity=".5"/>
+<text x="429" y="272" font-size="15" font-weight="780" fill="#8B5CF6" class="mono">5</text>
+<text x="459" y="269" font-size="16" font-weight="790" fill="#EAF2FF" >QUALITY &amp; DELIVERY</text>
+<text x="421" y="300" font-size="14" font-weight="560" fill="#94A3B8" >Testing, reviews and deployment</text></g><g class="float" style="animation-delay:1.55s"><rect x="771" y="242" width="327" height="84" rx="15" fill="#02040C" opacity=".7"/>
+<rect x="766" y="236" width="327" height="84" rx="15" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".62"/>
+<rect x="780" y="253" width="27" height="27" rx="7" fill="#22D3EE" fill-opacity=".15" stroke="#22D3EE" stroke-opacity=".5"/>
+<text x="789" y="272" font-size="15" font-weight="780" fill="#22D3EE" class="mono">6</text>
+<text x="819" y="269" font-size="16" font-weight="790" fill="#EAF2FF" >GROWTH &amp; SUPPORT</text>
+<text x="781" y="300" font-size="14" font-weight="560" fill="#94A3B8" >SEO, upgrades and maintenance</text></g>
+<text x="46" y="351" font-size="12" font-weight="540" fill="#94A3B8" >Team assignments and specialist availability are agreed according to project requirements.</text></svg>

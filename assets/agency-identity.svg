@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="346" viewBox="0 0 1120 346" role="img" aria-label="Syed's IT Solution and Digital Marketing Services multidisciplinary software organization"><title>Syed's IT Solution and Digital Marketing Services multidisciplinary software organization</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".6" stop-color="#0B1020"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B2244"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".33"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0 H0 V25" fill="none" stroke="#22D3EE" stroke-width=".7" stroke-opacity=".09"/></pattern>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:'Consolas','Courier New',monospace}.float{animation:float 6.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="346" rx="22" fill="url(#bg)"/><rect width="1120" height="346" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="344" rx="21" fill="none" stroke="#8B5CF6" stroke-opacity=".4"/><rect x="37" y="0" width="198" height="3" rx="2" fill="url(#accent)"/>
+
+<ellipse cx="916" cy="144" rx="286" ry="257" fill="url(#halo)"/>
+<text x="46" y="51" font-size="14" font-weight="760" fill="#22D3EE" class="mono">SOFTWARE DEVELOPMENT · DIGITAL SOLUTIONS · TEAM DELIVERY</text>
+<text x="46" y="112" font-size="47" font-weight="890" fill="#EAF2FF" letter-spacing="-1">SYED'S IT SOLUTION</text>
+<text x="46" y="154" font-size="28" font-weight="800" fill="#C4B5FD" >&amp; DIGITAL MARKETING SERVICES</text>
+<text x="46" y="198" font-size="17" font-weight="565" fill="#94A3B8" >A multidisciplinary software development and digital solutions team.</text>
+<text x="46" y="228" font-size="14" font-weight="670" fill="#22D3EE" class="mono">Websites    /    Web Applications    /    Mobile    /    Desktop    /    Automation</text>
+<rect x="46" y="262" width="370" height="47" rx="11" fill="#8B5CF6" fill-opacity=".22" stroke="#8B5CF6"/>
+<text x="68" y="292" font-size="17" font-weight="780" fill="#EAF2FF" >SOFTWARE SOLUTIONS, TOGETHER  →</text>
+<g class="float"><path d="M915 60 L1051 117 L966 257 L832 184 Z" fill="#8B5CF6" fill-opacity=".13" stroke="#C4B5FD" stroke-width="2"/>
+<path d="M915 60 L915 195 L966 257 M1051 117 L915 195 L832 184 M832 184 L915 60" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity=".75"/>
+<circle cx="915" cy="60" r="6" fill="#22D3EE" class="pulse"/><circle cx="1051" cy="117" r="5" fill="#C4B5FD"/><circle cx="966" cy="257" r="5" fill="#22D3EE"/>
+<rect x="839" y="280" width="204" height="38" rx="11" fill="#0B1020" stroke="#22D3EE" stroke-opacity=".55"/>
+<text x="858" y="305" font-size="14" font-weight="750" fill="#22D3EE" class="mono">MULTI-MEMBER TEAM</text></g></svg>
