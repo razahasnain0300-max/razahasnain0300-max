@@ -1,18 +1,51 @@
-<!-- GitHub profile art by Syed Hasnain Raza. Public artwork only — no private application source. -->
+<!-- Professional GitHub profile for Syed Hasnain Raza -->
 <div align="center">
 
-<img src="./assets/hero-3d.svg?v=2" width="100%" alt="3D developer welcome to Syed Hasnain Raza">
+<img src="./assets/hero-3d.svg?v=3" width="100%" alt="Professional software solutions profile for Syed Hasnain Raza" />
 
-[**Explore all 13 projects**](./PORTFOLIO.md) &nbsp;·&nbsp; [**Contributions**](https://github.com/razahasnain0300-max?tab=overview) &nbsp;·&nbsp; [**Contact**](mailto:razahasnain0300@gmail.com)
+[**View full portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub Profile**](https://github.com/razahasnain0300-max) &nbsp;·&nbsp; [**Email**](mailto:razahasnain0300@gmail.com)
 
-<img src="./assets/skills-3d.svg?v=2" width="100%" alt="Full-stack technology stack">
-<img src="./assets/impact-3d.svg?v=2" width="100%" alt="Dated genuine GitHub profile statistics">
+<img src="./assets/skills-3d.svg?v=3" width="100%" alt="Software solutions and services" />
+<img src="./assets/impact-3d.svg?v=3" width="100%" alt="Professional profile snapshot" />
 
 </div>
 
-## ✦ Selected work
+## About me
 
-*Preview-only imagery below is illustrative concept art. It is not a claim of live product UI or a link to private source code.*
+I am **Syed Hasnain Raza**, a **Full-Stack Developer, IT Manager, Web Developer and Electronic Engineer** based in **Dubai, UAE**.
+
+I build complete digital solutions including:
+
+- **Websites**
+- **Web applications**
+- **Android applications**
+- **Desktop software**
+- **Business dashboards**
+- **APIs and integrations**
+- **Automation systems**
+- **E-commerce solutions**
+- **Admin panels and management systems**
+
+I work through **Syed's IT Solution & Digital Marketing Services**, helping turn ideas into reliable, professional software products.
+
+## Services and specialties
+
+- Business websites and company profiles
+- Custom portals and dashboard systems
+- ERP-style workflows and management systems
+- Android and cross-platform software solutions
+- Desktop utility software and automation tools
+- API integrations and third-party connections
+- E-commerce and digital business platforms
+- UI / UX improvements and modern responsive design
+
+## Featured portfolio
+
+> The previews below are **illustrative project cards** for professional presentation. They do not expose private project source code.
+
+### Real project showcase
+
+*Images are illustrative UI concepts, not screenshots of deployed applications; private source code stays private.*
 
 | | |
 |:--:|:--:|
@@ -21,22 +54,21 @@
 | <strong>GANI DESIGNER</strong><br/><img src="./assets/previews/ganidesigner.svg?v=2" width="100%" alt="GANI DESIGNER concept preview"><br/><sub>Independent retail and design-oriented storefront.</sub> | <strong>DR. SHOAIB ZAFAR</strong><br/><img src="./assets/previews/dr-shoaib.svg?v=2" width="100%" alt="DR. SHOAIB ZAFAR concept preview"><br/><sub>Clinical website and practice administration.</sub> |
 
 
+
+[**See all 13 project previews →**](./PORTFOLIO.md)
+
 <div align="center">
-
-**[See the complete portfolio →](./PORTFOLIO.md)**
-
-The portfolio includes all 13 project repositories, with private-source projects represented by non-sensitive overview cards.
-
-<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Animated developer identity badge">
-
-### Real contributions
-
-GitHub renders the **official contribution graph below this profile README**. The snapshot above shows **569 contributions in the preceding year as displayed on 11 October 2026**; this number is dated, not live.
-
-<img src="./assets/connect-3d.svg?v=2" width="100%" alt="Contact and connect">
-
-[**GitHub**](https://github.com/razahasnain0300-max) &nbsp;·&nbsp; [**Email**](mailto:razahasnain0300@gmail.com) &nbsp;·&nbsp; [**Portfolio overview**](./PORTFOLIO.md)
-
-<sub>GitHub-friendly self-contained SVG artwork. Dimension is illustrated through SVG geometry; animation depends on your GitHub client and accessibility settings.</sub>
-
+<img src="./assets/id-dashboard.svg?v=3" width="100%" alt="Professional developer identity card" />
+<img src="./assets/connect-3d.svg?v=3" width="100%" alt="Contact and professional services" />
 </div>
+
+## Public project links
+
+- [Interactive ARE Business Card](https://github.com/razahasnain0300-max/5D-3D-interacting---ARE-Business-Card)
+- [ARE Business Card](https://github.com/razahasnain0300-max/5D-interacting---ARE-Business-Card)
+- [Amaken Real Estate CEO Dashboard](https://github.com/razahasnain0300-max/amaken-real-estate-ceo)
+- [Amaken Executive Dashboard](https://github.com/razahasnain0300-max/ceo-amaken-realestate)
+
+## Note about GitHub profile settings
+
+This README improves your **public profile presentation**, but your **sidebar profile information** (headline, company, location, etc.) must still be edited manually in GitHub profile settings.

@@ -1,5 +1,9 @@
 # Selected portfolio
 
+## Software development services
+
+I design and build **websites, web applications, Android apps, desktop software, custom dashboards, APIs, e-commerce systems, admin panels and automation tools**. This is a capability overview, not a claim that each project has a public live demonstration.
+
 Thirteen software repositories, one developer portfolio. Each image below is an **illustrative design mockup**, not a real application screenshot. Project descriptions are intentionally high level. This public document does **not** contain the underlying private source code, credentials or deployment configuration.
 
 [← Back to GitHub profile](./README.md)

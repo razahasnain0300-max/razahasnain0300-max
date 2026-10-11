@@ -26,3 +26,22 @@ GitHub's native calendar is the authoritative contribution graph. Enable **Priva
 ## Refreshing assets
 
 SVG links use ?v=2. Increment the number after a new revision if GitHub serves cached images.
+
+
+---
+
+## Recommended sidebar profile (manual GitHub settings)
+
+Your main GitHub sidebar profile values are **not controlled by README files**. Update these manually from **Edit profile**.
+
+### Recommended sidebar headline
+Full-Stack Developer | Websites, Web Apps, Android Apps, Desktop Software & Automation Solutions
+
+### Recommended company
+Syed's IT Solution & Digital Marketing Services
+
+### Recommended location
+Dubai, UAE
+
+### Recommended bio
+Building websites, web apps, Android apps, desktop software, dashboards, APIs and automation systems.

@@ -1,38 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="520" viewBox="0 0 1120 520" role="img" aria-label="Syed Hasnain Raza — 3D developer profile"><title>Syed Hasnain Raza — 3D developer profile</title><defs>
-<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#08192c"/><stop offset=".55" stop-color="#091321"/><stop offset="1" stop-color="#11152a"/></linearGradient>
-<linearGradient id="shine" x1="0" x2="1"><stop stop-color="#28d9d1"/><stop offset=".53" stop-color="#73a7ff"/><stop offset="1" stop-color="#c28aff"/></linearGradient>
-<linearGradient id="glass" x1="0" y1="0" x2=".75" y2="1"><stop stop-color="#193a53"/><stop offset="1" stop-color="#101c32"/></linearGradient>
-<radialGradient id="halo"><stop stop-color="#1b8fd4" stop-opacity=".27"/><stop offset="1" stop-color="#1b8fd4" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#6da7d9" stroke-opacity=".11" stroke-width=".7"/></pattern>
-<filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
-<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:'Consolas','Courier New',monospace}.float{animation:float 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.shimmer{animation:shimmer 5s ease-in-out infinite}.up{animation:up .9s both}.del{animation:up 1s .24s both}.spin{animation:rotate 27s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}@keyframes shimmer{0%,100%{opacity:.35}50%{opacity:.9}}@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}@keyframes rotate{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
-<rect width="1120" height="520" rx="22" fill="url(#bg)"/><rect width="1120" height="520" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="518" rx="21" fill="none" stroke="#4f80a6" stroke-opacity=".35"/><rect x="36" y="0" width="205" height="3" rx="2" fill="url(#shine)"/>
-<ellipse cx="853" cy="240" rx="275" ry="270" fill="url(#halo)"/>
-<text x="60" y="63" font-size="13" fill="#58e9e1" font-weight="700" class="mono">// SOFTWARE ENGINEERING • PRODUCT DEVELOPMENT</text>
-<text x="60" y="155" font-size="65" fill="#f2f7ff" font-weight="850" class="up" letter-spacing="-2">SYED HASNAIN</text>
-<text x="60" y="236" fill="url(#shine)" font-size="91" font-weight="900" letter-spacing="-3" class="del">RAZA.</text>
-<text x="62" y="280" font-size="18" fill="#bdcde1" font-weight="500" >Full-Stack Developer  /  IT Manager</text><text x="62" y="309" font-size="18" fill="#bdcde1" font-weight="500" >Building dependable web platforms, AI tools</text><text x="62" y="338" font-size="18" fill="#bdcde1" font-weight="500" >and distinctive interactive experiences.</text>
-<rect x="60" y="390" width="158" height="46" rx="10" fill="#10273d" stroke="#347d82" stroke-opacity=".64"/><text x="83" y="420" font-size="18" fill="#58e9d8" font-weight="750" >NODE.JS</text>
-<rect x="230" y="390" width="140" height="46" rx="10" fill="#10273d" stroke="#347d82" stroke-opacity=".64"/><text x="259" y="420" font-size="18" fill="#b6d8ff" font-weight="750" >REACT</text>
-<rect x="382" y="390" width="141" height="46" rx="10" fill="#10273d" stroke="#347d82" stroke-opacity=".64"/><text x="407" y="420" font-size="18" fill="#d3d9ff" font-weight="750" >MYSQL</text>
-<text x="60" y="484" font-size="13" fill="#8ea9c7" font-weight="700" class="mono">DUBAI, UAE  •  BUILD · DESIGN · SHIP</text>
-<g transform="translate(792 263)" class="float">
-<ellipse cx="0" cy="29" rx="250" ry="85" fill="#070e1a" opacity=".7"/>
-<ellipse cx="0" cy="0" rx="230" ry="102" fill="none" stroke="#38b3db" stroke-opacity=".4" stroke-dasharray="7 11" transform="rotate(-22)"/>
-<ellipse cx="0" cy="0" rx="177" ry="164" fill="none" stroke="#a080ef" stroke-opacity=".26" stroke-dasharray="4 11" class="spin"/>
-<path d="M-160 -98 L38 -168 L204 -86 L3 -15 Z" fill="#22517a" stroke="#7cd9ef" stroke-opacity=".9"/>
-<path d="M-160 -98 L3 -15 L3 142 L-160 55 Z" fill="#0d2f51" stroke="#467bb7"/>
-<path d="M3 -15 L204 -86 L204 70 L3 142 Z" fill="#172747" stroke="#527db7"/>
-<path d="M-135 -70 L20 -121 L158 -65 L0 -8 Z" fill="#06172c" stroke="#7bd9e5" stroke-width="1.2"/>
-<path d="M-123 -58 L-40 -85" stroke="#36d5d2" stroke-width="5" stroke-linecap="round"/>
-<path d="M-123 -39 L-17 -74" stroke="#7c91e4" stroke-width="4" stroke-linecap="round"/>
-<path d="M-123 -21 L-70 -37" stroke="#bc7cff" stroke-width="4" stroke-linecap="round"/>
-<path d="M-127 -32 L-127 30 L-26 79 L-26 20 Z" fill="#112843" stroke="#58ddf0" stroke-opacity=".52"/>
-<text x="-119" y="-4" font-size="28" fill="#42eadb" font-weight="800" >&lt;&gt;</text><text x="-117" y="20" font-size="11" fill="#bddeef" font-weight="700" >DEV</text>
-<path d="M40 18 L162 -26 L162 23 L40 71 Z" fill="#0a273e" stroke="#4e88b6" stroke-opacity=".8"/>
-<path d="M52 43 L85 30 L108 36 L137 5" fill="none" stroke="#47e7c7" stroke-width="4" stroke-linecap="round"/>
-<circle cx="40" cy="18" r="5" fill="#35f3dd"/><circle cx="162" cy="-26" r="5" fill="#ab87ff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="560" viewBox="0 0 1120 560" role="img" aria-label="Syed Hasnain Raza — software solutions profile"><title>Syed Hasnain Raza — software solutions profile</title><defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#07182a"/><stop offset=".55" stop-color="#0a1221"/><stop offset="1" stop-color="#151629"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop stop-color="#34e0cf"/><stop offset=".52" stop-color="#6cb2ff"/><stop offset="1" stop-color="#d58dff"/></linearGradient>
+<linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#14324b" stop-opacity=".95"/><stop offset="1" stop-color="#0d152a" stop-opacity=".95"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#1c93d5" stop-opacity=".26"/><stop offset="1" stop-color="#1c93d5" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#7bacda" stroke-opacity=".10" stroke-width=".7"/></pattern>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}.float{animation:float 6s ease-in-out infinite;transform-origin:center}.fade{animation:fadeup .9s both}.fade2{animation:fadeup 1s .18s both}.fade3{animation:fadeup 1.1s .35s both}.spin{animation:spin 26s linear infinite;transform-origin:center}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes fadeup{0%{opacity:0;transform:translateY(16px)}100%{opacity:1;transform:translateY(0)}}@keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}</style>
+</defs>
+<rect width="1120" height="560" rx="22" fill="url(#bg)"/><rect width="1120" height="560" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="558" rx="21" fill="none" stroke="#4a7ea5" stroke-opacity=".35"/><rect x="36" y="0" width="200" height="3" rx="2" fill="url(#shine)"/>
+<ellipse cx="852" cy="252" rx="270" ry="275" fill="url(#halo)"/>
+<text x="58" y="62" font-size="13" fill="#5ce7d9" font-weight="740" class="mono">// SOFTWARE SOLUTIONS • DIGITAL PRODUCTS • AUTOMATION</text>
+<text x="58" y="148" font-size="64" fill="#f5f8ff" font-weight="860" class="fade" letter-spacing="-2">SYED HASNAIN</text>
+<text x="58" y="228" fill="url(#shine)" font-size="92" font-weight="900" letter-spacing="-3" class="fade2">RAZA.</text>
+<text x="60" y="274" font-size="20" fill="#d9e6f2" font-weight="560" class="fade3">Full-Stack Developer · IT Manager · Web Engineer</text>
+<text x="60" y="306" font-size="16" fill="#a8c0d6" font-weight="500" class="fade3">I build websites, web apps, Android apps, desktop software, APIs</text>
+<text x="60" y="330" font-size="16" fill="#a8c0d6" font-weight="500" class="fade3">and automation systems with practical, professional design.</text>
+<rect x="58" y="388" width="165" height="46" rx="10" fill="#113248" stroke="#2adbc4" stroke-opacity=".64" /><text x="84" y="417" font-size="18" fill="#65efd9" font-weight="790" >WEBSITES</text>
+<rect x="236" y="388" width="162" height="46" rx="10" fill="#113248" stroke="#7ab4ff" stroke-opacity=".64" /><text x="262" y="417" font-size="18" fill="#d9e9ff" font-weight="790" >WEB APPS</text>
+<rect x="411" y="388" width="172" height="46" rx="10" fill="#113248" stroke="#cd95ff" stroke-opacity=".64" /><text x="438" y="417" font-size="18" fill="#f5eeff" font-weight="790" >ANDROID APPS</text>
+<rect x="58" y="446" width="205" height="46" rx="10" fill="#113248" stroke="#7ab4ff" stroke-opacity=".64" /><text x="86" y="475" font-size="15" fill="#d9e9ff" font-weight="790" >DESKTOP SOFTWARE</text>
+<rect x="276" y="446" width="169" height="46" rx="10" fill="#113248" stroke="#2adbc4" stroke-opacity=".64" /><text x="302" y="475" font-size="18" fill="#6cefd9" font-weight="790" >AUTOMATION</text>
+<rect x="458" y="446" width="128" height="46" rx="10" fill="#113248" stroke="#cd95ff" stroke-opacity=".64" /><text x="485" y="475" font-size="18" fill="#f5eeff" font-weight="790" >APIs</text>
+<text x="60" y="528" font-size="13" fill="#88a6c4" font-weight="700" class="mono">DUBAI, UAE  •  SYED'S IT SOLUTION &amp; DIGITAL MARKETING SERVICES</text>
+<g class="float">
+<ellipse cx="806" cy="468" rx="216" ry="40" fill="#050b16" opacity=".78"/>
+<circle cx="806" cy="238" r="170" fill="none" stroke="#2fdbcf" stroke-opacity=".30" stroke-dasharray="8 12" class="spin"/>
+<circle cx="806" cy="238" r="140" fill="none" stroke="#7caeff" stroke-opacity=".22" stroke-dasharray="4 11"/>
+
+    <clipPath id="heroClip"><path d="M 748.88 189.07999999999998 a 57.120000000000005 57.120000000000005 0 1 1 114.24000000000001 0 a 57.120000000000005 57.120000000000005 0 1 1 -114.24000000000001 0 M 691.76 352.28 c 8.16 -73.44 77.52 -118.32000000000001 114.24000000000001 -118.32000000000001 c 38.76 0 108.12 44.88 116.28 118.32000000000001 z"/></clipPath>
+    <g>
+      <path d="M 748.88 189.07999999999998 a 57.120000000000005 57.120000000000005 0 1 1 114.24000000000001 0 a 57.120000000000005 57.120000000000005 0 1 1 -114.24000000000001 0 M 691.76 352.28 c 8.16 -73.44 77.52 -118.32000000000001 114.24000000000001 -118.32000000000001 c 38.76 0 108.12 44.88 116.28 118.32000000000001 z" fill="#0c1f37" stroke="#5ab1e8" stroke-opacity=".85" stroke-width="2.244"/>
+      <g clip-path="url(#heroClip)">
+         <rect x="663.2" y="113.6" width="285.6" height="285.6" fill="#071220"/>
+         <text x="683.6" y="146.24" font-size="11.22" fill="#5ef0d8" opacity=".92" class="mono">const profile = { name: &quot;Syed&quot;, role: &quot;Full-Stack Developer&quot; };</text> <text x="689.72" y="164.60000000000002" font-size="11.22" fill="#9dc8ff" opacity=".92" class="mono">function deliver(product) { design(); build(); ship(); }</text> <text x="683.6" y="182.96" font-size="11.22" fill="#f6fbff" opacity=".92" class="mono">SELECT * FROM services WHERE type IN (&quot;web&quot;, &quot;mobile&quot;, &quot;desktop&quot;);</text> <text x="689.72" y="201.32" font-size="11.22" fill="#d6a4ff" opacity=".92" class="mono">app.post(&quot;/api/automation&quot;, secure, handler);</text> <text x="683.6" y="219.68" font-size="11.22" fill="#5ef0d8" opacity=".92" class="mono">useEffect(() =&gt; improveUX(), [performance]);</text> <text x="689.72" y="238.04000000000002" font-size="11.22" fill="#9dc8ff" opacity=".92" class="mono">git commit -m &quot;deliver reliable software&quot;</text> <text x="683.6" y="256.4" font-size="11.22" fill="#f6fbff" opacity=".92" class="mono">class Platform extends SoftwareSolution {}</text> <text x="689.72" y="274.76" font-size="11.22" fill="#d6a4ff" opacity=".92" class="mono">if (idea) { validate(); build(); deploy(); }</text> <text x="683.6" y="293.12" font-size="11.22" fill="#5ef0d8" opacity=".92" class="mono">const stack = [&quot;Node.js&quot;,&quot;React&quot;,&quot;MySQL&quot;,&quot;Python&quot;];</text> <text x="689.72" y="311.48" font-size="11.22" fill="#9dc8ff" opacity=".92" class="mono">return scalableSystems &amp;&amp; polishedInterfaces;</text> <text x="683.6" y="329.84000000000003" font-size="11.22" fill="#f6fbff" opacity=".92" class="mono">const profile = { name: &quot;Syed&quot;, role: &quot;Full-Stack Developer&quot; };</text> <text x="689.72" y="348.20000000000005" font-size="11.22" fill="#d6a4ff" opacity=".92" class="mono">function deliver(product) { design(); build(); ship(); }</text> <text x="683.6" y="366.56" font-size="11.22" fill="#5ef0d8" opacity=".92" class="mono">SELECT * FROM services WHERE type IN (&quot;web&quot;, &quot;mobile&quot;, &quot;desktop&quot;);</text> <text x="689.72" y="384.92" font-size="11.22" fill="#9dc8ff" opacity=".92" class="mono">app.post(&quot;/api/automation&quot;, secure, handler);</text> <text x="683.6" y="403.28000000000003" font-size="11.22" fill="#f6fbff" opacity=".92" class="mono">useEffect(() =&gt; improveUX(), [performance]);</text> <text x="689.72" y="421.64" font-size="11.22" fill="#d6a4ff" opacity=".92" class="mono">git commit -m &quot;deliver reliable software&quot;</text> <text x="683.6" y="440.0" font-size="11.22" fill="#5ef0d8" opacity=".92" class="mono">class Platform extends SoftwareSolution {}</text> <text x="689.72" y="458.36" font-size="11.22" fill="#9dc8ff" opacity=".92" class="mono">if (idea) { validate(); build(); deploy(); }</text> <text x="683.6" y="476.72" font-size="11.22" fill="#f6fbff" opacity=".92" class="mono">const stack = [&quot;Node.js&quot;,&quot;React&quot;,&quot;MySQL&quot;,&quot;Python&quot;];</text> <text x="689.72" y="495.08000000000004" font-size="11.22" fill="#d6a4ff" opacity=".92" class="mono">return scalableSystems &amp;&amp; polishedInterfaces;</text>
+      </g>
+      <path d="M 738.68 173.78 q 68.34 -33.660000000000004 134.64000000000001 0" fill="none" stroke="#31dfcf" stroke-opacity=".72" stroke-width="4.08" stroke-linecap="round"/>
+      <path d="M 692.78 346.15999999999997 q 114.24000000000001 -35.7 229.5 0" fill="none" stroke="#6f8bff" stroke-opacity=".45" stroke-width="8.16" stroke-linecap="round"/>
+      <path d="M 777.44 211.52 q 10.2 -8.16 21.42 0" fill="none" stroke="#b7ecff" stroke-width="2.244" stroke-linecap="round"/><path d="M 814.16 211.52 q 10.2 -8.16 21.42 0" fill="none" stroke="#b7ecff" stroke-width="2.244" stroke-linecap="round"/><path d="M 803.96 228.86 q 7.140000000000001 11.22 0 22.44" fill="none" stroke="#88bfff" stroke-width="2.04" stroke-linecap="round"/><path d="M 779.48 264.56 q 27.54 16.32 55.08 0" fill="none" stroke="#59eed2" stroke-width="3.06" stroke-linecap="round"/>
+    </g>
+<text x="680" y="492" font-size="12" fill="#8da9c7" font-weight="680" class="mono">const company = buildSoftware.everywhere();</text>
 </g>
-<rect x="900" y="90" width="160" height="69" rx="13" fill="#0c263b" stroke="#426e94" stroke-opacity=".64"/><text x="920" y="115" font-size="12" fill="#8ec7e3" font-weight="700" class="mono">BUILD STATUS</text><text x="920" y="141" font-size="16" fill="#67e4b9" font-weight="800" >IN PROGRESS</text>
-<rect x="818" y="424" width="228" height="48" rx="12" fill="#111e35" stroke="#5862a4" stroke-opacity=".64"/><text x="838" y="453" font-size="14" fill="#cad7fb" font-weight="700" >DESIGN × ENGINEERING</text>
+<rect x="902" y="78" width="166" height="72" rx="13" fill="#0d273d" stroke="#476e93" stroke-opacity=".64" /><text x="922" y="104" font-size="12" fill="#93cde5" font-weight="720" class="mono">PROFILE MODE</text><text x="922" y="131" font-size="17" fill="#63efd8" font-weight="840" >PROFESSIONAL</text>
 </svg>
