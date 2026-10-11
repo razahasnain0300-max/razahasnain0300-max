@@ -51,3 +51,10 @@ Building websites, web apps, Android apps, desktop software, dashboards, APIs an
 This repository uses a dark design inside the README. To change GitHub's own surrounding interface to dark, open **GitHub Settings → Appearance → Theme preference → Dark**. A README cannot force the global GitHub UI to use dark mode for other visitors.
 
 The public avatar URL in the README points to the current GitHub profile photo. Update your avatar in GitHub Settings if you want the same photo to be used consistently.
+
+
+## Unified purple/cyan client-focused design — 11 October 2026
+
+The public profile now features a matching purple/cyan palette, six client service offerings, a collaboration process, an email quote link and professional project concepts. The 13 illustrative concept images do not show private production dashboards, private source code or customer information.
+
+To change the account sidebar: GitHub **Settings → Public profile**. Suggested short bio: `Full-Stack Developer | Web, Android & Desktop Software | APIs & Automation | Dubai`. Keep business contact details accurate. The visitor controls GitHub's overall website theme.

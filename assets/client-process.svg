@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="279" viewBox="0 0 1120 279" role="img" aria-label="Three-stage software development process"><title>Three-stage software development process</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".55" stop-color="#0B1020"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="edge" x1="0" x2="1"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#1C2043"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".20"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0 H0 V24" fill="none" stroke="#22D3EE" stroke-opacity=".075" stroke-width=".7"/></pattern>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}.float{animation:float 7s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="279" rx="22" fill="url(#bg)"/><rect width="1120" height="279" rx="22" fill="url(#grid)"/>
+<rect x="1" y="1" width="1118" height="277" rx="21" fill="none" stroke="#8B5CF6" stroke-opacity=".40"/>
+<rect x="36" width="196" height="3" rx="1.5" fill="url(#edge)"/><text x="45" y="52" font-size="13" fill="#22D3EE" font-weight="760" class="mono">02 / WORKFLOW</text><text x="45" y="99" font-size="34" fill="#EAF2FF" font-weight="850" >From brief to better software.</text>
+<g class="float" style="animation-delay:0s">
+<rect x="51" y="141" width="324" height="114" rx="15" fill="#03050D" opacity=".7"/>
+<rect x="44" y="132" width="324" height="114" rx="15" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".62"/>
+<text x="61" y="173" font-size="29" fill="#8B5CF6" font-weight="840" class="mono">01</text><text x="116" y="170" font-size="17" fill="#EAF2FF" font-weight="800" >DISCOVER &amp; SCOPE</text>
+<text x="62" y="213" font-size="13" fill="#94A3B8" font-weight="550" >Goals, requirements and priorities.</text>
+</g><g class="float" style="animation-delay:0.35s">
+<rect x="411" y="141" width="324" height="114" rx="15" fill="#03050D" opacity=".7"/>
+<rect x="404" y="132" width="324" height="114" rx="15" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".62"/>
+<text x="421" y="173" font-size="29" fill="#22D3EE" font-weight="840" class="mono">02</text><text x="476" y="170" font-size="17" fill="#EAF2FF" font-weight="800" >DESIGN &amp; BUILD</text>
+<text x="422" y="213" font-size="13" fill="#94A3B8" font-weight="550" >User experience and maintainable code.</text>
+</g><g class="float" style="animation-delay:0.7s">
+<rect x="771" y="141" width="324" height="114" rx="15" fill="#03050D" opacity=".7"/>
+<rect x="764" y="132" width="324" height="114" rx="15" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".62"/>
+<text x="781" y="173" font-size="29" fill="#8B5CF6" font-weight="840" class="mono">03</text><text x="836" y="170" font-size="17" fill="#EAF2FF" font-weight="800" >TEST &amp; DELIVER</text>
+<text x="782" y="213" font-size="13" fill="#94A3B8" font-weight="550" >Review, refine and hand over.</text>
+</g></svg>

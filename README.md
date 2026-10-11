@@ -1,51 +1,74 @@
-<!-- Reel-inspired developer profile for Syed Hasnain Raza. GitHub-safe self-contained SVG/SMIL; no scripts. -->
+<!-- Syed Hasnain Raza — GitHub-safe professional purple/cyan 3D portfolio. No private app source. -->
 <div align="center">
 
-<img src="./assets/reel-terminal.svg?v=1" width="100%" alt="Animated purple-particle portrait transitioning into coding symbol with developer terminal details"/>
+<img src="./assets/reel-terminal.svg?v=7" width="100%" alt="Animated purple particle portrait and developer terminal" />
 
-[**Full portfolio · 13 projects**](./PORTFOLIO.md) &nbsp; | &nbsp; [**Public repositories**](https://github.com/razahasnain0300-max?tab=repositories&type=public) &nbsp; | &nbsp; [**Email**](mailto:razahasnain0300@gmail.com)
+### Software solutions for your business
 
-<img src="./assets/reel-analytics.svg?v=1" width="100%" alt="Verified dated contribution count and repository overview"/>
-<img src="./assets/reel-stack.svg?v=1" width="100%" alt="Software engineering technologies and tools"/>
-<img src="./assets/reel-showcase.svg?v=1" width="100%" alt="Neon portfolio card showcase"/>
+**Websites • Web Apps • Android Apps • Desktop Software • AI & Automation**
+
+[**✉️ Hire Me / Get a Quote**](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry) &nbsp;·&nbsp; [**Explore 13 Projects**](./PORTFOLIO.md) &nbsp;·&nbsp; [**View Public Code**](https://github.com/razahasnain0300-max?tab=repositories&type=public)
+
+<img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
 
 </div>
 
-## ⚡ About me
+## About me
 
-I'm **Syed Hasnain Raza**, a **full-stack developer, IT manager, web engineer, and electronics graduate** working on professional digital products from Dubai.
+I'm **Syed Hasnain Raza**, a Dubai-based **Full-Stack Developer, IT Manager, Web Developer and Electronic Engineer**. I build digital products and software systems for businesses, founders and teams.
 
-I develop **websites, web applications, Android apps, desktop software, e-commerce platforms, dashboards, API integrations, and automation systems**.
+**What I can help you create:** Responsive business websites, e-commerce stores, customer portals, CRM/ERP-style workflows, dashboards, Android apps, desktop utilities, database-backed platforms, APIs and automation tools.
 
-**Focus:** scalable software, thoughtful UI/UX, reliable infrastructure, and practical problem-solving.
+**What matters to me:** Clear requirements, thoughtful UI/UX, maintainable code, testing, and reliable delivery.
 
-## ✦ Project previews
-
-*These visuals are illustrative design concepts, not production screenshots. Private project source code is not contained in this public profile repository.*
-
-| | |
-|:--:|:--:|
-| **GOEV.PK**<br/><img src="./assets/previews/goev.svg?v=2" width="100%" alt="GOEV.PK illustrative concept"/><br/><sub>EV marketplace and charging ecosystem.</sub> | **RehabConnect**<br/><img src="./assets/previews/rehabconnect.svg?v=2" width="100%" alt="RehabConnect illustrative concept"/><br/><sub>Treatment-center and specialist discovery.</sub> |
-| **SYDEX / JAVIZ**<br/><img src="./assets/previews/sydex-javiz.svg?v=2" width="100%" alt="SYDEX / JAVIZ illustrative concept"/><br/><sub>AI desktop assistant and automation.</sub> | **Over The Top CRM**<br/><img src="./assets/previews/overthetop.svg?v=2" width="100%" alt="Over The Top CRM illustrative concept"/><br/><sub>Gym management and device integrations.</sub> |
-| **Gani Designer**<br/><img src="./assets/previews/ganidesigner.svg?v=2" width="100%" alt="Gani Designer illustrative concept"/><br/><sub>Independent e-commerce storefront.</sub> | **Dr. Shoaib Zafar**<br/><img src="./assets/previews/dr-shoaib.svg?v=2" width="100%" alt="Dr. Shoaib Zafar illustrative concept"/><br/><sub>Clinical website and practice systems.</sub> |
-
-[**Explore all 13 projects →**](./PORTFOLIO.md)
-
-## ✦ Real GitHub contributions
-
-The official contribution calendar displayed by GitHub below this README is authoritative. **569 contributions** is a dated screenshot reading from **11 October 2026**, not a claim about today's live total.
-
-## ✦ Public source repositories
-
-- [Interactive 5D/3D ARE Card](https://github.com/razahasnain0300-max/5D-3D-interacting---ARE-Business-Card)
-- [ARE Business Card](https://github.com/razahasnain0300-max/5D-interacting---ARE-Business-Card)
-- [Amaken CEO Dashboard](https://github.com/razahasnain0300-max/amaken-real-estate-ceo)
-- [Amaken Executive Dashboard](https://github.com/razahasnain0300-max/ceo-amaken-realestate)
+If you have a brief, design reference or existing application you want to improve, **[email me your scope and preferred timeline](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry)**.
 
 <div align="center">
 
-**[GitHub](https://github.com/razahasnain0300-max) · [Portfolio](./PORTFOLIO.md) · [Email](mailto:razahasnain0300@gmail.com)**
+<img src="./assets/client-process.svg?v=7" width="100%" alt="Three-stage software project workflow" />
+<img src="./assets/reel-stack.svg?v=7" width="100%" alt="Development technologies and frameworks" />
 
-<sub>Visual recreation inspired by the supplied reel, customized with a portrait sampled from the supplied photo. Some clients may show reduced or static SVG motion; GitHub's site-wide appearance is controlled by each visitor.</sub>
+</div>
+
+## Selected projects
+
+These preview graphics are **illustrative portfolio concepts**, not screenshots or claims of live public demos. Private project source code is not included here.
+
+| | |
+|:--:|:--:|
+| **GOEV.PK**<br/><img src="./assets/previews/goev.svg?v=7" width="100%" alt="goev illustrative portfolio concept"/><br/><sub>Marketplace and mobility platform</sub> | **REHABCONNECT**<br/><img src="./assets/previews/rehabconnect.svg?v=7" width="100%" alt="rehabconnect illustrative portfolio concept"/><br/><sub>Provider and rehabilitation discovery</sub> |
+| **SYDEX / JAVIZ**<br/><img src="./assets/previews/sydex-javiz.svg?v=7" width="100%" alt="sydex-javiz illustrative portfolio concept"/><br/><sub>Local desktop AI assistant</sub> | **OVER THE TOP CRM**<br/><img src="./assets/previews/overthetop.svg?v=7" width="100%" alt="overthetop illustrative portfolio concept"/><br/><sub>Membership and device management</sub> |
+| **GANI DESIGNER**<br/><img src="./assets/previews/ganidesigner.svg?v=7" width="100%" alt="ganidesigner illustrative portfolio concept"/><br/><sub>Independent retail storefront</sub> | **DR. SHOAIB ZAFAR**<br/><img src="./assets/previews/dr-shoaib.svg?v=7" width="100%" alt="dr-shoaib illustrative portfolio concept"/><br/><sub>Clinic website and management</sub> |
+
+**[View all 13 software projects →](./PORTFOLIO.md)**
+
+<div align="center">
+
+<img src="./assets/reel-showcase.svg?v=7" width="100%" alt="Purple cyan project display" />
+<img src="./assets/reel-analytics.svg?v=7" width="100%" alt="GitHub activity and project statistics" />
+
+</div>
+
+## Technologies and professional focus
+
+**Web:** Node.js, React, JavaScript/TypeScript, Tailwind CSS, APIs and integrations.
+
+**Data and tooling:** MySQL, PostgreSQL, Python, Git, testing and deployment workflows.
+
+**Systems:** Websites, web apps, Android solutions, desktop utilities, dashboards, automation and e-commerce.
+
+GitHub's own contribution calendar is the authoritative record. The previously shared **569 contributions** number is a **11 October 2026 screenshot snapshot**, not a live counter or artificially generated activity.
+
+## Work with me
+
+<div align="center">
+
+<img src="./assets/client-contact.svg?v=7" width="100%" alt="Invite clients to request a project quote" />
+
+[**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
+
+<sub>Syed's IT Solution & Digital Marketing Services · Dubai, UAE</sub>
+
+<sub>Design uses self-contained GitHub-safe SVGs. Animation support varies; GitHub's outer light/dark appearance depends on each visitor's settings.</sub>
 
 </div>
