@@ -17,3 +17,27 @@ Existing custom 3D sections and [the 13-project portfolio](../PORTFOLIO.md) are 
 **Limitations:** This is scheduled polling, not instant creation-event detection. GitHub may delay scheduled runs. The repository needs Actions enabled and must permit workflow `contents: write` for automatic push; if those permissions are restricted, the workflow may need an owner setting change.
 
 This automation uses the built-in `GITHUB_TOKEN` only and does not require storing your personal GitHub token.
+
+## Private case studies with explicit approval
+
+New public GitHub repositories appear automatically on a four-hour schedule. New private repositories **do not** appear without explicit approval.
+
+To publish a public-safe private-project description, edit `portfolio/approved_private_projects.json` in this public repository. Provide an approved title, short summary, category, technologies and set `approved_for_public_profile` to `true`. A `public_demo_url` is optional and must be a real, public HTTPS URL.
+
+Example format (fictional demonstration, not a claim about actual client work):
+
+    {
+      "projects": [
+        {
+          "approved_for_public_profile": true,
+          "public_title": "Example Reporting Portal",
+          "public_summary": "A custom reporting dashboard",
+          "category": "Web Application",
+          "technologies": "React, Node.js"
+        }
+      ]
+    }
+
+Never include private GitHub URLs, real client secrets, private credentials, private repository slugs or internal demo links. The sync will build a purple/cyan approved-project card **without** revealing source code. Deleting an entry and re-running the sync removes it.
+
+Your 13 existing showcase concepts, organization-style branding, portrait animation and other README content remain outside the managed sections. GitHub account settings for private contribution visibility must still be enabled by the account owner.

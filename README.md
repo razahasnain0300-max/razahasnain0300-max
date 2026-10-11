@@ -74,6 +74,9 @@ There are no additional **public** repositories currently. New public repositori
 *Updated approximately every 4 hours. Private repositories are never automatically exposed.*
 <!-- PUBLIC-REPO-AUTO:END -->
 
+<!-- APPROVED-CASESTUDIES:START -->
+<!-- APPROVED-CASESTUDIES:END -->
+
 ## Programming languages, technologies and frameworks
 
 | Development category | Technologies and languages |

@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 import re
 from urllib.parse import urlencode, quote
+from approved_projects import load as load_approved, apply as apply_approved
 from urllib.request import Request, urlopen
 
 OWNER = "razahasnain0300-max"
@@ -29,7 +30,7 @@ def md(value):
 def safe_repos(items):
     result = {}
     for r in items:
-        if not isinstance(r, dict) or r.get("private") or r.get("visibility") == "private":
+        if not isinstance(r, dict) or r.get("private") is not False or r.get("visibility", "public") != "public":
             continue
         if (r.get("owner") or {}).get("login", "").lower() != OWNER.lower():
             continue
@@ -155,8 +156,11 @@ def main():
     begin = old.index(START)
     finish = old.index(END, begin) + len(END)
     next_readme = old[:begin] + make_block(repos, digest) + old[finish:]
+    approved_items = load_approved(ROOT / "portfolio" / "approved_private_projects.json")
+    next_readme, approved_art = apply_approved(next_readme, approved_items)
     (ROOT / "assets" / "auto-repos.svg").write_text(svg, encoding="utf-8")
     (ROOT / "AUTO_REPOSITORIES.md").write_text(make_index(repos), encoding="utf-8")
+    (ROOT / "assets" / "approved-case-studies.svg").write_text(approved_art, encoding="utf-8")
     readme_path.write_text(next_readme, encoding="utf-8")
     print("Synchronized", len(repos), "public repositories; private repositories not fetched.")
 

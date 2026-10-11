@@ -8,6 +8,8 @@ on:
     paths:
       - '.github/workflows/sync-public-repos.yml'
       - 'scripts/sync_public_repos.py'
+      - 'scripts/approved_projects.py'
+      - 'portfolio/approved_private_projects.json'
 
 permissions:
   contents: write
@@ -22,6 +24,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Run privacy validation tests
+        run: python3 -m unittest discover -s tests -p 'test_approved_projects.py' -v
       - name: Generate public portfolio
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -29,12 +33,12 @@ jobs:
       - name: Commit updated public repository cards
         shell: bash
         run: |
-          if git diff --quiet -- README.md AUTO_REPOSITORIES.md assets/auto-repos.svg; then
+          git add README.md AUTO_REPOSITORIES.md assets/auto-repos.svg assets/approved-case-studies.svg
+          if git diff --cached --quiet; then
             echo "Nothing to update"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md AUTO_REPOSITORIES.md assets/auto-repos.svg
           git commit -m "chore: refresh public repository showcase [skip ci]"
           git push
