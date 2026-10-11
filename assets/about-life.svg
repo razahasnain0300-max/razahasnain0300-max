@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About - development capabilities and interests" width="900" height="395" viewBox="0 0 900 395">
+<title>About - development capabilities and interests</title>
+<desc>Self-contained GitHub profile artwork for Syed Hasnain Raza. Colors: navy, blue, crimson, white. Animation uses CSS and SMIL where supported.</desc>
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b152b"/><stop offset="1" stop-color="#070b16"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset=".58" stop-color="#8a7eff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14233c" stop-opacity=".85"/><stop offset="1" stop-color="#0d1527" stop-opacity=".94"/></linearGradient>
+ <radialGradient id="blueglow"><stop stop-color="#247bff" stop-opacity=".3"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="redglow"><stop stop-color="#ff354f" stop-opacity=".17"/><stop offset="1" stop-color="#ff354f" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".85" fill="#9cb5ee" opacity=".16"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+ <style>
+ :root{color-scheme:dark}
+ text{font-family:'Segoe UI',Arial,sans-serif}
+ .mono{font-family:Consolas,'Courier New',monospace;letter-spacing:1.4px}
+ .muted{fill:#96a8c6}
+ .rise{animation:rise .9s both}
+ .rise2{animation:rise 1.1s .2s both}
+ .rise3{animation:rise 1.1s .45s both}
+ .pulse{animation:pulse 4s ease-in-out infinite}
+ .float{animation:float 5s ease-in-out infinite}
+ @keyframes rise{0%{opacity:0;transform:translateY(18px)}100%{opacity:1;transform:translateY(0)}}
+ @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+ @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+ </style>
+</defs>
+<rect width="900" height="395" rx="22" fill="url(#base)"/>
+<rect width="900" height="395" rx="22" fill="url(#dots)"/>
+<rect x=".6" y=".6" width="898.8" height="393.8" rx="21" fill="none" stroke="#4263aa" stroke-opacity=".3"/>
+<rect x="30" y="0" width="160" height="3" rx="2" fill="url(#accent)"/>
+<ellipse cx="700" cy="85" rx="220" ry="150" fill="url(#blueglow)"/><text x="48" y="55" fill="#82acff" font-size="13" font-weight="700" class="mono" >01  /  ABOUT &amp; WHAT I BUILD</text><text x="48" y="105" fill="#f5f7ff" font-size="39" font-weight="850" letter-spacing="-1">Code with purpose.</text><text x="48" y="134" fill="#b1c2db" font-size="16" font-weight="450" >Product thinking. Engineering discipline. Thoughtful execution.</text><rect x="45" y="162" width="384" height="190" rx="18" fill="url(#panel)" stroke="#345178" stroke-opacity="0.5" /><text x="67" y="198" fill="#76a7ff" font-size="12" font-weight="700" class="mono" >MY FOCUS</text><circle cx="73" cy="224" r="4" fill="#247bff"/><text x="89" y="229" fill="#f5f7ff" font-size="17" font-weight="700" >Web applications</text><text x="89" y="245" fill="#93a8c9" font-size="11" font-weight="400" >Frontend experiences + backend APIs</text><circle cx="73" cy="266" r="4" fill="#ff354f"/><text x="89" y="271" fill="#f5f7ff" font-size="17" font-weight="700" >Business platforms</text><text x="89" y="287" fill="#93a8c9" font-size="11" font-weight="400" >Dashboards, management &amp; workflows</text><circle cx="73" cy="308" r="4" fill="#247bff"/><text x="89" y="313" fill="#f5f7ff" font-size="17" font-weight="700" >Automation</text><text x="89" y="329" fill="#93a8c9" font-size="11" font-weight="400" >Tools that simplify everyday work</text><rect x="448" y="162" width="406" height="190" rx="18" fill="url(#panel)" stroke="#345178" stroke-opacity="0.5" /><text x="469" y="198" fill="#ff7a8c" font-size="12" font-weight="700" class="mono" >AREAS I KEEP EXPLORING</text><text x="469" y="238" fill="#f5f7ff" font-size="22" font-weight="750" >INTERACTIVE DESIGN</text><text x="469" y="265" fill="#c0cce0" font-size="14" font-weight="400" >3D experiences and motion-led interfaces</text><g opacity="0"><rect x="464" y="208" width="379" height="88" fill="#101b30"/><text x="469" y="238" font-size="22" font-weight="750" fill="#f5f7ff">INTERACTIVE DESIGN</text><text x="469" y="265" font-size="14" fill="#c0cce0">3D experiences and motion-led interfaces</text><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.31;0.34;1" begin="0s" dur="12s" repeatCount="indefinite"/></g><g opacity="0"><rect x="464" y="208" width="379" height="88" fill="#101b30"/><text x="469" y="238" font-size="22" font-weight="750" fill="#f5f7ff">APPLIED AI</text><text x="469" y="265" font-size="14" fill="#c0cce0">Personal assistants and workflow automation</text><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.31;0.34;1" begin="4s" dur="12s" repeatCount="indefinite"/></g><g opacity="0"><rect x="464" y="208" width="379" height="88" fill="#101b30"/><text x="469" y="238" font-size="22" font-weight="750" fill="#f5f7ff">PLATFORM ENGINEERING</text><text x="469" y="265" font-size="14" fill="#c0cce0">Scalable APIs, infrastructure and reliability</text><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.31;0.34;1" begin="8s" dur="12s" repeatCount="indefinite"/></g><rect x="469" y="313" width="104" height="3" rx="2" fill="#247bff" /><rect x="469" y="313" width="104" height="3" rx="2" fill="#2b3955"/><rect x="469" y="313" width="104" height="3" rx="2" fill="#247bff" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.32;.34;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect><rect x="586" y="313" width="104" height="3" rx="2" fill="#2b3955"/><rect x="586" y="313" width="104" height="3" rx="2" fill="#ff354f" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.32;.34;1" dur="12s" begin="4s" repeatCount="indefinite"/></rect><rect x="703" y="313" width="104" height="3" rx="2" fill="#2b3955"/><rect x="703" y="313" width="104" height="3" rx="2" fill="#247bff" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.32;.34;1" dur="12s" begin="8s" repeatCount="indefinite"/></rect></svg>

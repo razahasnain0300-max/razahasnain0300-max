@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Syed Hasnain Raza - Full-Stack Developer - animated introduction" width="900" height="475" viewBox="0 0 900 475">
+<title>Syed Hasnain Raza - Full-Stack Developer - animated introduction</title>
+<desc>Self-contained GitHub profile artwork for Syed Hasnain Raza. Colors: navy, blue, crimson, white. Animation uses CSS and SMIL where supported.</desc>
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b152b"/><stop offset="1" stop-color="#070b16"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset=".58" stop-color="#8a7eff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14233c" stop-opacity=".85"/><stop offset="1" stop-color="#0d1527" stop-opacity=".94"/></linearGradient>
+ <radialGradient id="blueglow"><stop stop-color="#247bff" stop-opacity=".3"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="redglow"><stop stop-color="#ff354f" stop-opacity=".17"/><stop offset="1" stop-color="#ff354f" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".85" fill="#9cb5ee" opacity=".16"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+ <style>
+ :root{color-scheme:dark}
+ text{font-family:'Segoe UI',Arial,sans-serif}
+ .mono{font-family:Consolas,'Courier New',monospace;letter-spacing:1.4px}
+ .muted{fill:#96a8c6}
+ .rise{animation:rise .9s both}
+ .rise2{animation:rise 1.1s .2s both}
+ .rise3{animation:rise 1.1s .45s both}
+ .pulse{animation:pulse 4s ease-in-out infinite}
+ .float{animation:float 5s ease-in-out infinite}
+ @keyframes rise{0%{opacity:0;transform:translateY(18px)}100%{opacity:1;transform:translateY(0)}}
+ @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+ @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+ </style>
+</defs>
+<rect width="900" height="475" rx="22" fill="url(#base)"/>
+<rect width="900" height="475" rx="22" fill="url(#dots)"/>
+<rect x=".6" y=".6" width="898.8" height="473.8" rx="21" fill="none" stroke="#4263aa" stroke-opacity=".3"/>
+<rect x="30" y="0" width="160" height="3" rx="2" fill="url(#accent)"/>
+<ellipse cx="755" cy="198" rx="270" ry="265" fill="url(#blueglow)"/><ellipse cx="855" cy="458" rx="260" ry="180" fill="url(#redglow)"/>
+<g class="rise"><text x="55" y="62" fill="#74a8ff" font-size="12" font-weight="650" class="mono" >// DEVELOPER PROFILE  •  2026</text></g><text x="55" y="128" fill="#d8e5ff" font-size="36" font-weight="750" class="rise" >HEY, I&#x27;M</text><text x="55" y="194" fill="#f5f7ff" font-size="52" font-weight="900" class="rise2" letter-spacing="-1.4">SYED HASNAIN</text><text x="55" y="259" fill="url(#accent)" font-size="72" font-weight="900" class="rise3" letter-spacing="-1.8">RAZA.</text><rect x="56" y="288" width="6" height="36" rx="3" fill="#247bff" class="pulse"/>
+<g class="rise3"><text x="77" y="309" fill="#d4e1f7" font-size="18" font-weight="500" >I build practical digital products,</text><text x="77" y="333" fill="#d4e1f7" font-size="18" font-weight="500" >from responsive UIs to dependable backends.</text></g><g><text x="55" y="390" fill="#8fa6cc" font-size="11" font-weight="700" class="mono" >BUILDING AS</text><text x="55" y="424" fill="#c1d0e5" font-size="23" font-weight="700" >FULL-STACK DEVELOPER</text><text x="55" y="424" fill="#f1f6ff" font-weight="750" font-size="23" opacity="0">FULL-STACK DEVELOPER<animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.22;0.25;0.98;1" dur="16s" begin="0s" repeatCount="indefinite"/></text><text x="55" y="424" fill="#f1f6ff" font-weight="750" font-size="23" opacity="0">IT MANAGER<animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.22;0.25;0.98;1" dur="16s" begin="4s" repeatCount="indefinite"/></text><text x="55" y="424" fill="#f1f6ff" font-weight="750" font-size="23" opacity="0">WEB ENGINEER<animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.22;0.25;0.98;1" dur="16s" begin="8s" repeatCount="indefinite"/></text><text x="55" y="424" fill="#f1f6ff" font-weight="750" font-size="23" opacity="0">AI &amp; AUTOMATION BUILDER<animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.22;0.25;0.98;1" dur="16s" begin="12s" repeatCount="indefinite"/></text></g><circle cx="722" cy="204" r="150" fill="none" stroke="#247bff" stroke-opacity=".25" stroke-width="1.4"/><circle cx="722" cy="204" r="130" fill="none" stroke="#ff354f" stroke-opacity=".3" stroke-dasharray="5 14"/><circle cx="722" cy="204" r="107" fill="#102244" stroke="#759cff" stroke-opacity=".4" stroke-width="2"/><path d="M634 265 Q722 294 810 265" fill="none" stroke="#4f7cce" stroke-width="2" opacity=".35"/><text x="722" y="194" fill="url(#accent)" font-size="85" font-weight="900" text-anchor="middle" letter-spacing="-9">SH</text><text x="722" y="231" fill="#bacbea" font-size="14" font-weight="750" class="mono" text-anchor="middle" >DEVELOPER</text><circle cx="842" cy="88" r="8" fill="#247bff" class="pulse"/><circle cx="575" cy="274" r="5" fill="#ff354f"/><rect x="569" y="370" width="287" height="58" rx="12" fill="#101f39" stroke="#5179aa" stroke-opacity="0.6" /><text x="590" y="392" fill="#a5c3ff" font-size="13" font-weight="700" class="mono" >LOCATION  •  DUBAI, UAE</text><text x="590" y="412" fill="#e5edfd" font-size="13" font-weight="500" >IT Manager  /  Web Developer</text></svg>
