@@ -64,12 +64,14 @@ These preview graphics are **illustrative portfolio concepts**, not screenshots 
 ## Latest public projects · Automatically updated
 
 <div align="center">
-<img src="./assets/auto-repos.svg?v=initial" width="100%" alt="Auto updated purple cyan repository cards"/>
+<img src="./assets/auto-repos.svg?v=311132b909" width="100%" alt="Auto-updated purple and cyan public repository cards"/>
 </div>
 
-New public repositories will appear here approximately every four hours. Private repositories are excluded.
+There are no additional **public** repositories currently. New public repositories will appear automatically after the next sync.
 
-[**View all public repositories →**](./AUTO_REPOSITORIES.md)
+[**View the full public repository list →**](./AUTO_REPOSITORIES.md)
+
+*Updated approximately every 4 hours. Private repositories are never automatically exposed.*
 <!-- PUBLIC-REPO-AUTO:END -->
 
 ## Programming languages, technologies and frameworks

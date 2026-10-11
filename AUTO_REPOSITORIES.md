@@ -2,4 +2,6 @@
 
 [← Main Profile](./README.md) · [Curated Portfolio](./PORTFOLIO.md)
 
-There are currently no additional public repositories to list. The profile repository itself is excluded. Private application repository data is never automatically exposed.
+This index automatically refreshes from public GitHub repository metadata. Private repository names and descriptions are excluded.
+
+No additional public repositories. The profile repository itself is intentionally excluded.
