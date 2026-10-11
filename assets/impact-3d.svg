@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="245" viewBox="0 0 1120 245" role="img" aria-label="GitHub activity and project portfolio at a glance"><title>GitHub activity and project portfolio at a glance</title><defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#08192c"/><stop offset=".55" stop-color="#091321"/><stop offset="1" stop-color="#11152a"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop stop-color="#28d9d1"/><stop offset=".53" stop-color="#73a7ff"/><stop offset="1" stop-color="#c28aff"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2=".75" y2="1"><stop stop-color="#193a53"/><stop offset="1" stop-color="#101c32"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#1b8fd4" stop-opacity=".27"/><stop offset="1" stop-color="#1b8fd4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#6da7d9" stroke-opacity=".11" stroke-width=".7"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:'Consolas','Courier New',monospace}.float{animation:float 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.shimmer{animation:shimmer 5s ease-in-out infinite}.up{animation:up .9s both}.del{animation:up 1s .24s both}.spin{animation:rotate 27s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}@keyframes shimmer{0%,100%{opacity:.35}50%{opacity:.9}}@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}@keyframes rotate{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="245" rx="22" fill="url(#bg)"/><rect width="1120" height="245" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="243" rx="21" fill="none" stroke="#4f80a6" stroke-opacity=".35"/><rect x="36" y="0" width="205" height="3" rx="2" fill="url(#shine)"/>
+<text x="48" y="51" font-size="13" fill="#59e7db" font-weight="730" class="mono">02 / REAL ACTIVITY</text>
+<text x="48" y="99" font-size="35" fill="#f1f7ff" font-weight="850" >Build history, not invented numbers.</text>
+<g class="float" style="animation-delay:0s">
+<rect x="51" y="120" width="314" height="101" rx="15" fill="#10263c" stroke="#319eaa" stroke-opacity=".64"/>
+<text x="71" y="166" font-size="39" fill="#5eeddc" font-weight="880" >569</text>
+<text x="163" y="157" font-size="13" fill="#d3e6f4" font-weight="770" class="mono">CONTRIBUTIONS</text>
+<text x="71" y="199" font-size="13" fill="#96acc6" font-weight="540" >Last year · screenshot 11 Oct 2026</text>
+</g><g class="float" style="animation-delay:0.33s">
+<rect x="408" y="120" width="314" height="101" rx="15" fill="#10263c" stroke="#4c678b" stroke-opacity=".64"/>
+<text x="428" y="166" font-size="39" fill="#e6ecff" font-weight="880" >13</text>
+<text x="520" y="157" font-size="13" fill="#d3e6f4" font-weight="770" class="mono">PROJECT REPOSITORIES</text>
+<text x="428" y="199" font-size="13" fill="#96acc6" font-weight="540" >4 public + 9 private at audit</text>
+</g><g class="float" style="animation-delay:0.66s">
+<rect x="765" y="120" width="314" height="101" rx="15" fill="#10263c" stroke="#4c678b" stroke-opacity=".64"/>
+<text x="785" y="166" font-size="39" fill="#e6ecff" font-weight="880" >100%</text>
+<text x="877" y="157" font-size="13" fill="#d3e6f4" font-weight="770" class="mono">SOURCE-CODE CONTROL</text>
+<text x="785" y="199" font-size="13" fill="#96acc6" font-weight="540" >Public preview ≠ public source</text>
+</g>
+</svg>

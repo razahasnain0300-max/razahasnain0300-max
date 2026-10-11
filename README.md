@@ -1,31 +1,42 @@
-<!-- Animated developer profile based on the GitHub Profile Playbook; all content and artwork customized. -->
+<!-- GitHub profile art by Syed Hasnain Raza. Public artwork only — no private application source. -->
 <div align="center">
 
-![Intro](./assets/hero.svg?v=1)
+<img src="./assets/hero-3d.svg?v=2" width="100%" alt="3D developer welcome to Syed Hasnain Raza">
 
-![About and what I build](./assets/about-life.svg?v=1)
+[**Explore all 13 projects**](./PORTFOLIO.md) &nbsp;·&nbsp; [**Contributions**](https://github.com/razahasnain0300-max?tab=overview) &nbsp;·&nbsp; [**Contact**](mailto:razahasnain0300@gmail.com)
 
-![Tech stack](./assets/stack.svg?v=1)
-
-![Developer ID](./assets/id-dashboard.svg?v=1)
+<img src="./assets/skills-3d.svg?v=2" width="100%" alt="Full-stack technology stack">
+<img src="./assets/impact-3d.svg?v=2" width="100%" alt="Dated genuine GitHub profile statistics">
 
 </div>
 
-### Selected public projects
+## ✦ Selected work
 
-| Project | What it does |
-| :-- | :-- |
-| [Interactive ARE Business Card](https://github.com/razahasnain0300-max/5D-3D-interacting---ARE-Business-Card) | Interactive 5D/3D business card with floating cubes, profile information, animation and vCard export. |
-| [ARE Business Card](https://github.com/razahasnain0300-max/5D-interacting---ARE-Business-Card) | Personal developer portfolio and business-card project demonstrating web development and UI/UX work. |
-| [Amaken CEO Dashboard](https://github.com/razahasnain0300-max/amaken-real-estate-ceo) | Executive dashboard for property, sales, leads and business-performance insights. |
-| [Amaken Executive Dashboard](https://github.com/razahasnain0300-max/ceo-amaken-realestate) | Property management and performance analytics for real-estate leadership. |
+*Preview-only imagery below is illustrative concept art. It is not a claim of live product UI or a link to private source code.*
+
+| | |
+|:--:|:--:|
+| <strong>GOEV.PK</strong><br/><img src="./assets/previews/goev.svg?v=2" width="100%" alt="GOEV.PK concept preview"><br/><sub>EV marketplace, charging and automotive ecosystem.</sub> | <strong>REHABCONNECT</strong><br/><img src="./assets/previews/rehabconnect.svg?v=2" width="100%" alt="REHABCONNECT concept preview"><br/><sub>Find care providers, centers and recovery services.</sub> |
+| <strong>SYDEX / JAVIZ</strong><br/><img src="./assets/previews/sydex-javiz.svg?v=2" width="100%" alt="SYDEX / JAVIZ concept preview"><br/><sub>Desktop AI command center and interactive assistant.</sub> | <strong>OVERTHE TOP CRM</strong><br/><img src="./assets/previews/overthetop.svg?v=2" width="100%" alt="OVERTHE TOP CRM concept preview"><br/><sub>Gym customer management and device integrations.</sub> |
+| <strong>GANI DESIGNER</strong><br/><img src="./assets/previews/ganidesigner.svg?v=2" width="100%" alt="GANI DESIGNER concept preview"><br/><sub>Independent retail and design-oriented storefront.</sub> | <strong>DR. SHOAIB ZAFAR</strong><br/><img src="./assets/previews/dr-shoaib.svg?v=2" width="100%" alt="DR. SHOAIB ZAFAR concept preview"><br/><sub>Clinical website and practice administration.</sub> |
+
 
 <div align="center">
 
-![Connect](./assets/connect.svg?v=1)
+**[See the complete portfolio →](./PORTFOLIO.md)**
 
-[**GitHub Profile**](https://github.com/razahasnain0300-max) &nbsp; • &nbsp; [**Public Repositories**](https://github.com/razahasnain0300-max?tab=repositories&type=public) &nbsp; • &nbsp; [**Contribution Activity**](https://github.com/razahasnain0300-max?tab=overview)
+The portfolio includes all 13 project repositories, with private-source projects represented by non-sensitive overview cards.
+
+<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Animated developer identity badge">
+
+### Real contributions
+
+GitHub renders the **official contribution graph below this profile README**. The snapshot above shows **569 contributions in the preceding year as displayed on 11 October 2026**; this number is dated, not live.
+
+<img src="./assets/connect-3d.svg?v=2" width="100%" alt="Contact and connect">
+
+[**GitHub**](https://github.com/razahasnain0300-max) &nbsp;·&nbsp; [**Email**](mailto:razahasnain0300@gmail.com) &nbsp;·&nbsp; [**Portfolio overview**](./PORTFOLIO.md)
+
+<sub>GitHub-friendly self-contained SVG artwork. Dimension is illustrated through SVG geometry; animation depends on your GitHub client and accessibility settings.</sub>
 
 </div>
-
-<sub>Built with self-contained SVG artwork and native CSS/SMIL animation. Motion may vary by GitHub client or reduced-motion settings.</sub>

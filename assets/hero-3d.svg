@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="520" viewBox="0 0 1120 520" role="img" aria-label="Syed Hasnain Raza — 3D developer profile"><title>Syed Hasnain Raza — 3D developer profile</title><defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#08192c"/><stop offset=".55" stop-color="#091321"/><stop offset="1" stop-color="#11152a"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop stop-color="#28d9d1"/><stop offset=".53" stop-color="#73a7ff"/><stop offset="1" stop-color="#c28aff"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2=".75" y2="1"><stop stop-color="#193a53"/><stop offset="1" stop-color="#101c32"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#1b8fd4" stop-opacity=".27"/><stop offset="1" stop-color="#1b8fd4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#6da7d9" stroke-opacity=".11" stroke-width=".7"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:'Consolas','Courier New',monospace}.float{animation:float 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.shimmer{animation:shimmer 5s ease-in-out infinite}.up{animation:up .9s both}.del{animation:up 1s .24s both}.spin{animation:rotate 27s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}@keyframes shimmer{0%,100%{opacity:.35}50%{opacity:.9}}@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}@keyframes rotate{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="520" rx="22" fill="url(#bg)"/><rect width="1120" height="520" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="518" rx="21" fill="none" stroke="#4f80a6" stroke-opacity=".35"/><rect x="36" y="0" width="205" height="3" rx="2" fill="url(#shine)"/>
+<ellipse cx="853" cy="240" rx="275" ry="270" fill="url(#halo)"/>
+<text x="60" y="63" font-size="13" fill="#58e9e1" font-weight="700" class="mono">// SOFTWARE ENGINEERING • PRODUCT DEVELOPMENT</text>
+<text x="60" y="155" font-size="65" fill="#f2f7ff" font-weight="850" class="up" letter-spacing="-2">SYED HASNAIN</text>
+<text x="60" y="236" fill="url(#shine)" font-size="91" font-weight="900" letter-spacing="-3" class="del">RAZA.</text>
+<text x="62" y="280" font-size="18" fill="#bdcde1" font-weight="500" >Full-Stack Developer  /  IT Manager</text><text x="62" y="309" font-size="18" fill="#bdcde1" font-weight="500" >Building dependable web platforms, AI tools</text><text x="62" y="338" font-size="18" fill="#bdcde1" font-weight="500" >and distinctive interactive experiences.</text>
+<rect x="60" y="390" width="158" height="46" rx="10" fill="#10273d" stroke="#347d82" stroke-opacity=".64"/><text x="83" y="420" font-size="18" fill="#58e9d8" font-weight="750" >NODE.JS</text>
+<rect x="230" y="390" width="140" height="46" rx="10" fill="#10273d" stroke="#347d82" stroke-opacity=".64"/><text x="259" y="420" font-size="18" fill="#b6d8ff" font-weight="750" >REACT</text>
+<rect x="382" y="390" width="141" height="46" rx="10" fill="#10273d" stroke="#347d82" stroke-opacity=".64"/><text x="407" y="420" font-size="18" fill="#d3d9ff" font-weight="750" >MYSQL</text>
+<text x="60" y="484" font-size="13" fill="#8ea9c7" font-weight="700" class="mono">DUBAI, UAE  •  BUILD · DESIGN · SHIP</text>
+<g transform="translate(792 263)" class="float">
+<ellipse cx="0" cy="29" rx="250" ry="85" fill="#070e1a" opacity=".7"/>
+<ellipse cx="0" cy="0" rx="230" ry="102" fill="none" stroke="#38b3db" stroke-opacity=".4" stroke-dasharray="7 11" transform="rotate(-22)"/>
+<ellipse cx="0" cy="0" rx="177" ry="164" fill="none" stroke="#a080ef" stroke-opacity=".26" stroke-dasharray="4 11" class="spin"/>
+<path d="M-160 -98 L38 -168 L204 -86 L3 -15 Z" fill="#22517a" stroke="#7cd9ef" stroke-opacity=".9"/>
+<path d="M-160 -98 L3 -15 L3 142 L-160 55 Z" fill="#0d2f51" stroke="#467bb7"/>
+<path d="M3 -15 L204 -86 L204 70 L3 142 Z" fill="#172747" stroke="#527db7"/>
+<path d="M-135 -70 L20 -121 L158 -65 L0 -8 Z" fill="#06172c" stroke="#7bd9e5" stroke-width="1.2"/>
+<path d="M-123 -58 L-40 -85" stroke="#36d5d2" stroke-width="5" stroke-linecap="round"/>
+<path d="M-123 -39 L-17 -74" stroke="#7c91e4" stroke-width="4" stroke-linecap="round"/>
+<path d="M-123 -21 L-70 -37" stroke="#bc7cff" stroke-width="4" stroke-linecap="round"/>
+<path d="M-127 -32 L-127 30 L-26 79 L-26 20 Z" fill="#112843" stroke="#58ddf0" stroke-opacity=".52"/>
+<text x="-119" y="-4" font-size="28" fill="#42eadb" font-weight="800" >&lt;&gt;</text><text x="-117" y="20" font-size="11" fill="#bddeef" font-weight="700" >DEV</text>
+<path d="M40 18 L162 -26 L162 23 L40 71 Z" fill="#0a273e" stroke="#4e88b6" stroke-opacity=".8"/>
+<path d="M52 43 L85 30 L108 36 L137 5" fill="none" stroke="#47e7c7" stroke-width="4" stroke-linecap="round"/>
+<circle cx="40" cy="18" r="5" fill="#35f3dd"/><circle cx="162" cy="-26" r="5" fill="#ab87ff"/>
+</g>
+<rect x="900" y="90" width="160" height="69" rx="13" fill="#0c263b" stroke="#426e94" stroke-opacity=".64"/><text x="920" y="115" font-size="12" fill="#8ec7e3" font-weight="700" class="mono">BUILD STATUS</text><text x="920" y="141" font-size="16" fill="#67e4b9" font-weight="800" >IN PROGRESS</text>
+<rect x="818" y="424" width="228" height="48" rx="12" fill="#111e35" stroke="#5862a4" stroke-opacity=".64"/><text x="838" y="453" font-size="14" fill="#cad7fb" font-weight="700" >DESIGN × ENGINEERING</text>
+</svg>
