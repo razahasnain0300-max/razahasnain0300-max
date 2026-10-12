@@ -246,7 +246,7 @@ def block(items, full=False):
             "New private projects require individual permission before their metadata can be shown.",
             PORT_END,
         ])
-    first = items[:6]
+    first = items[:8]
     new_count = len([x for x in items if x["source"]!="curated"])
     return "\n".join([
         START,
