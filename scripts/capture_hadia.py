@@ -5,6 +5,8 @@ Only fixed public routes on hadia-collection.online. No forms, login, admin or p
 Source software repo and website production deployment are never modified.
 """
 from __future__ import annotations
+
+# Screenshots are public read-only previews; never link them to the store or source.
 import json
 import re
 from pathlib import Path
