@@ -10,10 +10,44 @@
     },
     {
       "title": "DR. SHOAIB ZAFAR",
-      "summary": "Real psychiatry website design, educational content and public information",
-      "category": "Healthcare platform",
+      "summary": "Psychiatry and mental-health website with specialist pathways, articles, research and appointment services",
+      "category": "Healthcare Website / Clinic Platform",
       "image": "assets/previews/dr-shoaib-live.png",
-      "preview_kind": "real_website_screenshot"
+      "preview_kind": "real_website_screenshot",
+      "website_type": "Psychiatry Clinic Website · CMS · Patient Services",
+      "short_description": "Professional psychiatry website with care pathways, appointment access, specialist information and educational resources.",
+      "description": "A multi-module psychiatry website and clinic system with public mental-health content, adult and child psychiatry pathways, recovery guidance, telepsychiatry information, research and articles. The private application also includes editorial, patient and clinic-management tools.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "TanStack Start",
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Tailwind CSS"
+      ],
+      "features": [
+        "👨‍⚕️ Doctor Profile",
+        "🧠 Adult Psychiatry",
+        "🧒 Child & Adolescent Care",
+        "🧭 Recovery Pathways",
+        "🧩 Addiction Information",
+        "💬 Psychotherapy Services",
+        "💻 Telepsychiatry",
+        "📰 Mental-Health Articles",
+        "🔬 Research & Insights",
+        "📅 Appointment Access",
+        "📚 Treatment Information",
+        "🔎 Service Discovery",
+        "📱 Responsive Website",
+        "📝 Content Management",
+        "✅ Editorial Review",
+        "👤 Patient Portal",
+        "👩‍⚕️ Doctor Portal",
+        "🏥 Clinic Administration",
+        "📦 MediStock / Inventory",
+        "🔐 Role-Based Access"
+      ]
     },
     {
       "title": "GANI DESIGNER",

@@ -100,5 +100,22 @@ class ProjectGalleryTests(unittest.TestCase):
         self.assertNotIn("<a ", markup)
         self.assertNotIn("rehabconnect.pk/", markup)
 
+
+    def test_dr_shoaib_rich_website_preview_is_not_linked(self):
+        from build_project_gallery import ROOT, load_curated, card_text
+        matches = [x for x in load_curated(ROOT / "portfolio" / "curated_projects.json")
+                   if x["title"] == "DR. SHOAIB ZAFAR"]
+        self.assertEqual(len(matches), 1)
+        item = matches[0]
+        self.assertEqual(item["preview_kind"], "real_website_screenshot")
+        self.assertIn("React", item["technologies"])
+        self.assertIn("MySQL", item["technologies"])
+        self.assertIn("Recovery Pathways", " ".join(item["features"]))
+        markup = card_text(item)
+        self.assertIn("BUILT WITH", markup)
+        self.assertIn("<kbd>React</kbd>", markup)
+        self.assertNotIn("<a ", markup)
+        self.assertNotIn("drshoaibpsychiatrist.com", markup)
+
 if __name__ == "__main__":
     unittest.main()
