@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="430" viewBox="0 0 1120 430" role="img" aria-label="Animated developer whoami terminal and professional agency capabilities"><title>Animated developer whoami terminal and professional agency capabilities</title>
+<defs>
+<linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".52" stop-color="#0B1020"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#1B2443"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#8B5CF6" stop-opacity=".30"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0 H0 V28" fill="none" stroke="#22D3EE" stroke-opacity=".075" stroke-width=".8"/></pattern>
+<style>
+.mono{font-family:Consolas,'Courier New',monospace!important}.float{animation:floating 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulsing 4s ease-in-out infinite}.blink{animation:blink 1.3s steps(1,end) infinite}
+@keyframes floating{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}@keyframes pulsing{0%,100%{opacity:.4}50%{opacity:1}}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<rect width="1120" height="430" rx="21" fill="url(#dark)"/><rect width="1120" height="430" rx="21" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="428" rx="20" fill="none" stroke="#8B5CF6" stroke-opacity=".49"/>
+<rect x="38" width="210" height="3" rx="2" fill="url(#edge)"/>
+
+<ellipse cx="986" cy="203" rx="300" ry="255" fill="url(#glow)"/>
+<text x="47" y="56" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="760" fill="#22D3EE" class="mono">IDENTITY / DEVELOPER TERMINAL</text>
+<text x="47" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="860" fill="#EAF2FF" >A team built for real-world software.</text>
+<rect x="45" y="137" width="641" height="257" rx="16" fill="#0B1020" stroke="#8B5CF6" stroke-opacity=".67"/>
+<rect x="46" y="138" width="639" height="39" rx="15" fill="#101A2E"/>
+<circle cx="65" cy="157" r="5" fill="#8B5CF6"/><circle cx="84" cy="157" r="5" fill="#22D3EE"/><circle cx="103" cy="157" r="5" fill="#C4B5FD"/>
+<text x="132" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="590" fill="#C4B5FD" class="mono">agency / developer-profile.sh</text>
+<text x="66" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#22D3EE" class="mono">$ whoami</text>
+<text x="66" y="234" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="650" fill="#EAF2FF" class="mono">Syed's IT Solution &amp; Digital Marketing Services</text>
+<text x="66" y="271" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#22D3EE" class="mono">$ leadership</text>
+<text x="66" y="300" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#EAF2FF" class="mono">Syed Hasnain Raza · Technical Lead</text>
+<text x="66" y="334" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#22D3EE" class="mono">$ focus</text>
+<text x="66" y="365" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#EAF2FF" class="mono">Web / Apps / Desktop / APIs / Automation</text>
+<rect x="625" y="348" width="8" height="21" fill="#22D3EE" class="blink"/>
+<path d="M722 153 l340 -12 l14 15 l-340 14 Z" fill="#22D3EE" fill-opacity=".18"/><rect x="717" y="146" width="360" height="256" rx="16" fill="#030511" opacity=".7"/><rect x="712" y="138" width="360" height="256" rx="16" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".64"/>
+<text x="735" y="173" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="720" fill="#22D3EE" class="mono">// CLIENT READY</text>
+<text x="735" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="830" fill="#EAF2FF" >DESIGN</text>
+<text x="735" y="261" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="830" fill="#C4B5FD" >DEVELOP</text>
+<text x="735" y="304" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="830" fill="#22D3EE" >DELIVER</text>
+<text x="735" y="342" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="550" fill="#94A3B8" >Websites · Software · Systems</text>
+<text x="735" y="370" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="550" fill="#94A3B8" >Dubai, UAE / Remote projects</text>
+</svg>

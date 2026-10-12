@@ -34,6 +34,19 @@
 
 </div>
 
+## Inspired developer interface
+
+Built in the same purple/cyan brand identity, these panels combine an animated terminal introduction, technology toolbox and an illustrative category map. They represent the team and its service scope, not made-up technical ratings.
+
+<div align="center">
+
+<img src="./assets/reference-whoami.svg?v=9" width="100%" alt="Animated whoami terminal for Syed's IT Solution development team"/>
+<img src="./assets/reference-toolbox.svg?v=9" width="100%" alt="Fourteen professional development technologies in animated toolbox cards"/>
+<img src="./assets/reference-skill-radars.svg?v=9" width="100%" alt="Illustrative software engineering and delivery category radar charts"/>
+
+
+</div>
+
 <div align="center">
 
 <img src="./assets/client-process.svg?v=7" width="100%" alt="Three-stage software project workflow" />
@@ -57,6 +70,8 @@ These preview graphics are **illustrative portfolio concepts**, not screenshots 
 
 <img src="./assets/reel-showcase.svg?v=7" width="100%" alt="Purple cyan project display" />
 <img src="./assets/reel-analytics.svg?v=7" width="100%" alt="GitHub activity and project statistics" />
+<img src="./assets/reference-metrics.svg?v=9" width="100%" alt="Factual project showcase, service categories and privacy-first presentation" />
+<img src="./assets/reference-iso-activity.svg?v=9" width="100%" alt="Isometric software building illustration clearly distinguished from GitHub's official contribution graph" />
 
 </div>
 
