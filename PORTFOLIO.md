@@ -26,7 +26,7 @@ Newest discoverable repositories appear first. The remaining private-source proj
 <table>
 <tr>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-live.png" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b> · Healthcare platform</sub></td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
@@ -56,6 +56,26 @@ Newest discoverable repositories appear first. The remaining private-source proj
 
 New public repositories appear at the next hourly GitHub Action refresh. New private projects require individual permission before their metadata can be shown.
 <!-- AUTO-FULL-GALLERY:END -->
+
+<!-- DR-SHOAIB-PUBLIC-PAGES:START -->
+## Dr. Shoaib Zafar · Actual public website pages
+
+These are **real screenshots of public webpages**, not design concepts. The preview images do **not redirect** to the website or private GitHub repository.
+
+**Homepage**
+
+<img src="./assets/previews/dr-shoaib-home.png" width="100%" alt="Real public Dr Shoaib Zafar Homepage page screenshot" />
+
+**Why Dr. Shoaib?**
+
+<img src="./assets/previews/dr-shoaib-why.png" width="100%" alt="Real public Dr Shoaib Zafar Why Dr. Shoaib? page screenshot" />
+
+**Mental Health Articles**
+
+<img src="./assets/previews/dr-shoaib-blog.png" width="100%" alt="Real public Dr Shoaib Zafar Mental Health Articles page screenshot" />
+
+*Screenshots refresh on the weekly workflow; the live page may change in between.*
+<!-- DR-SHOAIB-PUBLIC-PAGES:END -->
 
 ## Source code, examples and confidentiality
 

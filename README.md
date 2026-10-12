@@ -82,7 +82,7 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 <table>
 <tr>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-live.png" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b> · Healthcare platform</sub></td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>

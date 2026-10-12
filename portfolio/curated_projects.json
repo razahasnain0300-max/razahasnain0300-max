@@ -10,9 +10,10 @@
     },
     {
       "title": "DR. SHOAIB ZAFAR",
-      "summary": "Clinical website and practice management",
+      "summary": "Real psychiatry website design, educational content and public information",
       "category": "Healthcare platform",
-      "image": "assets/previews/dr-shoaib.svg"
+      "image": "assets/previews/dr-shoaib-live.png",
+      "preview_kind": "real_website_screenshot"
     },
     {
       "title": "GANI DESIGNER",
