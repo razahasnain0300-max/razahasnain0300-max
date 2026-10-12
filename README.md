@@ -73,19 +73,30 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 <!-- AUTO-PROJECT-GALLERY:START -->
 ## Our latest software projects
 
-**14 showcased projects** · Newest additions first · Automatically refreshed
+**14 showcased projects** · Latest additions first · Live public-repository discovery
 
-<div align="center"><img src="./assets/project-gallery-header.svg" width="100%" alt="Latest software work, newest first"/></div>
+<div align="center">
+<img src="./assets/project-gallery-header.svg" width="100%" alt="Latest team software projects, automatically indexed, with new projects featured first"/>
+</div>
 
 <table>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED'S COLLECTION illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Retail</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td></tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED&#x27;S COLLECTION visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Retail</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td>
+</tr>
 </table>
 
 **[Explore all 14 projects and case studies →](./PORTFOLIO.md)**
 
-*The counter reflects public projects and approved private-source showcases, not undisclosed private repositories. Newly created public repositories are detected hourly.*
+*Project count is generated from public repositories and approved showcases; it is not a claim about undisclosed private projects. Public repositories refresh hourly. Private sources are not linked.*
 <!-- AUTO-PROJECT-GALLERY:END -->
 
 <!-- PURPLE-SNAKE:START -->

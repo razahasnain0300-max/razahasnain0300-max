@@ -19,21 +19,42 @@ An automatically maintained project gallery, backed by approved, privacy-conscio
 <!-- AUTO-FULL-GALLERY:START -->
 ## Project gallery · Newest first
 
-**14 showcased projects** · 0 public-source repositories · 14 curated private-source concept previews
+**14 showcased projects** · 0 public-source repositories · 14 approved private-source previews
 
-Newest verified public repositories will appear ahead of these intentionally curated private-source previews. Private creation dates are not disclosed or inferred.
+Newest discoverable repositories appear first. The remaining private-source projects follow an intentionally curated order; their exact creation dates are not publicly verified.
 
 <table>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED'S COLLECTION illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Retail</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect.svg" width="100%" alt="REHABCONNECT illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/fatima.svg" width="100%" alt="FATIMA BOUTIQUE illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/goev.svg" width="100%" alt="GOEV.PK illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Marketplace</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-exec.svg" width="100%" alt="AMAKEN EXECUTIVE illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-ceo.svg" width="100%" alt="AMAKEN CEO illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td></tr>
-<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/are-3d.svg" width="100%" alt="ARE 5D / 3D CARD illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/are-card.svg" width="100%" alt="ARE BUSINESS CARD illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td></tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED&#x27;S COLLECTION visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Retail</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect.svg" width="100%" alt="REHABCONNECT visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/fatima.svg" width="100%" alt="FATIMA BOUTIQUE visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/goev.svg" width="100%" alt="GOEV.PK visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Marketplace</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-exec.svg" width="100%" alt="AMAKEN EXECUTIVE visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-ceo.svg" width="100%" alt="AMAKEN CEO visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/are-3d.svg" width="100%" alt="ARE 5D / 3D CARD visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/are-card.svg" width="100%" alt="ARE BUSINESS CARD visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td>
+</tr>
 </table>
 
-Public projects are detected automatically. Private showcases require approval before public display.
+New public repositories appear at the next hourly GitHub Action refresh. New private projects require individual permission before their metadata can be shown.
 <!-- AUTO-FULL-GALLERY:END -->
 
 ## Source code, examples and confidentiality
