@@ -92,6 +92,10 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 <td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="REHABCONNECT visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b> · Healthcare Discovery Platform</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
+</tr>
 </table>
 
 **[Explore all 14 projects and case studies →](./PORTFOLIO.md)**
