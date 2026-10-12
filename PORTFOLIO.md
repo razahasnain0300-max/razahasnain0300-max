@@ -78,15 +78,33 @@ These are **real screenshots of public webpages**, not design concepts. The prev
 <!-- DR-SHOAIB-PUBLIC-PAGES:END -->
 
 <!-- REHABCONNECT-PUBLIC-PAGES:START -->
-## RehabConnect — real public website previews
+## RehabConnect — Healthcare Discovery & Facility Operations
 
-These are screenshots from the **actual publicly accessible website**, not illustrative dashboards. **Preview images are not links** to the website or the private GitHub source repository.
+**Platform type:** Healthcare Directory · Rehab Finder · Facility Operations
 
-**Landing page and selected public screens**
+**Short description:** Find rehabilitation centres and mental-health professionals, compare services and access recovery resources.
+
+**Project overview:** A multi-portal healthcare discovery and facility-operations platform. Public pages offer rehabilitation and professional directories, city/town search, centre comparisons and mental-health resources. Separate private tools support facility staff and admission workflows.
+
+**PUBLIC EXPERIENCE · FEATURE BADGES**
+
+<kbd>🏥 Rehab Centre Directory</kbd> <kbd>🩺 Professional Profiles</kbd> <kbd>🔎 Smart Care Finder</kbd> <kbd>📍 City & Town Filters</kbd> <kbd>⚖️ Centre Comparison</kbd> <kbd>🧭 Care Matcher</kbd> <kbd>📚 Recovery Resources</kbd> <kbd>🧪 Research & Insights</kbd> <kbd>👨‍👩‍👧 Family Support</kbd> <kbd>📝 Health Articles</kbd> <kbd>🏢 Facility Onboarding</kbd> <kbd>📅 Appointment Flows</kbd> <kbd>💻 Responsive Web Platform</kbd>
+
+**FACILITY OPERATIONS · PRIVATE WORKFLOWS**
+
+<kbd>🔐 Role-Based Admin</kbd> <kbd>🛏️ Inpatient Management</kbd> <kbd>📊 Facility Reporting</kbd> <kbd>👥 Staff Portals</kbd> <kbd>🗂️ Content Management</kbd>
+
+**TECHNOLOGY STACK**
+
+<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>TanStack Start</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd> <kbd>Tailwind CSS</kbd>
+
+*The public features reflect site pages; staff, admissions and operations functions are high-level capabilities found in the private application, not screenshots of live patient or administration data.*
+
+**Website screenshot previews — no external redirects**
 
 <img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="Real RehabConnect homepage with selected public-page previews" />
 
-### Selected website pages
+### Selected Public Website Pages
 
 <table>
 <tr>
@@ -111,7 +129,7 @@ These are screenshots from the **actual publicly accessible website**, not illus
 </tr>
 </table>
 
-*Only approved, anonymous public-facing website pages are captured. No patient portal, staff dashboard, forms or private data are included. The screenshots refresh weekly; live pages can change between captures.*
+*Only approved, anonymous public-facing website pages are captured. No patient portal, staff dashboard, forms or private data are included. The screenshots refresh weekly; live pages can change between captures. Features are project capabilities, not claims of external clinical verification.*
 <!-- REHABCONNECT-PUBLIC-PAGES:END -->
 
 <!-- HADIA-COLLECTION-PUBLIC-PAGES:START -->
