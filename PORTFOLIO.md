@@ -25,32 +25,32 @@ Newest discoverable repositories appear first. The remaining private-source proj
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-live.png" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b> · Healthcare platform</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>MedBoostPro</strong><br/><sub><b>TYPE:</b> Healthcare / Education</sub><br/><sub>Medical education and software platform concept</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-live.png" width="100%" alt="DR. SHOAIB ZAFAR visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b></sub><br/><strong>DR. SHOAIB ZAFAR</strong><br/><sub><b>TYPE:</b> Healthcare platform</sub><br/><sub>Real psychiatry website design, educational content and public information</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED&#x27;S COLLECTION visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Retail</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>GANI DESIGNER</strong><br/><sub><b>TYPE:</b> E-commerce</sub><br/><sub>Independent retail storefront</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED&#x27;S COLLECTION visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>SYED&#x27;S COLLECTION</strong><br/><sub><b>TYPE:</b> Retail</sub><br/><sub>Retail storefront and order-management concept</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>OVER THE TOP CRM</strong><br/><sub><b>TYPE:</b> CRM / Operations</sub><br/><sub>Gym memberships and device-integrated management</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>SYDEX / JAVIZ</strong><br/><sub><b>TYPE:</b> Desktop / AI</sub><br/><sub>Desktop AI assistant and automation concept</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="REHABCONNECT visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b> · Healthcare Discovery Platform</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="REHABCONNECT visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b></sub><br/><strong>REHABCONNECT</strong><br/><sub><b>TYPE:</b> Healthcare Discovery Platform</sub><br/><sub>Real public rehab finder, rehabilitation directory, professional discovery and resources</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>HADIA &amp; TAHA</strong><br/><sub><b>TYPE:</b> E-commerce</sub><br/><sub>Fashion shopping and order management</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/fatima.svg" width="100%" alt="FATIMA BOUTIQUE visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/goev.svg" width="100%" alt="GOEV.PK visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Marketplace</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/fatima.svg" width="100%" alt="FATIMA BOUTIQUE visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>FATIMA BOUTIQUE</strong><br/><sub><b>TYPE:</b> E-commerce</sub><br/><sub>Fashion storefront and digital shopping</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/goev.svg" width="100%" alt="GOEV.PK visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>GOEV.PK</strong><br/><sub><b>TYPE:</b> Marketplace</sub><br/><sub>Electric mobility marketplace concept</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-exec.svg" width="100%" alt="AMAKEN EXECUTIVE visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-ceo.svg" width="100%" alt="AMAKEN CEO visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-exec.svg" width="100%" alt="AMAKEN EXECUTIVE visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>AMAKEN EXECUTIVE</strong><br/><sub><b>TYPE:</b> Real estate</sub><br/><sub>Executive analytics and management dashboard</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-ceo.svg" width="100%" alt="AMAKEN CEO visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>AMAKEN CEO</strong><br/><sub><b>TYPE:</b> Real estate</sub><br/><sub>Property, lead and sales management insights</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/are-3d.svg" width="100%" alt="ARE 5D / 3D CARD visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/are-card.svg" width="100%" alt="ARE BUSINESS CARD visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/are-3d.svg" width="100%" alt="ARE 5D / 3D CARD visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>ARE 5D / 3D CARD</strong><br/><sub><b>TYPE:</b> Creative interface</sub><br/><sub>Interactive 3D identity and digital business card</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/are-card.svg" width="100%" alt="ARE BUSINESS CARD visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b></sub><br/><strong>ARE BUSINESS CARD</strong><br/><sub><b>TYPE:</b> Creative interface</sub><br/><sub>Interactive business card and portfolio concept</sub></td>
 </tr>
 </table>
 
