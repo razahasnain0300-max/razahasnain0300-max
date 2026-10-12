@@ -111,7 +111,7 @@ def make_svg(repos):
 def make_block(repos, svg_version):
     lines = [
         START,
-        "## Latest public projects · Automatically updated",
+        "## Latest public project previews · Automatically updated",
         "",
         '<div align="center">',
         '<img src="./assets/auto-repos.svg?v=' + svg_version + '" width="100%" alt="Auto-updated purple and cyan public repository cards"/>',
@@ -119,14 +119,14 @@ def make_block(repos, svg_version):
         "",
     ]
     if repos:
-        lines.extend(["| Repository | Main language | Focus |", "|:--|:--|:--|"])
+        lines.extend(["| Project | Main language | Focus |", "|:--|:--|:--|"])
         for r in repos[:8]:
-            lines.append("| [**" + md(r["name"]) + "**](" + r["link"] + ") | " +
+            lines.append("| **" + md(r["name"]) + "** | " +
                          md(r["language"]) + " | " + md(r["description"]) + " |")
     else:
         lines.append("There are no additional **public** repositories currently. New public repositories will appear automatically after the next sync.")
-    lines.extend(["", "[**View the full public repository list →**](./AUTO_REPOSITORIES.md)",
-                  "", "*Updated approximately every 4 hours. Private repositories are never automatically exposed.*", END])
+    lines.extend(["", "Project cards above show previews only.",
+                  "", "*Updated approximately hourly. Project cards do not link to source code. Private repositories remain protected.*", END])
     return "\n".join(lines)
 
 
@@ -136,9 +136,9 @@ def make_index(repos):
              "This index automatically refreshes from public GitHub repository metadata. Private repository names and descriptions are excluded.",
              ""]
     if repos:
-        parts += ["| Repository | Main language | Description |", "|:--|:--|:--|"]
+        parts += ["| Project | Main language | Description |", "|:--|:--|:--|"]
         for r in repos:
-            parts.append("| [**" + md(r["name"]) + "**](" + r["link"] + ") | " +
+            parts.append("| **" + md(r["name"]) + "** | " +
                          md(r["language"]) + " | " + md(r["description"]) + " |")
     else:
         parts.append("No additional public repositories. The profile repository itself is intentionally excluded.")
