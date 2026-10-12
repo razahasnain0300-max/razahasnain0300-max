@@ -129,7 +129,7 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 
 
 <!-- PUBLIC-REPO-AUTO:START -->
-## Latest public projects · Automatically updated
+## Latest public project previews · Automatically updated
 
 <div align="center">
 <img src="./assets/auto-repos.svg?v=311132b909" width="100%" alt="Auto-updated purple and cyan public repository cards"/>
@@ -137,9 +137,9 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 
 There are no additional **public** repositories currently. New public repositories will appear automatically after the next sync.
 
-[**View the full public repository list →**](./AUTO_REPOSITORIES.md)
+Project cards above show previews only.
 
-*Updated approximately every 4 hours. Private repositories are never automatically exposed.*
+*Updated approximately hourly. Project cards do not link to source code. Private repositories remain protected.*
 <!-- PUBLIC-REPO-AUTO:END -->
 
 <!-- APPROVED-CASESTUDIES:START -->
