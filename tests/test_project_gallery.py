@@ -80,7 +80,7 @@ class ProjectGalleryTests(unittest.TestCase):
         self.assertTrue(item["short_description"])
         markup = card_text(item)
         self.assertIn("BUILT WITH", markup)
-        self.assertIn("<code>Node.js</code>", markup)
+        self.assertIn("<kbd>Node.js</kbd>", markup)
         self.assertIn("Fashion Collections", markup)
         self.assertNotIn('href="https://hadia-collection.online', markup)
 
