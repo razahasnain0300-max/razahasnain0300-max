@@ -84,5 +84,21 @@ class ProjectGalleryTests(unittest.TestCase):
         self.assertIn("Fashion Collections", markup)
         self.assertNotIn('href="https://hadia-collection.online', markup)
 
+    def test_rehabconnect_rich_preview_and_non_redirect_badges(self):
+        from build_project_gallery import load_curated, card_text, ROOT
+        entries = [x for x in load_curated(ROOT / "portfolio" / "curated_projects.json")
+                   if x["title"] == "REHABCONNECT"]
+        self.assertEqual(len(entries), 1)
+        item = entries[0]
+        self.assertEqual(item["preview_kind"], "real_website_screenshot")
+        self.assertIn("Centre Comparison", " ".join(item["features"]))
+        self.assertIn("TypeScript", item["technologies"])
+        markup = card_text(item)
+        self.assertIn("HEALTHCARE", markup.upper())
+        self.assertIn("FEATURES", markup)
+        self.assertIn("<kbd>React</kbd>", markup)
+        self.assertNotIn("<a ", markup)
+        self.assertNotIn("rehabconnect.pk/", markup)
+
 if __name__ == "__main__":
     unittest.main()

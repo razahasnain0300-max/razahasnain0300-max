@@ -15,5 +15,15 @@ class RehabPublicRouteTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 target_url(path)
 
+    def test_portfolio_capabilities_have_safe_limits(self):
+        from capture_rehabconnect import PUBLIC_FEATURES, OPERATIONS_FEATURES, TECHNOLOGIES, PROJECT_TYPE
+        features = PUBLIC_FEATURES + OPERATIONS_FEATURES
+        self.assertLessEqual(len(features), 24)
+        self.assertGreaterEqual(len(PUBLIC_FEATURES), 8)
+        self.assertIn("React", TECHNOLOGIES)
+        self.assertIn("MySQL", TECHNOLOGIES)
+        self.assertIn("Healthcare Directory", PROJECT_TYPE)
+        self.assertFalse(any("patient name" in x.lower() for x in features))
+
 if __name__ == "__main__":
     unittest.main()

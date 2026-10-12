@@ -37,6 +37,42 @@ ROUTES = [
 # User explicitly approved these public pages for screenshot display.
 MAX_PAGES = 10
 MIN_PAGES = 4
+
+# Public-safe, verified project descriptors. Do not add patient or staff records.
+PROJECT_TYPE = "Healthcare Directory · Rehab Finder · Facility Operations"
+PROJECT_SUMMARY = "Rehab and mental-health discovery platform with smart search, centre comparison, research and facility tools"
+PROJECT_SHORT = "Find rehabilitation centres and mental-health professionals, compare services and access recovery resources."
+PROJECT_DESCRIPTION = (
+    "A multi-portal healthcare discovery and facility-operations platform. "
+    "Public pages offer rehabilitation and professional directories, city/town search, "
+    "centre comparisons and mental-health resources. Separate private tools "
+    "support facility staff and admission workflows."
+)
+TECHNOLOGIES = ["React","TypeScript","TanStack Start","Node.js","Express","MySQL","Tailwind CSS"]
+PUBLIC_FEATURES = [
+    "🏥 Rehab Centre Directory",
+    "🩺 Professional Profiles",
+    "🔎 Smart Care Finder",
+    "📍 City & Town Filters",
+    "⚖️ Centre Comparison",
+    "🧭 Care Matcher",
+    "📚 Recovery Resources",
+    "🧪 Research & Insights",
+    "👨‍👩‍👧 Family Support",
+    "📝 Health Articles",
+    "🏢 Facility Onboarding",
+    "📅 Appointment Flows",
+    "💻 Responsive Web Platform"
+]
+OPERATIONS_FEATURES = [
+    "🔐 Role-Based Admin",
+    "🛏️ Inpatient Management",
+    "📊 Facility Reporting",
+    "👥 Staff Portals",
+    "🗂️ Content Management"
+]
+FEATURES = PUBLIC_FEATURES + OPERATIONS_FEATURES
+
 BLOCKED = ("/admin", "/patient", "/provider/", "/login", "/register",
            "/booking", "/dashboard", "/api/", "/checkout", "/account")
 
@@ -142,33 +178,62 @@ def picture_frame(raw, title, destination):
 
 
 def build_hero(shots):
-    # Large real landing page with three real-page thumbnail strips.
-    hero = Image.new("RGB", (1280, 795), "#080d1b")
+    """Premium preview: ONLY genuine public screenshots, with branded feature labels."""
+    hero = Image.new("RGB", (1280, 916), "#080d1b")
     d = ImageDraw.Draw(hero)
-    d.rounded_rectangle((10, 10, 1270, 785), radius=21,
-                        fill="#11162a", outline="#8b5cf6", width=3)
-    d.rectangle((39, 30, 287, 34), fill="#22d3ee")
-    d.text((42, 48), "REHABCONNECT — LIVE WEBSITE", font=font(28, True), fill="#f1f5ff")
-    d.text((42, 92), "Real page previews  ·  Rehab & professional discovery",
-           font=font(18), fill="#8fe5f3")
-    with Image.open(shots["home"]) as im:
-        screen = im.convert("RGB")
-        # The prominent portion is an authentic homepage screenshot.
-        big = ImageOps.fit(screen, (1186, 500), method=Image.Resampling.LANCZOS,
-                           centering=(.5, .15))
-        hero.paste(big, (47, 136))
-    d.rectangle((47, 136, 1233, 636), outline="#6256a1", width=2)
-    thumbs = [slug for slug in shots if slug != "home"][:3]
-    for i, slug in enumerate(thumbs):
-        with Image.open(shots[slug]) as im:
-            thumb = ImageOps.fit(im.convert("RGB"), (379, 104),
-                                 method=Image.Resampling.LANCZOS, centering=(.5, .12))
+    d.rounded_rectangle((9, 9, 1271, 907), radius=23,
+                        fill="#11172d", outline="#8b5cf6", width=3)
+    d.rectangle((42, 30, 273, 35), fill="#22d3ee")
+    d.text((45, 51), "REHABCONNECT.PK", font=font(30, True), fill="#f0f5ff")
+    d.text((45, 101), "Healthcare discovery  /  Rehab & professional search",
+           font=font(18), fill="#adebf4")
+    d.rounded_rectangle((1000, 63, 1233, 103), radius=12,
+                        fill="#1d2443", outline="#665aa8", width=2)
+    d.text((1022, 74), "REAL SITE PREVIEW", font=font(15, True), fill="#d5c6ff")
+    with Image.open(shots["home"]) as image:
+        actual_home = image.convert("RGB")
+        large = ImageOps.fit(actual_home, (1186, 465),
+                             method=Image.Resampling.LANCZOS,
+                             centering=(.5, .12))
+        hero.paste(large, (47, 141))
+    d.rectangle((47, 141, 1233, 607), outline="#6454a1", width=2)
+    thumbnail_labels = {
+        "finder": "CARE FINDER", "rehabs": "REHAB DIRECTORY",
+        "professionals": "PROFESSIONALS", "research": "RESEARCH",
+        "resources": "RESOURCES", "compare": "COMPARE CENTRES",
+        "family": "FAMILY SUPPORT",
+    }
+    picks = [slug for slug in ("finder", "rehabs", "professionals", "compare", "research")
+             if slug in shots][:3]
+    for i, slug in enumerate(picks):
         x = 47 + i * 403
-        hero.paste(thumb, (x, 653))
-        d.rectangle((x, 653, x+379, 757), outline="#3e5f90", width=2)
-    file_path = OUT / "rehabconnect-live.webp"
-    hero.save(file_path, "WEBP", quality=87, method=6)
-    valid_screenshot(file_path)
+        with Image.open(shots[slug]) as image:
+            thumb = ImageOps.fit(image.convert("RGB"), (379, 125),
+                                 method=Image.Resampling.LANCZOS,
+                                 centering=(.5, .12))
+            hero.paste(thumb, (x, 626))
+        d.rectangle((x, 626, x + 379, 751), outline="#4b6492", width=2)
+        d.rounded_rectangle((x + 10, 638, x + 188, 665), radius=8,
+                            fill="#0a1530")
+        d.text((x + 20, 645), thumbnail_labels.get(slug, slug.upper()),
+               font=font(12, True), fill="#ecf4ff")
+    # A restrained row of service badges replaces decorative dashboard art.
+    badges = [
+        "REHAB & DOCTOR SEARCH", "CITY / TOWN FILTERS",
+        "CENTRE COMPARISON", "FACILITY WORKFLOWS",
+    ]
+    for i, label in enumerate(badges):
+        x = 47 + i * 302
+        accent = "#22d3ee" if i % 2 == 0 else "#a78bfa"
+        d.rounded_rectangle((x, 777, x + 283, 832), radius=14,
+                            fill="#1b2440", outline=accent, width=2)
+        d.text((x + 13, 795), label, font=font(15, True), fill="#f0f5ff")
+    d.text((47, 876),
+           "AUTHENTIC WEBSITE PAGES  •  NO PATIENT DATA  •  PREVIEW ONLY",
+           font=font(17), fill="#bac6dd")
+    path = OUT / "rehabconnect-live.webp"
+    hero.save(path, "WEBP", quality=88, method=6)
+    valid_screenshot(path)
 
 
 def update_manifest():
@@ -179,8 +244,13 @@ def update_manifest():
     item = matches[0]
     item["image"] = "assets/previews/rehabconnect-live.webp"
     item["preview_kind"] = "real_website_screenshot"
-    item["summary"] = "Real public rehab finder, rehabilitation directory, professional discovery and resources"
+    item["summary"] = PROJECT_SUMMARY
     item["category"] = "Healthcare Discovery Platform"
+    item["website_type"] = PROJECT_TYPE
+    item["short_description"] = PROJECT_SHORT
+    item["description"] = PROJECT_DESCRIPTION
+    item["technologies"] = TECHNOLOGIES
+    item["features"] = FEATURES
     MANIFEST.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
@@ -188,18 +258,34 @@ def update_full_portfolio(shots):
     original = PROFILE.read_text(encoding="utf-8")
     rows = [
         START,
-        "## RehabConnect — real public website previews",
+        "## RehabConnect — Healthcare Discovery & Facility Operations",
         "",
-        "These are screenshots from the **actual publicly accessible website**, "
-        "not illustrative dashboards. **Preview images are not links** to the "
-        "website or the private GitHub source repository.",
+        "**Platform type:** " + PROJECT_TYPE,
         "",
-        "**Landing page and selected public screens**",
+        "**Short description:** " + PROJECT_SHORT,
+        "",
+        "**Project overview:** " + PROJECT_DESCRIPTION,
+        "",
+        "**PUBLIC EXPERIENCE · FEATURE BADGES**",
+        "",
+        " ".join("<kbd>" + x + "</kbd>" for x in PUBLIC_FEATURES),
+        "",
+        "**FACILITY OPERATIONS · PRIVATE WORKFLOWS**",
+        "",
+        " ".join("<kbd>" + x + "</kbd>" for x in OPERATIONS_FEATURES),
+        "",
+        "**TECHNOLOGY STACK**",
+        "",
+        " ".join("<kbd>" + x + "</kbd>" for x in TECHNOLOGIES),
+        "",
+        "*The public features reflect site pages; staff, admissions and operations functions are high-level capabilities found in the private application, not screenshots of live patient or administration data.*",
+        "",
+        "**Website screenshot previews — no external redirects**",
         "",
         '<img src="./assets/previews/rehabconnect-live.webp" width="100%" '
         'alt="Real RehabConnect homepage with selected public-page previews" />',
         "",
-        "### Selected website pages",
+        "### Selected Public Website Pages",
         "",
         "<table>",
     ]
@@ -222,7 +308,7 @@ def update_full_portfolio(shots):
         "",
         "*Only approved, anonymous public-facing website pages are captured. "
         "No patient portal, staff dashboard, forms or private data are included. "
-        "The screenshots refresh weekly; live pages can change between captures.*",
+        "The screenshots refresh weekly; live pages can change between captures. Features are project capabilities, not claims of external clinical verification.*",
         END,
     ]
     section = "\n".join(rows)

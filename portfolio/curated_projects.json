@@ -41,10 +41,42 @@
     },
     {
       "title": "REHABCONNECT",
-      "summary": "Real public rehab finder, rehabilitation directory, professional discovery and resources",
+      "summary": "Rehab and mental-health discovery platform with smart search, centre comparison, research and facility tools",
       "category": "Healthcare Discovery Platform",
       "image": "assets/previews/rehabconnect-live.webp",
-      "preview_kind": "real_website_screenshot"
+      "preview_kind": "real_website_screenshot",
+      "website_type": "Healthcare Directory · Rehab Finder · Facility Operations",
+      "short_description": "Find rehabilitation centres and mental-health professionals, compare services and access recovery resources.",
+      "description": "A multi-portal healthcare discovery and facility-operations platform. Public pages offer rehabilitation and professional directories, city/town search, centre comparisons and mental-health resources. Separate private tools support facility staff and admission workflows.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "TanStack Start",
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Tailwind CSS"
+      ],
+      "features": [
+        "🏥 Rehab Centre Directory",
+        "🩺 Professional Profiles",
+        "🔎 Smart Care Finder",
+        "📍 City & Town Filters",
+        "⚖️ Centre Comparison",
+        "🧭 Care Matcher",
+        "📚 Recovery Resources",
+        "🧪 Research & Insights",
+        "👨‍👩‍👧 Family Support",
+        "📝 Health Articles",
+        "🏢 Facility Onboarding",
+        "📅 Appointment Flows",
+        "💻 Responsive Web Platform",
+        "🔐 Role-Based Admin",
+        "🛏️ Inpatient Management",
+        "📊 Facility Reporting",
+        "👥 Staff Portals",
+        "🗂️ Content Management"
+      ]
     },
     {
       "title": "HADIA COLLECTION",
