@@ -91,6 +91,25 @@ These preview graphics are **illustrative portfolio concepts**, not screenshots 
 
 </div>
 
+<!-- PURPLE-SNAKE:START -->
+## The Purple Contribution Snake
+
+<div align="center">
+
+<img src="./assets/snake-banner.svg?v=1" width="100%" alt="Premium animated purple snake banner"/>
+
+</div>
+
+A **real GitHub contribution snake** is generated automatically using GitHub activity, twice each day. Its animated SVG is published to the `output` branch after the first successful workflow run.
+
+**Want to control the snake?** An interactive browser playground also lives in this repository. It moves autonomously until you hover over its grid, then follows the cursor or touch. This interaction requires a normal webpage, because GitHub profile READMEs cannot execute cursor-tracking JavaScript.
+
+[**View snake workflow →**](./.github/workflows/contribution-snake.yml) · [**Explore interactive game source →**](./interactive-snake/index.html)
+
+<!-- PURPLE-SNAKE:END -->
+
+
+
 <!-- PUBLIC-REPO-AUTO:START -->
 ## Latest public projects · Automatically updated
 

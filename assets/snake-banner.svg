@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="225" viewBox="0 0 1120 225" role="img" aria-label="Purple contribution snake animation feature">
+<title>Real GitHub contribution snake</title>
+<defs><linearGradient id="bg"><stop stop-color="#070B14"/><stop offset="1" stop-color="#14112C"/></linearGradient><linearGradient id="accent"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#C4B5FD"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<style>.dash{stroke-dasharray:96 690;animation:move 10s linear infinite}@keyframes move{to{stroke-dashoffset:-786}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="225" rx="20" fill="url(#bg)"/><rect x="1" y="1" width="1118" height="223" rx="19" fill="none" stroke="#8b5cf6" stroke-opacity=".6"/>
+<text x="45" y="48" font-family="Arial" font-size="14" font-weight="bold" fill="#22D3EE">CONTRIBUTION SNAKE · PURPLE EDITION</text>
+<text x="45" y="98" font-family="Arial" font-size="34" font-weight="bold" fill="#EEF4FF">Make every contribution count.</text>
+<text x="45" y="139" font-family="Arial" font-size="17" fill="#C4B5FD">A moving purple snake powered by GitHub's real activity graph.</text>
+<text x="45" y="177" font-family="Arial" font-size="15" fill="#94A3B8">Real code. Creative motion. Professional presentation.</text>
+<g transform="translate(710,14)">
+<path id="track" d="M10 142 H55 V67 H118 V159 H189 V44 H240 V122 H291 V61 H353 V141" fill="none" stroke="#8B5CF6" stroke-width="14" stroke-opacity=".20" stroke-linejoin="round"/>
+<use href="#track" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" class="dash"/>
+</g></svg>
