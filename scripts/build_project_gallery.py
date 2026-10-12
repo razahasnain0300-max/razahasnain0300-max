@@ -185,7 +185,7 @@ def generated_card(item):
     short_title = escape(item["title"][:30])
     desc = escape(item["summary"][:76])
     cat = escape(item["category"])
-    visibility = "PUBLIC REPOSITORY" if item["is_public"] else "APPROVED CASE STUDY"
+    visibility = "PUBLIC PROJECT PREVIEW" if item["is_public"] else "APPROVED CASE STUDY"
     a = "#22D3EE" if item["is_public"] else "#A78BFA"
     art = f'''<svg xmlns="http://www.w3.org/2000/svg" width="920" height="476" viewBox="0 0 920 476" role="img" aria-label="{title} project showcase">
 <title>{title} | Project preview</title>
@@ -213,13 +213,11 @@ def generated_card(item):
 def card_text(item, link_images=True):
     """GitHub-safe professional card: real image, business category, icon features and tech tags.
 
-    Curated public website screenshots are NEVER hyperlinks. Public source links
-    are only generated for actually public repositories.
+    All project screenshots are shown without source or website links.
     """
     path = item["image"].lstrip("./")
     image = f'<img src="./{path}" width="100%" alt="{escape(item["title"])} website or project showcase"/>'
-    if item["is_public"] and item["public_url"] and link_images:
-        image = f'<a href="{html.escape(item["public_url"], quote=True)}">{image}</a>'
+    # Keep all project cards as plain preview images, with no redirect links.
     date = format_date(item.get("date"))
     screenshot = item.get("preview_kind") == "real_website_screenshot"
     kind = ("REAL PUBLIC WEBSITE PREVIEW" if screenshot else
@@ -240,11 +238,11 @@ def card_text(item, link_images=True):
     )
     if features:
         details += '<br/><sub><b>✨ FEATURES</b></sub><br/>' + " ".join(
-            '<code>' + f + '</code>' for f in features
+            '<kbd>' + f + '</kbd>' for f in features
         )
     if technologies:
         details += '<br/><sub><b>⚙️ BUILT WITH</b></sub><br/>' + " ".join(
-            '<code>' + tech + '</code>' for tech in technologies
+            '<kbd>' + tech + '</kbd>' for tech in technologies
         )
     return image + details
 
