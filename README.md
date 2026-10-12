@@ -122,7 +122,7 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 
 **Interactive version:** The [cursor-following purple snake playground](./interactive-snake/index.html) is also available as a self-contained browser game. It explores randomly when idle and follows the mouse or touch on a hosted webpage. GitHub README files cannot execute interactive JavaScript over the native contribution graph.
 
-[**View animation workflow →**](./.github/workflows/contribution-snake.yml) · [**Open interactive game source →**](./interactive-snake/index.html) · [**Hire our software team →**](mailto:razahasnain0300@gmail.com?subject=Software%20Development%20Project%20Inquiry)
+**Animated GitHub activity preview** · [**Open interactive game source →**](./interactive-snake/index.html) · [**Hire our software team →**](mailto:razahasnain0300@gmail.com?subject=Software%20Development%20Project%20Inquiry)
 
 <!-- PURPLE-SNAKE:END -->
 
