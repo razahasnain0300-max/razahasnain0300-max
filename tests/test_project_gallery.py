@@ -27,7 +27,7 @@ class ProjectGalleryTests(unittest.TestCase):
             if not x["image"]: x["image"]="./assets/previews/goev.svg"
         result=block(cur)
         self.assertIn("3 showcased projects",result)
-        self.assertLess(result.index("New visual"), result.index("Old visual"))
+        self.assertLess(result.index("New website or project showcase"), result.index("Old website or project showcase"))
         self.assertIn("Created 13 Oct 2026", result)
         another=merge_projects(curated,[sample("Newest","2026-10-14"),sample("Old","2025-01-01"),sample("New","2026-10-13")])
         self.assertEqual(len(another),4)

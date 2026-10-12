@@ -203,7 +203,7 @@ def generated_card(item):
 
 
 def card_text(item, link_images=True):
-    """GitHub-safe high-quality project card: image, category, features and stack.
+    """GitHub-safe professional card: real image, business category, icon features and tech tags.
 
     Curated public website screenshots are NEVER hyperlinks. Public source links
     are only generated for actually public repositories.
