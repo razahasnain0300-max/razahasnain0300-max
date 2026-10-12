@@ -92,19 +92,25 @@ These preview graphics are **illustrative portfolio concepts**, not screenshots 
 </div>
 
 <!-- PURPLE-SNAKE:START -->
-## The Purple Contribution Snake
+## Purple Contribution Snake — Live GitHub Activity
 
 <div align="center">
 
-<img src="./assets/snake-banner.svg?v=1" width="100%" alt="Premium animated purple snake banner"/>
+<img src="./assets/snake-banner.svg?v=1" width="100%" alt="Premium purple snake with agency branding" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/output/snake-purple-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/output/snake-purple-light.svg" />
+  <img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/output/snake-purple-dark.svg" width="100%" alt="Animated purple snake navigating real GitHub contributions" />
+</picture>
 
 </div>
 
-A **real GitHub contribution snake** is generated automatically using GitHub activity, twice each day. Its animated SVG is published to the `output` branch after the first successful workflow run.
+**Real contributions. Purple motion.** This animation follows your genuine GitHub contribution calendar and refreshes twice daily through GitHub Actions — without creating artificial commits or changing GitHub's official contribution count.
 
-**Want to control the snake?** An interactive browser playground also lives in this repository. It moves autonomously until you hover over its grid, then follows the cursor or touch. This interaction requires a normal webpage, because GitHub profile READMEs cannot execute cursor-tracking JavaScript.
+**Interactive version:** The [cursor-following purple snake playground](./interactive-snake/index.html) is also available as a self-contained browser game. It explores randomly when idle and follows the mouse or touch on a hosted webpage. GitHub README files cannot execute interactive JavaScript over the native contribution graph.
 
-[**View snake workflow →**](./.github/workflows/contribution-snake.yml) · [**Explore interactive game source →**](./interactive-snake/index.html)
+[**View animation workflow →**](./.github/workflows/contribution-snake.yml) · [**Open interactive game source →**](./interactive-snake/index.html) · [**Hire our software team →**](mailto:razahasnain0300@gmail.com?subject=Software%20Development%20Project%20Inquiry)
 
 <!-- PURPLE-SNAKE:END -->
 
