@@ -94,7 +94,7 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 </tr>
 <tr>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="REHABCONNECT website or project showcase"/><br/><sub><b>REAL PUBLIC WEBSITE PREVIEW</b></sub><br/><strong>REHABCONNECT</strong><br/><sub><b>🏷️ Healthcare Discovery Platform</b></sub><br/><sub>Real public rehab finder, rehabilitation directory, professional discovery and resources</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA website or project showcase"/><br/><sub><b>ILLUSTRATIVE PORTFOLIO CONCEPT</b></sub><br/><strong>HADIA &amp; TAHA</strong><br/><sub><b>🏷️ E-commerce</b></sub><br/><sub>Fashion shopping and order management</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-live.webp" width="100%" alt="HADIA COLLECTION website or project showcase"/><br/><sub><b>REAL PUBLIC WEBSITE PREVIEW</b></sub><br/><strong>HADIA COLLECTION</strong><br/><sub><b>🏷️ Fashion E-Commerce Website / Online Store</b></sub><br/><sub>Fashion shopping with curated collections, new arrivals, products, cart, orders and customer support</sub><br/><sub><b>✨ FEATURES</b></sub><br/><code>🛍️ Fashion Collections</code> <code>✨ New Arrivals</code> <code>🔎 Product Search</code> <code>🎛️ Catalog Filters</code> <code>📦 Color &amp; Size Options</code> <code>🛒 Shopping Cart</code> <code>💵 Cash on Delivery</code> <code>🚚 Order Tracking</code></td>
 </tr>
 </table>
 

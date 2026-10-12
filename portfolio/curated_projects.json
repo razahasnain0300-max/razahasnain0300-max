@@ -47,10 +47,37 @@
       "preview_kind": "real_website_screenshot"
     },
     {
-      "title": "HADIA & TAHA",
-      "summary": "Fashion shopping and order management",
-      "category": "E-commerce",
-      "image": "assets/previews/hadia-taha.svg"
+      "title": "HADIA COLLECTION",
+      "summary": "Fashion shopping with curated collections, new arrivals, products, cart, orders and customer support",
+      "category": "Fashion E-Commerce",
+      "image": "assets/previews/hadia-live.webp",
+      "website_type": "Fashion E-Commerce Website / Online Store",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "EJS",
+        "MySQL",
+        "Socket.IO"
+      ],
+      "features": [
+        "🛍️ Fashion Collections",
+        "✨ New Arrivals",
+        "🔎 Product Search",
+        "🎛️ Catalog Filters",
+        "📦 Color & Size Options",
+        "🛒 Shopping Cart",
+        "💵 Cash on Delivery",
+        "🚚 Order Tracking",
+        "👤 Customer Accounts",
+        "⭐ Reviews & Ratings",
+        "📦 Inventory Management",
+        "🔄 Returns & Refunds",
+        "🔔 Real-Time Updates",
+        "📨 Contact & Support"
+      ],
+      "short_description": "Hadia & Taha fashion storefront — curated collections, new arrivals, product browsing and customer shopping.",
+      "description": "Fashion e-commerce platform built with Node.js, Express, EJS and MySQL, including catalog search, product options, customer shopping, orders and inventory workflows.",
+      "preview_kind": "real_website_screenshot"
     },
     {
       "title": "FATIMA BOUTIQUE",

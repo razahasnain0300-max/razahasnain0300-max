@@ -38,7 +38,7 @@ Newest discoverable repositories appear first. The remaining private-source proj
 </tr>
 <tr>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="REHABCONNECT website or project showcase"/><br/><sub><b>REAL PUBLIC WEBSITE PREVIEW</b></sub><br/><strong>REHABCONNECT</strong><br/><sub><b>🏷️ Healthcare Discovery Platform</b></sub><br/><sub>Real public rehab finder, rehabilitation directory, professional discovery and resources</sub></td>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA website or project showcase"/><br/><sub><b>ILLUSTRATIVE PORTFOLIO CONCEPT</b></sub><br/><strong>HADIA &amp; TAHA</strong><br/><sub><b>🏷️ E-commerce</b></sub><br/><sub>Fashion shopping and order management</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-live.webp" width="100%" alt="HADIA COLLECTION website or project showcase"/><br/><sub><b>REAL PUBLIC WEBSITE PREVIEW</b></sub><br/><strong>HADIA COLLECTION</strong><br/><sub><b>🏷️ Fashion E-Commerce Website / Online Store</b></sub><br/><sub>Fashion shopping with curated collections, new arrivals, products, cart, orders and customer support</sub><br/><sub><b>✨ FEATURES</b></sub><br/><code>🛍️ Fashion Collections</code> <code>✨ New Arrivals</code> <code>🔎 Product Search</code> <code>🎛️ Catalog Filters</code> <code>📦 Color &amp; Size Options</code> <code>🛒 Shopping Cart</code> <code>💵 Cash on Delivery</code> <code>🚚 Order Tracking</code></td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/fatima.svg" width="100%" alt="FATIMA BOUTIQUE website or project showcase"/><br/><sub><b>ILLUSTRATIVE PORTFOLIO CONCEPT</b></sub><br/><strong>FATIMA BOUTIQUE</strong><br/><sub><b>🏷️ E-commerce</b></sub><br/><sub>Fashion storefront and digital shopping</sub></td>
@@ -113,6 +113,49 @@ These are screenshots from the **actual publicly accessible website**, not illus
 
 *Only approved, anonymous public-facing website pages are captured. No patient portal, staff dashboard, forms or private data are included. The screenshots refresh weekly; live pages can change between captures.*
 <!-- REHABCONNECT-PUBLIC-PAGES:END -->
+
+<!-- HADIA-COLLECTION-PUBLIC-PAGES:START -->
+## Hadia Collection — Fashion E-Commerce Website
+
+These are screenshots from the **actual publicly accessible website**, not illustrative dashboards. **Preview images are not links** to the website or the private GitHub source repository.
+
+**Landing page and selected public screens**
+
+<img src="./assets/previews/hadia-live.webp" width="100%" alt="Hadia Collection actual storefront homepage and fashion collection pages" />
+
+**Project type:** Fashion E-Commerce Website · Online Store · Product Catalog
+
+**Short description:** Fashion collections, new arrivals and customer-focused shopping.
+
+**Implemented features (per the project repository):** 🛍️ Collections · ✨ New Arrivals · 🔎 Search · 🎛️ Filters · 📦 Size/Color Selection · 🛒 Cart · 💵 COD Checkout · 🚚 Tracking · 👤 Accounts · ⭐ Reviews · 🔄 Returns · 🔔 Real-Time Order Updates.
+
+**Technology stack:** `Node.js` · `Express` · `EJS` · `JavaScript` · `MySQL` · `Socket.IO`
+
+**Note:** Screenshots document public website appearance; implementation features above come from the private source's public-safe feature inventory.
+
+### Selected website pages
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/hadia-home.webp" width="100%" alt="Actual public Hadia Collection Shop Homepage webpage" /><sub><b>Shop Homepage</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/hadia-arrivals.webp" width="100%" alt="Actual public Hadia Collection New Arrivals webpage" /><sub><b>New Arrivals</b> · Public website screenshot</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/hadia-collections.webp" width="100%" alt="Actual public Hadia Collection Fashion Collections webpage" /><sub><b>Fashion Collections</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/hadia-upcoming.webp" width="100%" alt="Actual public Hadia Collection Upcoming Styles webpage" /><sub><b>Upcoming Styles</b> · Public website screenshot</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/hadia-about.webp" width="100%" alt="Actual public Hadia Collection About the Brand webpage" /><sub><b>About the Brand</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/hadia-contact.webp" width="100%" alt="Actual public Hadia Collection Contact the Store webpage" /><sub><b>Contact the Store</b> · Public website screenshot</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/hadia-shipping.webp" width="100%" alt="Actual public Hadia Collection Delivery Information webpage" /><sub><b>Delivery Information</b> · Public website screenshot</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+*Only approved, anonymous public-facing website pages are captured. No customer account, checkout, admin or order details are included. The screenshots refresh weekly; live pages can change between captures.*
+<!-- HADIA-COLLECTION-PUBLIC-PAGES:END -->
 
 ## Source code, examples and confidentiality
 
