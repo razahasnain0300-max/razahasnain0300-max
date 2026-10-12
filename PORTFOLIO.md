@@ -37,7 +37,7 @@ Newest discoverable repositories appear first. The remaining private-source proj
 <td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect.svg" width="100%" alt="REHABCONNECT visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="REHABCONNECT visual project card"/><br/><sub><b>PUBLIC WEBSITE SCREENSHOT</b> · Healthcare Discovery Platform</sub></td>
 <td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA visual project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td>
 </tr>
 <tr>
@@ -76,6 +76,43 @@ These are **real screenshots of public webpages**, not design concepts. The prev
 
 *Screenshots refresh on the weekly workflow; the live page may change in between.*
 <!-- DR-SHOAIB-PUBLIC-PAGES:END -->
+
+<!-- REHABCONNECT-PUBLIC-PAGES:START -->
+## RehabConnect — real public website previews
+
+These are screenshots from the **actual publicly accessible website**, not illustrative dashboards. **Preview images are not links** to the website or the private GitHub source repository.
+
+**Landing page and selected public screens**
+
+<img src="./assets/previews/rehabconnect-live.webp" width="100%" alt="Real RehabConnect homepage with selected public-page previews" />
+
+### Selected website pages
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-home.webp" width="100%" alt="Actual public RehabConnect Homepage webpage" /><sub><b>Homepage</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-finder.webp" width="100%" alt="Actual public RehabConnect Find Help — Care Finder webpage" /><sub><b>Find Help — Care Finder</b> · Public website screenshot</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-rehabs.webp" width="100%" alt="Actual public RehabConnect Rehabilitation Directory webpage" /><sub><b>Rehabilitation Directory</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-professionals.webp" width="100%" alt="Actual public RehabConnect Healthcare Professionals webpage" /><sub><b>Healthcare Professionals</b> · Public website screenshot</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-research.webp" width="100%" alt="Actual public RehabConnect Research & Insights webpage" /><sub><b>Research &amp; Insights</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-resources.webp" width="100%" alt="Actual public RehabConnect Resources & Guides webpage" /><sub><b>Resources &amp; Guides</b> · Public website screenshot</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-facilities.webp" width="100%" alt="Actual public RehabConnect For Treatment Facilities webpage" /><sub><b>For Treatment Facilities</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-doctors.webp" width="100%" alt="Actual public RehabConnect For Professionals webpage" /><sub><b>For Professionals</b> · Public website screenshot</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-compare.webp" width="100%" alt="Actual public RehabConnect Compare Rehab Centres webpage" /><sub><b>Compare Rehab Centres</b> · Public website screenshot</sub></td>
+<td align="center" valign="top" width="50%"><img src="./assets/previews/rehabconnect-family.webp" width="100%" alt="Actual public RehabConnect Family Support webpage" /><sub><b>Family Support</b> · Public website screenshot</sub></td>
+</tr>
+</table>
+
+*Only approved, anonymous public-facing website pages are captured. No patient portal, staff dashboard, forms or private data are included. The screenshots refresh weekly; live pages can change between captures.*
+<!-- REHABCONNECT-PUBLIC-PAGES:END -->
 
 ## Source code, examples and confidentiality
 

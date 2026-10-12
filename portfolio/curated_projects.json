@@ -41,9 +41,10 @@
     },
     {
       "title": "REHABCONNECT",
-      "summary": "Provider and rehabilitation discovery",
-      "category": "Healthcare platform",
-      "image": "assets/previews/rehabconnect.svg"
+      "summary": "Real public rehab finder, rehabilitation directory, professional discovery and resources",
+      "category": "Healthcare Discovery Platform",
+      "image": "assets/previews/rehabconnect-live.webp",
+      "preview_kind": "real_website_screenshot"
     },
     {
       "title": "HADIA & TAHA",
