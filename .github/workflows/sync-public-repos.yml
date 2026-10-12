@@ -2,13 +2,15 @@ name: Auto-update public portfolio
 
 on:
   schedule:
-    - cron: '17 */4 * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
   push:
     paths:
       - '.github/workflows/sync-public-repos.yml'
       - 'scripts/sync_public_repos.py'
       - 'scripts/approved_projects.py'
+      - 'scripts/build_project_gallery.py'
+      - 'portfolio/curated_projects.json'
       - 'portfolio/approved_private_projects.json'
 
 permissions:
@@ -26,14 +28,19 @@ jobs:
       - uses: actions/checkout@v4
       - name: Run privacy validation tests
         run: python3 -m unittest discover -s tests -p 'test_approved_projects.py' -v
+      - name: Test automatic project gallery
+        run: python3 -m unittest discover -s tests -p 'test_project_gallery.py' -v
       - name: Generate public portfolio
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/sync_public_repos.py
+          GALLERY_PRIVATE_READ_TOKEN: ${{ secrets.GALLERY_PRIVATE_READ_TOKEN }}
+        run: |
+          python3 scripts/sync_public_repos.py
+          python3 scripts/build_project_gallery.py
       - name: Commit updated public repository cards
         shell: bash
         run: |
-          git add README.md AUTO_REPOSITORIES.md assets/auto-repos.svg assets/approved-case-studies.svg
+          git add README.md PORTFOLIO.md AUTO_REPOSITORIES.md assets/auto-repos.svg assets/approved-case-studies.svg assets/project-gallery-header.svg assets/project-cards/
           if git diff --cached --quiet; then
             echo "Nothing to update"
             exit 0

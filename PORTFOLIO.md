@@ -12,20 +12,29 @@
 
 Our team works on **websites, all types of landing pages, ERP, CRM, CMS, HRMS, POS, LMS, SaaS, web applications, Android/iOS and desktop software, custom dashboards, APIs, e-commerce, automation and integrations**. This is a capability overview, not a claim that each project has a public live demonstration.
 
-Thirteen software repositories, one team-led project portfolio. Each image below is an **illustrative design mockup**, not a real application screenshot. Project descriptions are intentionally high level. This public document does **not** contain the underlying private source code, credentials or deployment configuration.
+An automatically maintained project gallery, backed by approved, privacy-conscious public showcases. Each image below is an **illustrative design mockup**, not a real application screenshot. Project descriptions are intentionally high level. This public document does **not** contain the underlying private source code, credentials or deployment configuration.
 
 [← Back to GitHub profile](./README.md)
 
-| | |
-|:--:|:--:|
-| <strong>GOEV.PK</strong><br/><img src="./assets/previews/goev.svg?v=7" width="100%" alt="GOEV.PK concept preview"><br/><sub>EV marketplace, charging and automotive ecosystem.</sub> | <strong>REHABCONNECT</strong><br/><img src="./assets/previews/rehabconnect.svg?v=7" width="100%" alt="REHABCONNECT concept preview"><br/><sub>Find care providers, centers and recovery services.</sub> |
-| <strong>SYDEX / JAVIZ</strong><br/><img src="./assets/previews/sydex-javiz.svg?v=7" width="100%" alt="SYDEX / JAVIZ concept preview"><br/><sub>Desktop AI command center and interactive assistant.</sub> | <strong>OVERTHE TOP CRM</strong><br/><img src="./assets/previews/overthetop.svg?v=7" width="100%" alt="OVERTHE TOP CRM concept preview"><br/><sub>Gym customer management and device integrations.</sub> |
-| <strong>GANI DESIGNER</strong><br/><img src="./assets/previews/ganidesigner.svg?v=7" width="100%" alt="GANI DESIGNER concept preview"><br/><sub>Independent retail and design-oriented storefront.</sub> | <strong>DR. SHOAIB ZAFAR</strong><br/><img src="./assets/previews/dr-shoaib.svg?v=7" width="100%" alt="DR. SHOAIB ZAFAR concept preview"><br/><sub>Clinical website and practice administration.</sub> |
-| <strong>HADIA & TAHA</strong><br/><img src="./assets/previews/hadia-taha.svg?v=7" width="100%" alt="HADIA &amp; TAHA concept preview"><br/><sub>Fashion shopping and order management experience.</sub> | <strong>FATIMA BOUTIQUE</strong><br/><img src="./assets/previews/fatima.svg?v=7" width="100%" alt="FATIMA BOUTIQUE concept preview"><br/><sub>Fashion storefront and digital shopping experience.</sub> |
-| <strong>SYED'S COLLECTION</strong><br/><img src="./assets/previews/syeds-collection.svg?v=7" width="100%" alt="SYED'S COLLECTION concept preview"><br/><sub>Retail storefront exploration.</sub> | <strong>ARE 5D / 3D CARD</strong><br/><img src="./assets/previews/are-3d.svg?v=7" width="100%" alt="ARE 5D / 3D CARD concept preview"><br/><sub>Floating UI cubes, identity and vCard interactions.</sub> |
-| <strong>ARE BUSINESS CARD</strong><br/><img src="./assets/previews/are-card.svg?v=7" width="100%" alt="ARE BUSINESS CARD concept preview"><br/><sub>Interactive portfolio and digital card experience.</sub> | <strong>AMAKEN CEO</strong><br/><img src="./assets/previews/amaken-ceo.svg?v=7" width="100%" alt="AMAKEN CEO concept preview"><br/><sub>Leadership insights for properties, leads and sales.</sub> |
-| <strong>AMAKEN EXECUTIVE</strong><br/><img src="./assets/previews/amaken-exec.svg?v=7" width="100%" alt="AMAKEN EXECUTIVE concept preview"><br/><sub>Executive management dashboard and analytics.</sub> |  |
+<!-- AUTO-FULL-GALLERY:START -->
+## Project gallery · Newest first
 
+**14 showcased projects** · 0 public-source repositories · 14 curated private-source concept previews
+
+Newest verified public repositories will appear ahead of these intentionally curated private-source previews. Private creation dates are not disclosed or inferred.
+
+<table>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED'S COLLECTION illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Retail</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/rehabconnect.svg" width="100%" alt="REHABCONNECT illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/hadia-taha.svg" width="100%" alt="HADIA &amp; TAHA illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/fatima.svg" width="100%" alt="FATIMA BOUTIQUE illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/goev.svg" width="100%" alt="GOEV.PK illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Marketplace</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-exec.svg" width="100%" alt="AMAKEN EXECUTIVE illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/amaken-ceo.svg" width="100%" alt="AMAKEN CEO illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Real estate</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/are-3d.svg" width="100%" alt="ARE 5D / 3D CARD illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/are-card.svg" width="100%" alt="ARE BUSINESS CARD illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Creative interface</sub></td></tr>
+</table>
+
+Public projects are detected automatically. Private showcases require approval before public display.
+<!-- AUTO-FULL-GALLERY:END -->
 
 ## Source code, examples and confidentiality
 

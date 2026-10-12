@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "description": "Public-safe project presentation entries. Curated order is most recently established repo first; no private source URLs or creation dates are published.",
+  "projects": [
+    {
+      "title": "MedBoostPro",
+      "summary": "Medical education and software platform concept",
+      "category": "Healthcare / Education",
+      "image": "assets/previews/medboostpro.svg"
+    },
+    {
+      "title": "DR. SHOAIB ZAFAR",
+      "summary": "Clinical website and practice management",
+      "category": "Healthcare platform",
+      "image": "assets/previews/dr-shoaib.svg"
+    },
+    {
+      "title": "GANI DESIGNER",
+      "summary": "Independent retail storefront",
+      "category": "E-commerce",
+      "image": "assets/previews/ganidesigner.svg"
+    },
+    {
+      "title": "SYED'S COLLECTION",
+      "summary": "Retail storefront and order-management concept",
+      "category": "Retail",
+      "image": "assets/previews/syeds-collection.svg"
+    },
+    {
+      "title": "OVER THE TOP CRM",
+      "summary": "Gym memberships and device-integrated management",
+      "category": "CRM / Operations",
+      "image": "assets/previews/overthetop.svg"
+    },
+    {
+      "title": "SYDEX / JAVIZ",
+      "summary": "Desktop AI assistant and automation concept",
+      "category": "Desktop / AI",
+      "image": "assets/previews/sydex-javiz.svg"
+    },
+    {
+      "title": "REHABCONNECT",
+      "summary": "Provider and rehabilitation discovery",
+      "category": "Healthcare platform",
+      "image": "assets/previews/rehabconnect.svg"
+    },
+    {
+      "title": "HADIA & TAHA",
+      "summary": "Fashion shopping and order management",
+      "category": "E-commerce",
+      "image": "assets/previews/hadia-taha.svg"
+    },
+    {
+      "title": "FATIMA BOUTIQUE",
+      "summary": "Fashion storefront and digital shopping",
+      "category": "E-commerce",
+      "image": "assets/previews/fatima.svg"
+    },
+    {
+      "title": "GOEV.PK",
+      "summary": "Electric mobility marketplace concept",
+      "category": "Marketplace",
+      "image": "assets/previews/goev.svg"
+    },
+    {
+      "title": "AMAKEN EXECUTIVE",
+      "summary": "Executive analytics and management dashboard",
+      "category": "Real estate",
+      "image": "assets/previews/amaken-exec.svg"
+    },
+    {
+      "title": "AMAKEN CEO",
+      "summary": "Property, lead and sales management insights",
+      "category": "Real estate",
+      "image": "assets/previews/amaken-ceo.svg"
+    },
+    {
+      "title": "ARE 5D / 3D CARD",
+      "summary": "Interactive 3D identity and digital business card",
+      "category": "Creative interface",
+      "image": "assets/previews/are-3d.svg"
+    },
+    {
+      "title": "ARE BUSINESS CARD",
+      "summary": "Interactive business card and portfolio concept",
+      "category": "Creative interface",
+      "image": "assets/previews/are-card.svg"
+    }
+  ]
+}

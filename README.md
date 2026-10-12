@@ -9,7 +9,7 @@
 
 **Websites & Landing Pages • ERP • CRM • CMS • SaaS • E-commerce • Web Apps • Android & iOS • Desktop Software • AI & Automation**
 
-[**✉️ Request a Software Proposal**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Services**](./SERVICES.md) &nbsp;·&nbsp; [**Technology Stack**](./TECHNOLOGY_STACK.md) &nbsp;·&nbsp; [**13 Project Concepts**](./PORTFOLIO.md)
+[**✉️ Request a Software Proposal**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Services**](./SERVICES.md) &nbsp;·&nbsp; [**Technology Stack**](./TECHNOLOGY_STACK.md) &nbsp;·&nbsp; [**Project Gallery**](./PORTFOLIO.md)
 
 <img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
 
@@ -70,26 +70,23 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 
 </div>
 
-## Selected projects
+<!-- AUTO-PROJECT-GALLERY:START -->
+## Our latest software projects
 
-These preview graphics are **illustrative portfolio concepts**, not screenshots or claims of live public demos. Private project source code is not included here.
+**14 showcased projects** · Newest additions first · Automatically refreshed
 
-| | |
-|:--:|:--:|
-| **GOEV.PK**<br/><img src="./assets/previews/goev.svg?v=7" width="100%" alt="goev illustrative portfolio concept"/><br/><sub>Marketplace and mobility platform</sub> | **REHABCONNECT**<br/><img src="./assets/previews/rehabconnect.svg?v=7" width="100%" alt="rehabconnect illustrative portfolio concept"/><br/><sub>Provider and rehabilitation discovery</sub> |
-| **SYDEX / JAVIZ**<br/><img src="./assets/previews/sydex-javiz.svg?v=7" width="100%" alt="sydex-javiz illustrative portfolio concept"/><br/><sub>Local desktop AI assistant</sub> | **OVER THE TOP CRM**<br/><img src="./assets/previews/overthetop.svg?v=7" width="100%" alt="overthetop illustrative portfolio concept"/><br/><sub>Membership and device management</sub> |
-| **GANI DESIGNER**<br/><img src="./assets/previews/ganidesigner.svg?v=7" width="100%" alt="ganidesigner illustrative portfolio concept"/><br/><sub>Independent retail storefront</sub> | **DR. SHOAIB ZAFAR**<br/><img src="./assets/previews/dr-shoaib.svg?v=7" width="100%" alt="dr-shoaib illustrative portfolio concept"/><br/><sub>Clinic website and management</sub> |
+<div align="center"><img src="./assets/project-gallery-header.svg" width="100%" alt="Latest software work, newest first"/></div>
 
-**[View all 13 software projects →](./PORTFOLIO.md)**
+<table>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/medboostpro.svg" width="100%" alt="MedBoostPro illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare / Education</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib.svg" width="100%" alt="DR. SHOAIB ZAFAR illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Healthcare platform</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/ganidesigner.svg" width="100%" alt="GANI DESIGNER illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · E-commerce</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/syeds-collection.svg" width="100%" alt="SYED'S COLLECTION illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Retail</sub></td></tr>
+<tr><td width="50%" align="center" valign="top"><img src="./assets/previews/overthetop.svg" width="100%" alt="OVER THE TOP CRM illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · CRM / Operations</sub></td><td width="50%" align="center" valign="top"><img src="./assets/previews/sydex-javiz.svg" width="100%" alt="SYDEX / JAVIZ illustrative project card"/><br/><sub><b>PRIVATE-SOURCE CONCEPT</b> · Desktop / AI</sub></td></tr>
+</table>
 
-<div align="center">
+**[Explore all 14 projects and case studies →](./PORTFOLIO.md)**
 
-<img src="./assets/reel-showcase.svg?v=7" width="100%" alt="Purple cyan project display" />
-<img src="./assets/reel-analytics.svg?v=7" width="100%" alt="GitHub activity and project statistics" />
-<img src="./assets/reference-metrics.svg?v=9" width="100%" alt="Factual project showcase, service categories and privacy-first presentation" />
-<img src="./assets/reference-iso-activity.svg?v=9" width="100%" alt="Isometric software building illustration clearly distinguished from GitHub's official contribution graph" />
-
-</div>
+*The counter reflects public projects and approved private-source showcases, not undisclosed private repositories. Newly created public repositories are detected hourly.*
+<!-- AUTO-PROJECT-GALLERY:END -->
 
 <!-- PURPLE-SNAKE:START -->
 ## Purple Contribution Snake — Live GitHub Activity
