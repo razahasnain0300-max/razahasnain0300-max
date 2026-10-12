@@ -69,12 +69,17 @@ def load_curated(path):
         if not (ROOT / image).is_file():
             raise ValueError("Missing curated concept art: " + image)
         seen.add(canonical(title))
+        website_type = plain(raw.get("website_type") or category or "Software platform", 62)
+        raw_features = raw.get("features") or []
+        if not isinstance(raw_features, list) or len(raw_features) > 12:
+            raise ValueError("Project features must be an array of at most 12 items")
+        features = [plain(x, 42) for x in raw_features if isinstance(x, str) and plain(x, 42)]
         preview_kind = plain(raw.get("preview_kind") or "concept", 35)
         if preview_kind not in ("concept", "real_website_screenshot"):
             raise ValueError("Unsupported preview kind")
         items.append(dict(
             title=title, summary=summary, category=category or "Software solution",
-            preview_kind=preview_kind,
+            preview_kind=preview_kind, website_type=website_type, features=features,
             image="./" + image, public_url="", is_public=False,
             date="", source="curated", order=index,
         ))
@@ -200,6 +205,7 @@ def generated_card(item):
 def card_text(item, link_images=True):
     path = item["image"].lstrip("./")
     image_tag = f'<img src="./{path}" width="100%" alt="{escape(item["title"])} visual project card"/>'
+    # Curated projects remain image-only, without links to source or websites.
     if item["is_public"] and item["public_url"]:
         image_tag = f'<a href="{html.escape(item["public_url"], quote=True)}">{image_tag}</a>'
     date = format_date(item.get("date"))
@@ -207,9 +213,19 @@ def card_text(item, link_images=True):
         "PUBLIC WEBSITE SCREENSHOT" if item.get("preview_kind") == "real_website_screenshot" else (
         "APPROVED SHOWCASE" if item["source"]=="approved_private" else "PRIVATE-SOURCE CONCEPT"))
     when = (" · Created " + date) if date else ""
-    # Centered graphic plus compact contextual label; no redundant giant heading.
-    return image_tag + f'<br/><sub><b>{escape(tag)}</b>{escape(when)} · {escape(item["category"])}</sub>'
-
+    title = escape(item["title"])
+    summary = escape(item.get("summary") or "Software project showcase")
+    category = escape(item.get("website_type") or item.get("category") or "Software project")
+    features = [escape(x) for x in item.get("features", [])][:7]
+    details = (
+        f'<br/><sub><b>{escape(tag)}</b>{escape(when)}</sub>'
+        f'<br/><strong>{title}</strong>'
+        f'<br/><sub><b>TYPE:</b> {category}</sub>'
+        f'<br/><sub>{summary}</sub>'
+    )
+    if features:
+        details += '<br/><sub><b>FEATURES:</b> ' + ' · '.join(features) + '</sub>'
+    return image_tag + details
 
 def table(items):
     if not items:

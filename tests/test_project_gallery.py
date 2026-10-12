@@ -53,5 +53,21 @@ class ProjectGalleryTests(unittest.TestCase):
         self.assertEqual(format_date("2026-10-13T22:15:00Z"),"13 Oct 2026")
         self.assertEqual(format_date("unverified"),"")
 
+    def test_rich_project_card_safe_and_no_website_redirect(self):
+        from build_project_gallery import card_text
+        item = sample("Hadia Collection", "", False)
+        item["source"] = "curated"
+        item["image"] = "./assets/previews/hadia-taha.svg"
+        item["preview_kind"] = "real_website_screenshot"
+        item["website_type"] = "Fashion E-Commerce Website"
+        item["features"] = ["New Arrivals", "Fashion Collections", "Product Details"]
+        item["summary"] = 'Public online fashion store with <safe> & "brands".'
+        markup = card_text(item)
+        self.assertIn("Fashion E-Commerce Website", markup)
+        self.assertIn("New Arrivals", markup)
+        self.assertIn("&lt;safe&gt;", markup)
+        self.assertNotIn('href="https://hadia-collection.online', markup)
+        self.assertNotIn('href="https://github.com', markup)
+
 if __name__ == "__main__":
     unittest.main()
