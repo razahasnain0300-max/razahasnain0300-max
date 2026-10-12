@@ -58,24 +58,58 @@ New public repositories appear at the next hourly GitHub Action refresh. New pri
 <!-- AUTO-FULL-GALLERY:END -->
 
 <!-- DR-SHOAIB-PUBLIC-PAGES:START -->
-## Dr. Shoaib Zafar · Actual public website pages
+## Dr. Muhammad Shoaib Zafar — Psychiatry Website & Clinic System
 
-These are **real screenshots of public webpages**, not design concepts. The preview images do **not redirect** to the website or private GitHub repository.
+**Platform type:** Psychiatry Clinic Website · CMS · Patient Services
 
-**Homepage**
+**Short description:** Professional psychiatry website with care pathways, appointment access, specialist information and educational resources.
 
-<img src="./assets/previews/dr-shoaib-home.png" width="100%" alt="Real public Dr Shoaib Zafar Homepage page screenshot" />
+**Project overview:** A multi-module psychiatry website and clinic system with public mental-health content, adult and child psychiatry pathways, recovery guidance, telepsychiatry information, research and articles. The private application also includes editorial, patient and clinic-management tools.
 
-**Why Dr. Shoaib?**
+**PUBLIC WEBSITE · FEATURE BADGES**
 
-<img src="./assets/previews/dr-shoaib-why.png" width="100%" alt="Real public Dr Shoaib Zafar Why Dr. Shoaib? page screenshot" />
+<kbd>👨‍⚕️ Doctor Profile</kbd> <kbd>🧠 Adult Psychiatry</kbd> <kbd>🧒 Child & Adolescent Care</kbd> <kbd>🧭 Recovery Pathways</kbd> <kbd>🧩 Addiction Information</kbd> <kbd>💬 Psychotherapy Services</kbd> <kbd>💻 Telepsychiatry</kbd> <kbd>📰 Mental-Health Articles</kbd> <kbd>🔬 Research & Insights</kbd> <kbd>📅 Appointment Access</kbd> <kbd>📚 Treatment Information</kbd> <kbd>🔎 Service Discovery</kbd> <kbd>📱 Responsive Website</kbd>
 
-**Mental Health Articles**
+**PRIVATE APPLICATION · CLINIC / CMS CAPABILITIES**
 
-<img src="./assets/previews/dr-shoaib-blog.png" width="100%" alt="Real public Dr Shoaib Zafar Mental Health Articles page screenshot" />
+<kbd>📝 Content Management</kbd> <kbd>✅ Editorial Review</kbd> <kbd>👤 Patient Portal</kbd> <kbd>👩‍⚕️ Doctor Portal</kbd> <kbd>🏥 Clinic Administration</kbd> <kbd>📦 MediStock / Inventory</kbd> <kbd>🔐 Role-Based Access</kbd>
 
-*Screenshots refresh on the weekly workflow; the live page may change in between.*
-<!-- DR-SHOAIB-PUBLIC-PAGES:END -->
+**TECHNOLOGY STACK**
+
+<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>TanStack Start</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MySQL</kbd> <kbd>Tailwind CSS</kbd>
+
+*Public website pages and private codebase capabilities are shown separately. Private modules are not represented as live public screenshots or as clinically approved functions.*
+
+### Genuine Public Website Preview
+
+<img src="./assets/previews/dr-shoaib-live.png" width="100%" alt="Actual Dr Shoaib Zafar psychiatry website homepage and selected public pages"/>
+
+### Selected Public Pages
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-home.png" width="100%" alt="Real public Dr Shoaib Homepage webpage screenshot" /><br/><sub><b>Homepage</b> · Public webpage preview</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-why.png" width="100%" alt="Real public Dr Shoaib Why Dr. Shoaib? webpage screenshot" /><br/><sub><b>Why Dr. Shoaib?</b> · Public webpage preview</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-blog.png" width="100%" alt="Real public Dr Shoaib Mental Health Articles webpage screenshot" /><br/><sub><b>Mental Health Articles</b> · Public webpage preview</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-pathways.png" width="100%" alt="Real public Dr Shoaib Recovery Pathways webpage screenshot" /><br/><sub><b>Recovery Pathways</b> · Public webpage preview</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-adult.png" width="100%" alt="Real public Dr Shoaib Adult Psychiatry webpage screenshot" /><br/><sub><b>Adult Psychiatry</b> · Public webpage preview</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-child.png" width="100%" alt="Real public Dr Shoaib Child &amp; Adolescent Care webpage screenshot" /><br/><sub><b>Child &amp; Adolescent Care</b> · Public webpage preview</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-research.png" width="100%" alt="Real public Dr Shoaib Research &amp; Insights webpage screenshot" /><br/><sub><b>Research &amp; Insights</b> · Public webpage preview</sub></td>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-telepsychiatry.png" width="100%" alt="Real public Dr Shoaib Online Consultation Information webpage screenshot" /><br/><sub><b>Online Consultation Information</b> · Public webpage preview</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><img src="./assets/previews/dr-shoaib-services.png" width="100%" alt="Real public Dr Shoaib Psychiatry Services webpage screenshot" /><br/><sub><b>Psychiatry Services</b> · Public webpage preview</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+*Screenshot images are not website or source links. Only anonymous public pages are captured, never admin, private patient records or authenticated booking flows. The private source project and manually deployed production site are unchanged.*
 
 <!-- REHABCONNECT-PUBLIC-PAGES:START -->
 ## RehabConnect — Healthcare Discovery & Facility Operations
