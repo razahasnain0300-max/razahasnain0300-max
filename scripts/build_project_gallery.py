@@ -62,15 +62,19 @@ def load_curated(path):
         image = plain(raw.get("image"), 140)
         if not title or not summary or not image.startswith("assets/previews/"):
             raise ValueError("Curated projects need approved title, summary and local preview")
-        if not re.fullmatch(r"assets/previews/[a-zA-Z0-9-]+\.svg", image):
+        if not re.fullmatch(r"assets/previews/[a-zA-Z0-9-]+\.(?:svg|png|jpg|jpeg|webp)", image):
             raise ValueError("Invalid curated image path")
         if canonical(title) in seen:
             raise ValueError("Duplicate curated project")
         if not (ROOT / image).is_file():
             raise ValueError("Missing curated concept art: " + image)
         seen.add(canonical(title))
+        preview_kind = plain(raw.get("preview_kind") or "concept", 35)
+        if preview_kind not in ("concept", "real_website_screenshot"):
+            raise ValueError("Unsupported preview kind")
         items.append(dict(
             title=title, summary=summary, category=category or "Software solution",
+            preview_kind=preview_kind,
             image="./" + image, public_url="", is_public=False,
             date="", source="curated", order=index,
         ))
@@ -200,7 +204,8 @@ def card_text(item, link_images=True):
         image_tag = f'<a href="{html.escape(item["public_url"], quote=True)}">{image_tag}</a>'
     date = format_date(item.get("date"))
     tag = "PUBLIC REPOSITORY" if item["is_public"] else (
-        "APPROVED SHOWCASE" if item["source"]=="approved_private" else "PRIVATE-SOURCE CONCEPT")
+        "PUBLIC WEBSITE SCREENSHOT" if item.get("preview_kind") == "real_website_screenshot" else (
+        "APPROVED SHOWCASE" if item["source"]=="approved_private" else "PRIVATE-SOURCE CONCEPT"))
     when = (" · Created " + date) if date else ""
     # Centered graphic plus compact contextual label; no redundant giant heading.
     return image_tag + f'<br/><sub><b>{escape(tag)}</b>{escape(when)} · {escape(item["category"])}</sub>'
