@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="292" viewBox="0 0 1120 292" role="img" aria-label="Premium software organization discovery development deployment contact invitation"><title>Premium software organization discovery development deployment contact invitation</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".5" stop-color="#10152D"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202348"/><stop offset="1" stop-color="#0F162C"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".31"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0 H0 V29" fill="none" stroke="#22D3EE" stroke-opacity=".075" stroke-width=".8"/></pattern>
+<style>
+.mono{font-family:Consolas,'Courier New',monospace!important}.hover{animation:levitate 8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 5s ease-in-out infinite}@keyframes levitate{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="292" rx="24" fill="url(#bg)"/><rect width="1120" height="292" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="290" rx="23" fill="none" stroke="#8B5CF6" stroke-opacity=".5"/>
+<rect x="46" y="0" width="230" height="3" rx="2" fill="url(#stroke)"/>
+
+<ellipse cx="971" cy="133" rx="215" ry="205" fill="url(#halo)"/>
+<text x="47" y="54" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#22D3EE" class="mono">LET'S BUILD YOUR NEXT PLATFORM</text>
+<text x="47" y="114" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="860" fill="#EEF4FF" >One team. From idea to launch.</text>
+<text x="47" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="640" fill="#C4B5FD" >Websites • Enterprise software • Mobile apps • Desktop products • AI</text>
+<text x="47" y="194" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="540" fill="#9BA9C2" >Discuss the brief, scope, integrations, preferred stack and delivery milestones.</text>
+<rect x="46" y="216" width="441" height="49" rx="12" fill="#8B5CF6" fill-opacity=".25" stroke="#C4B5FD" stroke-opacity=".8"/>
+<text x="68" y="248" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" fill="#EEF4FF" >REQUEST A PROJECT PROPOSAL  →</text>
+<g class="hover"><path d="M939 55 L1035 100 L987 204 L869 179 Z" fill="#8B5CF6" fill-opacity=".17" stroke="#22D3EE" stroke-opacity=".8" stroke-width="2"/>
+<path d="M939 55 L928 151 L987 204 M1035 100 L928 151 L869 179 M869 179 L939 55" stroke="#C4B5FD" fill="none" stroke-width="2" stroke-opacity=".9"/>
+<circle cx="939" cy="55" r="5" fill="#22D3EE"/><circle cx="987" cy="204" r="5" fill="#C4B5FD"/></g>
+
+</svg>

@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="796" viewBox="0 0 1120 796" role="img" aria-label="Premium software agency service capabilities: websites landing pages ERP CRM CMS SaaS ecommerce Android iOS desktop AI APIs analytics"><title>Premium software agency service capabilities: websites landing pages ERP CRM CMS SaaS ecommerce Android iOS desktop AI APIs analytics</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".5" stop-color="#10152D"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202348"/><stop offset="1" stop-color="#0F162C"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".31"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0 H0 V29" fill="none" stroke="#22D3EE" stroke-opacity=".075" stroke-width=".8"/></pattern>
+<style>
+.mono{font-family:Consolas,'Courier New',monospace!important}.hover{animation:levitate 8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 5s ease-in-out infinite}@keyframes levitate{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="796" rx="24" fill="url(#bg)"/><rect width="1120" height="796" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="794" rx="23" fill="none" stroke="#8B5CF6" stroke-opacity=".5"/>
+<rect x="46" y="0" width="230" height="3" rx="2" fill="url(#stroke)"/>
+
+<ellipse cx="960" cy="105" rx="280" ry="250" fill="url(#halo)"/>
+<text x="46" y="52" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="780" fill="#22D3EE" class="mono">DIGITAL ENGINEERING  /  COMPLETE SOLUTION CATALOG</text>
+<text x="46" y="103" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="870" fill="#EEF4FF" >From first impression to enterprise operations.</text>
+<text x="46" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="570" fill="#9BA9C2" >Websites  •  Business Platforms  •  Mobile &amp; Desktop  •  Integrations  •  Growth</text>
+<g class="hover" style="animation-delay:0.00s">
+<rect x="49" y="184" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M55 193 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="42" y="175" width="335" height="133" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="60" y="195" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="80" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">01</text>
+<text x="114" y="213" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >Websites &amp; Landing Pages</text>
+<rect x="115" y="224" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="61" y="261" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Corporate · marketing · responsive</text><text x="61" y="282" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >SEO · lead generation · launch</text>
+</g><g class="hover" style="animation-delay:0.21s">
+<rect x="407" y="184" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M413 193 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="400" y="175" width="335" height="133" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="418" y="195" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="438" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">02</text>
+<text x="472" y="213" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >ERP &amp; Business Operations</text>
+<rect x="473" y="224" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="419" y="261" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Inventory · procurement · finance</text><text x="419" y="282" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >HR · workflow · multi-branch</text>
+</g><g class="hover" style="animation-delay:0.42s">
+<rect x="765" y="184" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M771 193 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="758" y="175" width="335" height="133" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="776" y="195" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="796" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">03</text>
+<text x="830" y="213" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >CRM &amp; Sales Platforms</text>
+<rect x="831" y="224" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="777" y="261" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Leads · pipeline · customer data</text><text x="777" y="282" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Quotes · follow-ups · service</text>
+</g><g class="hover" style="animation-delay:0.63s">
+<rect x="49" y="333" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M55 342 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="42" y="324" width="335" height="133" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="60" y="344" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="80" y="371" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">04</text>
+<text x="114" y="362" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >CMS &amp; Content Systems</text>
+<rect x="115" y="373" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="61" y="410" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Blogs · editorial · media libraries</text><text x="61" y="431" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Roles · approvals · multilingual</text>
+</g><g class="hover" style="animation-delay:0.84s">
+<rect x="407" y="333" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M413 342 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="400" y="324" width="335" height="133" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="418" y="344" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="438" y="371" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">05</text>
+<text x="472" y="362" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >SaaS &amp; Web Applications</text>
+<rect x="473" y="373" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="419" y="410" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Dashboards · portals · PWA</text><text x="419" y="431" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Subscriptions · multitenancy</text>
+</g><g class="hover" style="animation-delay:1.05s">
+<rect x="765" y="333" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M771 342 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="758" y="324" width="335" height="133" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="776" y="344" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="796" y="371" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">06</text>
+<text x="830" y="362" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >E-Commerce &amp; Marketplace</text>
+<rect x="831" y="373" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="777" y="410" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Catalog · checkout · shipping</text><text x="777" y="431" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Sellers · inventory · orders</text>
+</g><g class="hover" style="animation-delay:1.26s">
+<rect x="49" y="482" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M55 491 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="42" y="473" width="335" height="133" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="60" y="493" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="80" y="520" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">07</text>
+<text x="114" y="511" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >Android &amp; iOS Apps</text>
+<rect x="115" y="522" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="61" y="559" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Native · cross-platform solutions</text><text x="61" y="580" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Customer · staff · field teams</text>
+</g><g class="hover" style="animation-delay:1.47s">
+<rect x="407" y="482" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M413 491 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="400" y="473" width="335" height="133" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="418" y="493" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="438" y="520" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">08</text>
+<text x="472" y="511" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >Desktop Applications</text>
+<rect x="473" y="522" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="419" y="559" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Windows · macOS · Linux</text><text x="419" y="580" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Offline · devices · utilities</text>
+</g><g class="hover" style="animation-delay:1.68s">
+<rect x="765" y="482" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M771 491 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="758" y="473" width="335" height="133" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="776" y="493" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="796" y="520" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">09</text>
+<text x="830" y="511" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >AI &amp; Smart Automation</text>
+<rect x="831" y="522" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="777" y="559" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >AI-assisted workflows · chatbots</text><text x="777" y="580" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Document tools · processes</text>
+</g><g class="hover" style="animation-delay:1.89s">
+<rect x="49" y="631" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M55 640 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="42" y="622" width="335" height="133" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="60" y="642" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="80" y="669" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">10</text>
+<text x="114" y="660" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >APIs &amp; System Integration</text>
+<rect x="115" y="671" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="61" y="708" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >REST · GraphQL · webhooks</text><text x="61" y="729" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Payments · third-party services</text>
+</g><g class="hover" style="animation-delay:2.10s">
+<rect x="407" y="631" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M413 640 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="400" y="622" width="335" height="133" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="418" y="642" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="438" y="669" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">11</text>
+<text x="472" y="660" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >Data &amp; Reporting</text>
+<rect x="473" y="671" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="419" y="708" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Analytics · exports · dashboards</text><text x="419" y="729" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Database design · operations</text>
+</g><g class="hover" style="animation-delay:2.31s">
+<rect x="765" y="631" width="335" height="133" rx="18" fill="#040613" opacity=".8"/>
+<path d="M771 640 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="758" y="622" width="335" height="133" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="776" y="642" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="796" y="669" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">12</text>
+<text x="830" y="660" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >UI/UX &amp; Digital Growth</text>
+<rect x="831" y="671" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="777" y="708" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Design systems · accessibility</text><text x="777" y="729" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >SEO · content · performance</text>
+</g>
+<text x="45" y="786" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C4B5FD" >Each solution is scoped, designed, built and supported according to the client's goals.</text>
+
+</svg>

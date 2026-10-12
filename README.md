@@ -5,11 +5,11 @@
 
 <img src="./assets/reel-terminal.svg?v=7" width="100%" alt="Animated purple particle portrait and developer terminal" />
 
-### Multi-member software development & digital solutions team
+### Full-service software engineering · Enterprise solutions · Digital transformation
 
-**Websites • Web Applications • Mobile Apps • Desktop Software • APIs • AI & Automation • Digital Marketing**
+**Websites & Landing Pages • ERP • CRM • CMS • SaaS • E-commerce • Web Apps • Android & iOS • Desktop Software • AI & Automation**
 
-[**✉️ Hire Our Team / Request a Proposal**](mailto:razahasnain0300@gmail.com?subject=Team%20Software%20Project%20Proposal) &nbsp;·&nbsp; [**Explore 13 Projects**](./PORTFOLIO.md) &nbsp;·&nbsp; [**View Public Code**](https://github.com/razahasnain0300-max?tab=repositories&type=public)
+[**✉️ Request a Software Proposal**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Services**](./SERVICES.md) &nbsp;·&nbsp; [**Technology Stack**](./TECHNOLOGY_STACK.md) &nbsp;·&nbsp; [**13 Project Concepts**](./PORTFOLIO.md)
 
 <img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
 
@@ -23,9 +23,9 @@
 
 **Our team approach:** We combine project planning, UI/UX, frontend and backend engineering, database systems, mobile and desktop solutions, quality assurance, release engineering and ongoing support. Individual assignments and availability are agreed for each project.
 
-**Our services:** Business websites, e-commerce, web applications, admin panels, CRM/ERP-style platforms, Android solutions, desktop tools, AI-assisted automation, REST APIs, integrations and search-focused digital solutions.
+**What we design and deliver:** Corporate websites and every kind of campaign landing page; custom **ERP, CRM, CMS, HRMS, POS, LMS and SaaS** platforms; business portals and dashboards; e-commerce and marketplaces; Android/iOS apps; Windows/macOS/Linux desktop software; APIs, integrations, automation, and AI-assisted workflows. Engagements are scoped according to the assigned team's verified skills and delivery capacity.
 
-[**Request a proposal from our team →**](mailto:razahasnain0300@gmail.com?subject=Team%20Software%20Project%20Proposal)
+[**Request a proposal from our team →**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry)
 
 <div align="center">
 
@@ -33,6 +33,22 @@
 <img src="./assets/agency-stack.svg?v=8" width="100%" alt="Programming languages technologies and platforms used for websites web apps mobile and desktop solutions" />
 
 </div>
+
+## Full-service software engineering
+
+<div align="center">
+
+<img src="./assets/enterprise-service-matrix.svg?v=10" width="100%" alt="Twelve premium enterprise software agency services spanning websites, landing pages, ERP, CRM, CMS, SaaS, ecommerce, mobile apps, desktop software and automation" />
+
+</div>
+
+| Digital experiences | Business systems | Applications and integrations |
+|:--|:--|:--|
+| Corporate, personal, nonprofit and industry websites | **ERP**, accounting workflows, procurement and inventory | Custom web apps, SaaS, PWA and customer portals |
+| Landing pages: PPC, lead generation, apps, products, events and sales funnels | **CRM**, lead pipelines, support, HRMS and project management | **Android & iOS**, desktop software, device integrations |
+| Content portals, blogs, news, editorial platforms, multilingual sites | **CMS**, LMS, POS, bookings and reporting dashboards | E-commerce, marketplaces, APIs, automation and AI assistants |
+
+**[Explore the complete website, ERP, CRM, CMS, SaaS and app service catalog →](./SERVICES.md)**
 
 ## Inspired developer interface
 
@@ -92,31 +108,38 @@ There are no additional **public** repositories currently. New public repositori
 <!-- APPROVED-CASESTUDIES:START -->
 <!-- APPROVED-CASESTUDIES:END -->
 
-## Programming languages, technologies and frameworks
+## Programming languages, frameworks & platform capabilities
 
-| Development category | Technologies and languages |
-|---|---|
-| **Websites and frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS |
-| **Web applications / backend** | JavaScript, TypeScript, Node.js, Express, Python, REST APIs |
-| **Database technologies** | SQL, MySQL/mysql2, PostgreSQL, MongoDB |
-| **Desktop applications** | Electron, JavaScript, TypeScript, Node.js, Python |
-| **Mobile development options** | Android (Kotlin, Java), React Native, Flutter/Dart — dependent on requirements |
-| **Infrastructure & tooling** | Git, GitHub, Linux/VPS, Nginx, PM2, automated tests and delivery |
-| **Other common language ecosystems** | PHP, C#, C++, Go, Rust, Ruby and Swift — discuss fit and specialist availability |
+<div align="center">
 
-Our **core demonstrated project stack** centers on Node.js, React, JavaScript/TypeScript, HTML/CSS, MySQL, Python, API integrations and software automation. Other languages listed are **potential project options**, not a claim of expert proficiency in every language.
+<img src="./assets/enterprise-technology-matrix.svg?v=10" width="100%" alt="Full-stack technology coverage including React Next.js Three.js Python Node.js .NET C# Java Kotlin Swift Flutter Electron PHP SQL Go Rust and cloud" />
 
-[**Explore our technology and team capabilities →**](./TECHNOLOGY_STACK.md)
+</div>
 
-GitHub's official contribution graph is the authoritative source of activity. The previously shared **569 contributions** figure is a screenshot snapshot dated **11 October 2026**, not a live counter.
+| Technology area | Languages, frameworks and project options |
+|:--|:--|
+| **Web & interactive UI** | HTML5, CSS3, JavaScript, TypeScript, React, **Next.js**, **Three.js**, Vue, Nuxt, Angular, Svelte, Tailwind |
+| **Backend & APIs** | **Python**, Django, FastAPI, Flask, **Node.js**, Express, NestJS, PHP/Laravel, Ruby/Rails, Go, REST, GraphQL |
+| **Enterprise & .NET** | **C#**, **.NET / ASP.NET Core**, Blazor, **Java**, Spring Boot, Kotlin, C/C++, Rust |
+| **Android & iOS** | **Java**, **Kotlin**, **Swift**, Objective-C, **Flutter/Dart**, React Native, Ionic/Capacitor |
+| **Desktop & systems** | Electron, Tauri, Python, **C#/.NET**, Java, C++, Qt, WPF, WinUI, Bash, PowerShell |
+| **Databases & DevOps** | MySQL, PostgreSQL, SQL Server, SQLite, MongoDB, Redis, Git, GitHub Actions, Linux, VPS, Docker, AWS, Azure, GCP |
+| **CMS & e-commerce ecosystems** | WordPress, WooCommerce, Shopify, Drupal, headless CMS, Magento, custom CMS |
+
+**Our proven/core project background** focuses on React, Node.js, JavaScript/TypeScript, Python, SQL/MySQL, MongoDB, APIs and software automation. **Additional frameworks/languages are project options assessed against team availability**, rather than unverified claims of expert proficiency in every stack.
+
+**[Full language-by-language technology matrix →](./TECHNOLOGY_STACK.md)**
+
+GitHub's own contribution graph is the authoritative record of contributions; neither these graphics nor the profile automation invent commit counts.
 
 ## Work with our team
 
 <div align="center">
 
+<img src="./assets/enterprise-contact.svg?v=10" width="100%" alt="Premium team-led enterprise web mobile desktop development invitation" />
 <img src="./assets/client-contact.svg?v=7" width="100%" alt="Invite clients to request a project quote" />
 
-[**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Team%20Software%20Project%20Proposal) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
+[**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
 
 <sub>Syed's IT Solution & Digital Marketing Services · Multidisciplinary software team · Dubai, UAE</sub>
 

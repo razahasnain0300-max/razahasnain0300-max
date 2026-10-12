@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="730" viewBox="0 0 1120 730" role="img" aria-label="Comprehensive software engineering technology ecosystems Python Node.js React Next.js Three.js JavaScript TypeScript .NET C# Java Kotlin Swift Flutter Dart PHP Go Rust SQL Electron"><title>Comprehensive software engineering technology ecosystems Python Node.js React Next.js Three.js JavaScript TypeScript .NET C# Java Kotlin Swift Flutter Dart PHP Go Rust SQL Electron</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".5" stop-color="#10152D"/><stop offset="1" stop-color="#070B14"/></linearGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202348"/><stop offset="1" stop-color="#0F162C"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8B5CF6" stop-opacity=".31"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0 H0 V29" fill="none" stroke="#22D3EE" stroke-opacity=".075" stroke-width=".8"/></pattern>
+<style>
+.mono{font-family:Consolas,'Courier New',monospace!important}.hover{animation:levitate 8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 5s ease-in-out infinite}@keyframes levitate{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1120" height="730" rx="24" fill="url(#bg)"/><rect width="1120" height="730" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1118" height="728" rx="23" fill="none" stroke="#8B5CF6" stroke-opacity=".5"/>
+<rect x="46" y="0" width="230" height="3" rx="2" fill="url(#stroke)"/>
+
+<text x="46" y="52" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="780" fill="#22D3EE" class="mono">TECHNOLOGY COVERAGE  /  LANGUAGES &amp; PLATFORM OPTIONS</text>
+<text x="46" y="107" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="865" fill="#EEF4FF" >The right stack. The right solution.</text>
+<text x="46" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="550" fill="#9BA9C2" >Core delivered technologies plus wider ecosystems evaluated for each engagement.</text>
+<g class="hover" style="animation-delay:0.00s">
+<rect x="49" y="186" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M55 195 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="42" y="177" width="335" height="156" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="60" y="197" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="80" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">01</text>
+<text x="114" y="215" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >WEB &amp; INTERACTIVE</text>
+<rect x="115" y="226" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="61" y="263" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >HTML · CSS · JavaScript · TypeScript</text><text x="61" y="284" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >React · Next.js · Three.js</text><text x="61" y="305" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Vue · Nuxt · Angular · Svelte</text>
+</g><g class="hover" style="animation-delay:0.21s">
+<rect x="407" y="186" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M413 195 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="400" y="177" width="335" height="156" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="418" y="197" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="438" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">02</text>
+<text x="472" y="215" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >PYTHON &amp; NODE.JS</text>
+<rect x="473" y="226" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="419" y="263" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Node.js · Express · NestJS</text><text x="419" y="284" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Python · Django · FastAPI · Flask</text><text x="419" y="305" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Web APIs · background services</text>
+</g><g class="hover" style="animation-delay:0.42s">
+<rect x="765" y="186" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M771 195 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="758" y="177" width="335" height="156" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="776" y="197" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="796" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">03</text>
+<text x="830" y="215" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >.NET &amp; ENTERPRISE</text>
+<rect x="831" y="226" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="777" y="263" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >C# · ASP.NET Core · .NET</text><text x="777" y="284" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Blazor · WPF · WinUI</text><text x="777" y="305" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Enterprise integration options</text>
+</g><g class="hover" style="animation-delay:0.63s">
+<rect x="49" y="358" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M55 367 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="42" y="349" width="335" height="156" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="60" y="369" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="80" y="396" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">04</text>
+<text x="114" y="387" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >JAVA &amp; SERVER SYSTEMS</text>
+<rect x="115" y="398" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="61" y="435" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Java · Spring Boot · Kotlin</text><text x="61" y="456" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Enterprise services · Android</text><text x="61" y="477" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >JVM-based system options</text>
+</g><g class="hover" style="animation-delay:0.84s">
+<rect x="407" y="358" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M413 367 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="400" y="349" width="335" height="156" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="418" y="369" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="438" y="396" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">05</text>
+<text x="472" y="387" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >MOBILE &amp; CROSS-PLATFORM</text>
+<rect x="473" y="398" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="419" y="435" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Swift · Kotlin · Java</text><text x="419" y="456" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Flutter · Dart · React Native</text><text x="419" y="477" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Android · iOS · tablet</text>
+</g><g class="hover" style="animation-delay:1.05s">
+<rect x="765" y="358" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M771 367 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="758" y="349" width="335" height="156" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="776" y="369" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="796" y="396" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">06</text>
+<text x="830" y="387" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >DESKTOP &amp; NATIVE</text>
+<rect x="831" y="398" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="777" y="435" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Electron · Tauri · Python</text><text x="777" y="456" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >C++ · C# · Java · Qt</text><text x="777" y="477" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Windows · macOS · Linux</text>
+</g><g class="hover" style="animation-delay:1.26s">
+<rect x="49" y="530" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M55 539 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="42" y="521" width="335" height="156" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="60" y="541" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="80" y="568" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">07</text>
+<text x="114" y="559" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >CONTENT &amp; COMMERCE</text>
+<rect x="115" y="570" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="61" y="607" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >WordPress · Shopify · headless CMS</text><text x="61" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >PHP · Laravel · WooCommerce</text><text x="61" y="649" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Strapi · Payload · Magento</text>
+</g><g class="hover" style="animation-delay:1.47s">
+<rect x="407" y="530" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M413 539 l300 -11 l20 18 l-300 13 Z" fill="#8B5CF6" fill-opacity=".10"/>
+<rect x="400" y="521" width="335" height="156" rx="18" fill="url(#card)" stroke="#8B5CF6" stroke-opacity=".61"/>
+<rect x="418" y="541" width="40" height="40" rx="11" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".57"/>
+<text x="438" y="568" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#8B5CF6" text-anchor="middle" class="mono">08</text>
+<text x="472" y="559" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >DATABASES &amp; CLOUD</text>
+<rect x="473" y="570" width="55" height="2" rx="1" fill="#22D3EE" fill-opacity=".65"/>
+<text x="419" y="607" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >MySQL · PostgreSQL · SQL Server</text><text x="419" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >MongoDB · Redis · SQLite</text><text x="419" y="649" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Azure · AWS · GCP · VPS</text>
+</g><g class="hover" style="animation-delay:1.68s">
+<rect x="765" y="530" width="335" height="156" rx="18" fill="#040613" opacity=".8"/>
+<path d="M771 539 l300 -11 l20 18 l-300 13 Z" fill="#22D3EE" fill-opacity=".10"/>
+<rect x="758" y="521" width="335" height="156" rx="18" fill="url(#card)" stroke="#22D3EE" stroke-opacity=".61"/>
+<rect x="776" y="541" width="40" height="40" rx="11" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".57"/>
+<text x="796" y="568" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="810" fill="#22D3EE" text-anchor="middle" class="mono">09</text>
+<text x="830" y="559" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="820" fill="#EEF4FF" >ADDITIONAL ECOSYSTEMS</text>
+<rect x="831" y="570" width="55" height="2" rx="1" fill="#8B5CF6" fill-opacity=".65"/>
+<text x="777" y="607" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#C4B5FD" >Go · Rust · Ruby · Swift · C</text><text x="777" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >GraphQL · CI/CD · Docker</text><text x="777" y="649" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="540" fill="#9BA9C2" >Selected to project requirements</text>
+</g>
+<text x="46" y="718" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="570" fill="#C4B5FD" >Listed options are not a claim of certified expertise in every framework or language.</text>
+
+</svg>

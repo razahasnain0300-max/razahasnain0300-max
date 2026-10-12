@@ -1,8 +1,8 @@
 # Software Development Portfolio
 
-**Syed's IT Solution & Digital Marketing Services** — multi-member software development team led by **Syed Hasnain Raza**. Delivering web, Android and desktop solutions, APIs, automation and digital marketing.
+**Syed's IT Solution & Digital Marketing Services** — team-led engineering services, guided by **Syed Hasnain Raza**. Websites, landing pages, ERP/CRM/CMS, SaaS, mobile and desktop applications, e-commerce, APIs, AI and automation.
 
-[Technology & team capabilities](./TECHNOLOGY_STACK.md)
+[Technology matrix](./TECHNOLOGY_STACK.md) · [Complete solutions catalog](./SERVICES.md)
 
 [**✉️ Discuss a project**](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Inquiry) · [**Back to Profile**](./README.md)
 
@@ -10,7 +10,7 @@
 
 ## Software development services
 
-I design and build **websites, web applications, Android apps, desktop software, custom dashboards, APIs, e-commerce systems, admin panels and automation tools**. This is a capability overview, not a claim that each project has a public live demonstration.
+Our team works on **websites, all types of landing pages, ERP, CRM, CMS, HRMS, POS, LMS, SaaS, web applications, Android/iOS and desktop software, custom dashboards, APIs, e-commerce, automation and integrations**. This is a capability overview, not a claim that each project has a public live demonstration.
 
 Thirteen software repositories, one team-led project portfolio. Each image below is an **illustrative design mockup**, not a real application screenshot. Project descriptions are intentionally high level. This public document does **not** contain the underlying private source code, credentials or deployment configuration.
 
@@ -27,18 +27,14 @@ Thirteen software repositories, one team-led project portfolio. Each image below
 | <strong>AMAKEN EXECUTIVE</strong><br/><img src="./assets/previews/amaken-exec.svg?v=7" width="100%" alt="AMAKEN EXECUTIVE concept preview"><br/><sub>Executive management dashboard and analytics.</sub> |  |
 
 
-## Source code and demo policy
+## Source code, examples and confidentiality
 
-- **Private-source projects:** presentation-only overview. No direct private repository links or code are published here.
-- **Currently public-source projects:** the two ARE cards and two Amaken dashboard repositories remain publicly accessible until their owner changes visibility in GitHub settings. A README cannot hide source code in a public repository.
-- **Live application demos:** separate hosting or an existing public demo URL is required. These concept illustrations are not live demos.
-- **GitHub activity:** the user's actual contribution graph appears in the profile's native GitHub contribution section. The reported 569 count is a dated screenshot, not fabricated activity.
+- **Private-source projects:** All application repositories currently reviewed are private. Public-facing graphics are high-level **illustrative design concepts**, not live screenshots or proof of every feature.
+- **Public source links:** We do not expose direct links to private application repositories. The GitHub profile repository is public so that visitors can view the professional README.
+- **Live demos:** Existing public demos or separate application hosting are required; visual project concepts do not function as live demos.
+- **Automatic repository discovery:** New *public* repositories are showcased by GitHub Actions. New *private* projects require an explicit public-safe approval entry, and source code stays private.
+- **Genuine activity:** GitHub's native contribution calendar is authoritative; a dated contribution screenshot is not a live counter.
 
-## Four currently public repositories
+[**Review our enterprise service offerings →**](./SERVICES.md) · [**Technology matrix →**](./TECHNOLOGY_STACK.md)
 
-- [ARE 5D / 3D CARD](https://github.com/razahasnain0300-max/5D-3D-interacting---ARE-Business-Card) — Floating UI cubes, identity and vCard interactions.
-- [ARE BUSINESS CARD](https://github.com/razahasnain0300-max/5D-interacting---ARE-Business-Card) — Interactive portfolio and digital card experience.
-- [AMAKEN CEO](https://github.com/razahasnain0300-max/amaken-real-estate-ceo) — Leadership insights for properties, leads and sales.
-- [AMAKEN EXECUTIVE](https://github.com/razahasnain0300-max/ceo-amaken-realestate) — Executive management dashboard and analytics.
-
-*Public previews will remain visible in this profile even if the corresponding application repositories are made private later.*
+*Please contact us for a tailored technical review and relevant work samples. We do not publish confidential client assets or repository contents.*
