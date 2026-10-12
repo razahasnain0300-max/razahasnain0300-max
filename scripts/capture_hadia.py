@@ -187,7 +187,7 @@ def update_manifest():
         "⭐ Reviews & Ratings", "📦 Inventory Management", "🔄 Returns & Refunds",
         "🔔 Real-Time Updates", "📨 Contact & Support"
     ]
-    item["short_description"] = "Curated fashion shopping, new arrivals and a complete online retail experience."
+    item["short_description"] = "Hadia & Taha fashion storefront — curated collections, new arrivals, product browsing and customer shopping."
     item["description"] = "Fashion e-commerce platform built with Node.js, Express, EJS and MySQL, including catalog search, product options, customer shopping, orders and inventory workflows."
     item["preview_kind"] = "real_website_screenshot"
     item["summary"] = "Fashion shopping with curated collections, new arrivals, products, cart, orders and customer support"

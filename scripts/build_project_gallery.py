@@ -71,8 +71,8 @@ def load_curated(path):
         seen.add(canonical(title))
         website_type = plain(raw.get("website_type") or category or "Software platform", 62)
         raw_features = raw.get("features") or []
-        if not isinstance(raw_features, list) or len(raw_features) > 12:
-            raise ValueError("Project features must be an array of at most 12 items")
+        if not isinstance(raw_features, list) or len(raw_features) > 24:
+            raise ValueError("Project features must be an array of at most 24 items")
         features = [plain(x, 42) for x in raw_features if isinstance(x, str) and plain(x, 42)]
         preview_kind = plain(raw.get("preview_kind") or "concept", 35)
         if preview_kind not in ("concept", "real_website_screenshot"):
@@ -203,29 +203,42 @@ def generated_card(item):
 
 
 def card_text(item, link_images=True):
+    """GitHub-safe high-quality project card: image, category, features and stack.
+
+    Curated public website screenshots are NEVER hyperlinks. Public source links
+    are only generated for actually public repositories.
+    """
     path = item["image"].lstrip("./")
-    image_tag = f'<img src="./{path}" width="100%" alt="{escape(item["title"])} visual project card"/>'
-    # Curated projects remain image-only, without links to source or websites.
-    if item["is_public"] and item["public_url"]:
-        image_tag = f'<a href="{html.escape(item["public_url"], quote=True)}">{image_tag}</a>'
+    image = f'<img src="./{path}" width="100%" alt="{escape(item["title"])} website or project showcase"/>'
+    if item["is_public"] and item["public_url"] and link_images:
+        image = f'<a href="{html.escape(item["public_url"], quote=True)}">{image}</a>'
     date = format_date(item.get("date"))
-    tag = "PUBLIC REPOSITORY" if item["is_public"] else (
-        "PUBLIC WEBSITE SCREENSHOT" if item.get("preview_kind") == "real_website_screenshot" else (
-        "APPROVED SHOWCASE" if item["source"]=="approved_private" else "PRIVATE-SOURCE CONCEPT"))
+    screenshot = item.get("preview_kind") == "real_website_screenshot"
+    kind = ("REAL PUBLIC WEBSITE PREVIEW" if screenshot else
+            "PUBLIC REPOSITORY" if item["is_public"] else
+            "APPROVED PROJECT" if item["source"] == "approved_private" else
+            "ILLUSTRATIVE PORTFOLIO CONCEPT")
     when = (" · Created " + date) if date else ""
     title = escape(item["title"])
-    summary = escape(item.get("summary") or "Software project showcase")
-    category = escape(item.get("website_type") or item.get("category") or "Software project")
-    features = [escape(x) for x in item.get("features", [])][:7]
+    project_type = escape(item.get("website_type") or item.get("category") or "Software")
+    summary = escape(item.get("short_description") or item.get("summary") or "")
+    features = [escape(x) for x in item.get("features", [])][:8]
+    technologies = [escape(x) for x in item.get("technologies", [])][:6]
     details = (
-        f'<br/><sub><b>{escape(tag)}</b>{escape(when)}</sub>'
+        f'<br/><sub><b>{escape(kind)}</b>{escape(when)}</sub>'
         f'<br/><strong>{title}</strong>'
-        f'<br/><sub><b>TYPE:</b> {category}</sub>'
+        f'<br/><sub><b>🏷️ {project_type}</b></sub>'
         f'<br/><sub>{summary}</sub>'
     )
     if features:
-        details += '<br/><sub><b>FEATURES:</b> ' + ' · '.join(features) + '</sub>'
-    return image_tag + details
+        details += '<br/><sub><b>✨ FEATURES</b></sub><br/>' + " ".join(
+            '<code>' + f + '</code>' for f in features
+        )
+    if technologies:
+        details += '<br/><sub><b>⚙️ BUILT WITH</b></sub><br/>' + " ".join(
+            '<code>' + tech + '</code>' for tech in technologies
+        )
+    return image + details
 
 def table(items):
     if not items:
