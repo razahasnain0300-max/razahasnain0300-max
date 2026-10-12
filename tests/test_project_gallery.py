@@ -69,5 +69,20 @@ class ProjectGalleryTests(unittest.TestCase):
         self.assertNotIn('href="https://hadia-collection.online', markup)
         self.assertNotIn('href="https://github.com', markup)
 
+    def test_curated_hadia_rich_metadata_and_tech_badges(self):
+        from build_project_gallery import load_curated, card_text, ROOT
+        projects = load_curated(ROOT / "portfolio" / "curated_projects.json")
+        items = [x for x in projects if x["title"] == "HADIA COLLECTION"]
+        self.assertEqual(len(items), 1)
+        item = items[0]
+        self.assertEqual(item["preview_kind"], "real_website_screenshot")
+        self.assertIn("Node.js", item["technologies"])
+        self.assertTrue(item["short_description"])
+        markup = card_text(item)
+        self.assertIn("BUILT WITH", markup)
+        self.assertIn("<code>Node.js</code>", markup)
+        self.assertIn("Fashion Collections", markup)
+        self.assertNotIn('href="https://hadia-collection.online', markup)
+
 if __name__ == "__main__":
     unittest.main()

@@ -74,12 +74,20 @@ def load_curated(path):
         if not isinstance(raw_features, list) or len(raw_features) > 24:
             raise ValueError("Project features must be an array of at most 24 items")
         features = [plain(x, 42) for x in raw_features if isinstance(x, str) and plain(x, 42)]
+        raw_stack = raw.get("technologies") or []
+        if not isinstance(raw_stack, list) or len(raw_stack) > 20:
+            raise ValueError("Technologies must be an array of at most 20 entries")
+        technologies = [plain(x, 36) for x in raw_stack if isinstance(x, str) and plain(x, 36)]
+        short_description = plain(raw.get("short_description") or "", 155)
+        description = plain(raw.get("description") or "", 360)
         preview_kind = plain(raw.get("preview_kind") or "concept", 35)
         if preview_kind not in ("concept", "real_website_screenshot"):
             raise ValueError("Unsupported preview kind")
         items.append(dict(
             title=title, summary=summary, category=category or "Software solution",
             preview_kind=preview_kind, website_type=website_type, features=features,
+            technologies=technologies, short_description=short_description,
+            description=description,
             image="./" + image, public_url="", is_public=False,
             date="", source="curated", order=index,
         ))
