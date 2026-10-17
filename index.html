@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#070b14">
+<meta name="description" content="An interactive purple snake game by Syed's IT Solution & Digital Marketing Services. The snake roams automatically and follows your mouse or touch.">
+<title>Purple Snake Lab — Syed's IT Solution</title>
+<style>
+:root{--bg:#070b14;--panel:#11162a;--purple:#8b5cf6;--cyan:#22d3ee;--text:#eef4ff;--dim:#94a3b8}
+*{box-sizing:border-box}
+body{background:radial-gradient(ellipse at 85% 5%,#6d28d939,transparent 40%),radial-gradient(ellipse at 5% 80%,#22d3ee1c,transparent 45%),var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,sans-serif;margin:0;min-height:100vh}
+main{max-width:1190px;margin:auto;padding:27px 22px 55px}
+.top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
+.logo{display:flex;gap:12px;align-items:center;text-decoration:none;color:inherit}
+.emblem{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:linear-gradient(130deg,#8b5cf6,#22d3ee);color:#070b14;font-size:22px;font-weight:900}
+.logo strong{display:block;font-size:15px;letter-spacing:-.3px}
+.logo small{display:block;margin-top:4px;font-size:12px;color:var(--dim)}
+.btn{border:1px solid #7c3aed8c;border-radius:12px;background:#8b5cf62a;padding:11px 18px;color:var(--text);font:inherit;font-weight:700;text-decoration:none;cursor:pointer}
+.btn:hover,.btn:focus-visible{border-color:var(--cyan);background:#0891b234;outline:none}
+.hero{text-align:center;padding:67px 0 28px}
+.kicker{font-size:12px;font-weight:800;letter-spacing:2px;color:var(--cyan)}
+h1{font-size:clamp(36px,6vw,70px);letter-spacing:-2px;line-height:1.07;margin:17px 0}
+h1 span{background:linear-gradient(90deg,#ddd6fe,#a78bfa,#22d3ee);background-clip:text;color:transparent}
+.sub{font-size:16px;line-height:1.7;color:var(--dim);max-width:750px;margin:0 auto}
+.window{margin-top:25px;padding:17px;border:1px solid #8b5cf67a;border-radius:23px;background:linear-gradient(135deg,#1b1735,#0a1324);box-shadow:0 25px 100px #7c3aed25}
+.toolbar{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap;padding:4px 8px 17px}
+.status{color:#ddd6fe;font-size:12px;font-weight:850;letter-spacing:1px;padding:10px 14px;border-radius:99px;border:1px solid #6d28d96a;background:#1e1b4b66}
+.indicator{display:inline-block;width:8px;height:8px;margin-right:8px;border-radius:50%;background:var(--cyan);box-shadow:0 0 14px var(--cyan)}
+.controls{display:flex;gap:9px}
+canvas{display:block;width:100%;height:auto;aspect-ratio:1040/420;border:1px solid #403257;border-radius:14px;touch-action:none;cursor:crosshair;background:#070b14}
+.help{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:16px 7px 3px;color:var(--dim);font-size:13px}
+.help b{color:#d8b4fe}
+.features{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:24px 0}
+.tile{background:#11162acc;border:1px solid #44345c;padding:21px;border-radius:16px}
+.tile strong{color:#e9d5ff}.tile p{color:var(--dim);font-size:14px;line-height:1.65;margin:9px 0 0}
+footer{margin-top:42px;border-top:1px solid #382d4c;padding-top:24px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;color:var(--dim);font-size:13px}
+@media(max-width:700px){main{padding:18px 11px}.hero{padding-top:42px}.features{grid-template-columns:1fr}.window{padding:9px}h1{letter-spacing:-1px}}
+</style>
+</head>
+<body>
+<main>
+<header class="top">
+<a class="logo" href="https://github.com/razahasnain0300-max"><span class="emblem" aria-hidden="true">S</span><span><strong>SYED'S IT SOLUTION</strong><small>&amp; Digital Marketing Services · Dubai, UAE</small></span></a>
+<a class="btn" href="https://github.com/razahasnain0300-max">↗ Visit our GitHub profile</a>
+</header>
+<section class="hero"><div class="kicker">EXPERIENCE THE INTERACTIVE CODE LAB</div><h1>Engineered to <span>follow your lead.</span></h1>
+<p class="sub">A purple snake that explores the grid automatically, then follows your cursor or touch. A small demonstration of responsive interaction, game logic and thoughtful user experience.</p></section>
+<section class="window" aria-label="Purple snake interactive simulation">
+<div class="toolbar"><span class="status"><span class="indicator" aria-hidden="true"></span><span id="status" aria-live="polite">AUTOPILOT · EXPLORING</span></span>
+<div class="controls"><button class="btn" id="pause" type="button">Pause</button><button class="btn" id="reset" type="button">New path ↻</button></div></div>
+<canvas id="game" width="1040" height="420" tabindex="0" role="img" aria-label="An interactive purple snake moving across a futuristic grid, following your cursor when it enters the canvas."></canvas>
+<div class="help"><span>✦ Move your <b>cursor or finger</b> onto the grid to guide the snake.</span><span>✦ Move away to restore <b>automatic roaming</b>.</span></div>
+</section>
+<section class="features"><article class="tile"><strong>01 / Adaptive movement</strong><p>Autonomous roaming with a pathfinding routine that seeks your target while avoiding its own body.</p></article><article class="tile"><strong>02 / Cross-device interaction</strong><p>Responsive Canvas, pointer and touch support, pause and restart controls, and reduced-motion consideration.</p></article><article class="tile"><strong>03 / Real software development</strong><p>Websites, SaaS, ERP, CRM, CMS, Android/iOS, desktop systems and custom applications designed for business.</p></article></section>
+<footer><span>Creative demonstration · Not GitHub contribution data · No fabricated activity</span><a class="btn" href="mailto:razahasnain0300@gmail.com?subject=Software%20Development%20Project%20Inquiry">✉ Request a project proposal →</a></footer>
+</main>
+<script>
+(function(){
+"use strict";
+var canvas=document.getElementById('game'),ctx=canvas.getContext('2d');
+var label=document.getElementById('status'),pause=document.getElementById('pause'),reset=document.getElementById('reset');
+if(!ctx){label.textContent='CANVAS UNAVAILABLE';return;}
+var cols=52,rows=17,W=1040,H=420,ox=26,oy=25,cw=(W-52)/cols,ch=(H-50)/rows;
+var dirs=[[1,0],[-1,0],[0,1],[0,-1]],snake,heading,target=null,playing=true,elapsed=0,last=0;
+var reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+function point(x,y){return{x:x,y:y}}
+function key(p){return p.x+','+p.y}
+function valid(p){return p.x>=0&&p.x<cols&&p.y>=0&&p.y<rows}
+function free(p,blocked){return dirs.map(function(d){return point(p.x+d[0],p.y+d[1])}).filter(function(n){return valid(n)&&!blocked.has(key(n))})}
+function restart(){snake=Array.from({length:13},function(_,i){return point(21-i,8)});heading=[1,0];target=null;elapsed=0;label.textContent='AUTOPILOT · EXPLORING'}
+function choose(head,blocked){
+var choices=free(head,blocked);if(!choices.length)return null;
+if(target){
+var seen=new Set([key(head)]),queue=[{p:head,first:null}];
+for(var i=0;i<queue.length;i++){var n=queue[i];if(n.p.x===target.x&&n.p.y===target.y)return n.first||choices[0];
+for(var item of free(n.p,blocked)){var k=key(item);if(!seen.has(k)){seen.add(k);queue.push({p:item,first:n.first||item})}}}
+choices.sort(function(a,b){return Math.abs(a.x-target.x)+Math.abs(a.y-target.y)-Math.abs(b.x-target.x)-Math.abs(b.y-target.y)});return choices[0];
+}
+var best=choices[0],score=-1e9;
+for(var p of choices){var dx=p.x-head.x,dy=p.y-head.y;
+var q=Math.random()*2.6+(dx===heading[0]&&dy===heading[1]?2.1:0)+free(p,blocked).length*.7+Math.min(p.x,cols-1-p.x,p.y,rows-1-p.y)*.09;
+if(q>score){score=q;best=p}}
+return best;
+}
+function step(){var head=snake[0],blocked=new Set(snake.slice(0,-1).map(key)),next=choose(head,blocked);if(!next){restart();return;}heading=[next.x-head.x,next.y-head.y];snake.unshift(next);snake.pop()}
+function rect(x,y,w,h,r){ctx.beginPath();ctx.roundRect(x,y,w,h,r)}
+function draw(t){
+ctx.clearRect(0,0,W,H);
+var bg=ctx.createLinearGradient(0,0,W,H);bg.addColorStop(0,'#090d19');bg.addColorStop(.55,'#15102c');bg.addColorStop(1,'#091925');ctx.fillStyle=bg;ctx.fillRect(0,0,W,H);
+for(var y=0;y<rows;y++)for(var x=0;x<cols;x++){var v=(x*93+y*37+x*y*7)%29;ctx.fillStyle=v>22?'#53359b36':'#64588920';rect(ox+x*cw+2,oy+y*ch+2,cw-4,ch-4,3);ctx.fill();}
+if(target){var tx=ox+(target.x+.5)*cw,ty=oy+(target.y+.5)*ch;ctx.strokeStyle='#22d3ee';ctx.lineWidth=2;ctx.beginPath();ctx.arc(tx,ty,15+Math.sin(t/450)*2,0,Math.PI*2);ctx.stroke()}
+ctx.shadowBlur=reduced?0:18;ctx.shadowColor='#8b5cf6';
+for(var i=snake.length-1;i>=0;i--){var p=snake[i],f=1-i/snake.length;
+ctx.fillStyle=i===0?'#f5f3ff':'rgba('+Math.round(70+128*f)+','+Math.round(36+80*f)+','+Math.round(150+91*f)+','+(.48+.51*f).toFixed(2)+')';
+rect(ox+p.x*cw+2,oy+p.y*ch+2,cw-4,ch-4,5);ctx.fill();if(i===0){ctx.strokeStyle='#22d3ee';ctx.lineWidth=1.5;ctx.stroke()}}
+ctx.shadowBlur=0;ctx.font='bold 12px monospace';ctx.fillStyle='#aea0cd';ctx.fillText(target?'POINTER TRACKING · TARGET LOCKED':'AUTOPILOT · RANDOM EXPLORATION',28,17);
+ctx.textAlign='right';ctx.fillStyle='#8074a0';ctx.fillText('INTERACTIVE ART · NOT GITHUB CONTRIBUTIONS',W-28,H-8);ctx.textAlign='left';
+}
+function frame(time){if(!last)last=time;var dt=Math.min(time-last,100);last=time;if(playing){elapsed+=dt;if(elapsed>110){step();elapsed=0}}draw(time);requestAnimationFrame(frame)}
+function cursor(e){var b=canvas.getBoundingClientRect(),x=(e.clientX-b.left)/b.width*W,y=(e.clientY-b.top)/b.height*H;var p=point(Math.floor((x-ox)/cw),Math.floor((y-oy)/ch));return valid(p)?p:null}
+canvas.addEventListener('pointermove',function(e){target=cursor(e);label.textContent=target?'FOLLOWING YOUR CURSOR':'AUTOPILOT · EXPLORING'});
+canvas.addEventListener('pointerdown',function(e){target=cursor(e);label.textContent=target?'FOLLOWING YOUR TOUCH':'AUTOPILOT · EXPLORING'});
+canvas.addEventListener('pointerleave',function(){target=null;label.textContent='AUTOPILOT · EXPLORING'});
+pause.addEventListener('click',function(){playing=!playing;pause.textContent=playing?'Pause':'Resume';label.textContent=playing?(target?'FOLLOWING YOUR CURSOR':'AUTOPILOT · EXPLORING'):'PAUSED'});
+reset.addEventListener('click',function(){restart();playing=true;pause.textContent='Pause'});
+window.addEventListener('blur',function(){last=0});
+restart();requestAnimationFrame(frame);
+})();
+</script>
+</body></html>
