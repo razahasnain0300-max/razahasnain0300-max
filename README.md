@@ -9,7 +9,7 @@
 
 **All Types of Websites • Custom Web Applications • Windows/Desktop Software • Android & iOS Apps • ERP/CRM/CMS • AI & Automation**
 
-📍 **Lahore, Pakistan** &nbsp;|&nbsp; 🌍 **Dubai, UAE & Worldwide Clients**
+**Lahore, Pakistan** &nbsp;|&nbsp; **Dubai, UAE** &nbsp;|&nbsp; **Serving Clients Worldwide**
 
 **Have an idea? We can help turn it into a website, mobile app, desktop product, enterprise system, or a complete digital business platform.**
 
@@ -17,21 +17,25 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
-      <a href="mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry"><strong>START A PROJECT</strong></a><br/>
-      <sub>Request a tailored proposal</sub>
+    <td align="center" colspan="3">
+      <h3>Let's Build Your Next Digital Product</h3>
+      <p>From a professional website to a complete software platform, we create tailored solutions for your business.</p>
+      <p><a href="mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry"><strong>Request a Project Proposal</strong></a></p>
+      <sub>Share your requirements to discuss the right approach, scope and next steps.</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="./SERVICES.md"><strong>OUR SERVICES</strong></a><br/>
-      <sub>Discover what we build</sub>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./SERVICES.md"><strong>Explore Our Services</strong></a><br/>
+      <sub>Websites, web, mobile and desktop software</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="./TECHNOLOGY_STACK.md"><strong>TECHNOLOGY STACK</strong></a><br/>
-      <sub>Languages and platforms</sub>
+    <td align="center" width="34%">
+      <a href="./TECHNOLOGY_STACK.md"><strong>Technologies We Work With</strong></a><br/>
+      <sub>Languages, frameworks and platforms</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="./PORTFOLIO.md"><strong>OUR PORTFOLIO</strong></a><br/>
-      <sub>Explore selected projects</sub>
+    <td align="center" width="33%">
+      <a href="./PORTFOLIO.md"><strong>View Our Portfolio</strong></a><br/>
+      <sub>Selected projects and case studies</sub>
     </td>
   </tr>
 </table>
