@@ -15,27 +15,27 @@
 <text x="43" y="139" font-size="17" fill="#B5B5CA">Web, mobile, desktop and enterprise ecosystems chosen according to project requirements.</text>
 <rect x="42" y="172" width="326" height="177" rx="15" fill="url(#card)" stroke="#94518D" stroke-opacity=".78"/>
 <rect x="42" y="172" width="112" height="3" rx="2" fill="#E468A7"/>
-<text x="60" y="211" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">WEB & FRONTEND</text>
+<text x="60" y="211" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">WEB &amp; FRONTEND</text>
 <text x="60" y="253" font-size="14.7" fill="#C7C4D6">HTML / CSS / JavaScript / TypeScript</text><text x="60" y="285" font-size="14.7" fill="#C7C4D6">React / Next.js / Vue / Angular</text><text x="60" y="317" font-size="14.7" fill="#C7C4D6">Accessible UI / PWA / E-commerce</text>
 <rect x="396" y="172" width="326" height="177" rx="15" fill="url(#card)" stroke="#94518D" stroke-opacity=".78"/>
 <rect x="396" y="172" width="112" height="3" rx="2" fill="#A875FF"/>
-<text x="414" y="211" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">BACKEND & BUSINESS</text>
+<text x="414" y="211" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">BACKEND &amp; BUSINESS</text>
 <text x="414" y="253" font-size="14.7" fill="#C7C4D6">Node.js / Python / PHP / .NET</text><text x="414" y="285" font-size="14.7" fill="#C7C4D6">Java / Go / REST / GraphQL</text><text x="414" y="317" font-size="14.7" fill="#C7C4D6">ERP / CRM / CMS / SaaS / APIs</text>
 <rect x="750" y="172" width="326" height="177" rx="15" fill="url(#card)" stroke="#94518D" stroke-opacity=".78"/>
 <rect x="750" y="172" width="112" height="3" rx="2" fill="#70D2E1"/>
-<text x="768" y="211" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">ANDROID & IOS</text>
+<text x="768" y="211" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">ANDROID &amp; IOS</text>
 <text x="768" y="253" font-size="14.7" fill="#C7C4D6">Kotlin / Java / Swift / Dart</text><text x="768" y="285" font-size="14.7" fill="#C7C4D6">Flutter / React Native</text><text x="768" y="317" font-size="14.7" fill="#C7C4D6">Native &amp; cross-platform projects</text>
 <rect x="42" y="375" width="326" height="177" rx="15" fill="url(#card)" stroke="#94518D" stroke-opacity=".78"/>
 <rect x="42" y="375" width="112" height="3" rx="2" fill="#E468A7"/>
-<text x="60" y="414" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">DESKTOP & DEVICES</text>
+<text x="60" y="414" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">DESKTOP &amp; DEVICES</text>
 <text x="60" y="456" font-size="14.7" fill="#C7C4D6">C# / Python / C++ / Java</text><text x="60" y="488" font-size="14.7" fill="#C7C4D6">Electron / Tauri / Qt / .NET</text><text x="60" y="520" font-size="14.7" fill="#C7C4D6">Windows / macOS / Linux utilities</text>
 <rect x="396" y="375" width="326" height="177" rx="15" fill="url(#card)" stroke="#94518D" stroke-opacity=".78"/>
 <rect x="396" y="375" width="112" height="3" rx="2" fill="#A875FF"/>
-<text x="414" y="414" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">DATA & INFRASTRUCTURE</text>
+<text x="414" y="414" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">DATA &amp; INFRASTRUCTURE</text>
 <text x="414" y="456" font-size="14.7" fill="#C7C4D6">MySQL / PostgreSQL / MongoDB</text><text x="414" y="488" font-size="14.7" fill="#C7C4D6">SQL Server / Redis / SQLite</text><text x="414" y="520" font-size="14.7" fill="#C7C4D6">Linux / Docker / CI/CD / Cloud</text>
 <rect x="750" y="375" width="326" height="177" rx="15" fill="url(#card)" stroke="#94518D" stroke-opacity=".78"/>
 <rect x="750" y="375" width="112" height="3" rx="2" fill="#70D2E1"/>
-<text x="768" y="414" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">AI & AUTOMATION</text>
+<text x="768" y="414" font-size="16" font-weight="800" letter-spacing=".7" fill="#F6DFF1">AI &amp; AUTOMATION</text>
 <text x="768" y="456" font-size="14.7" fill="#C7C4D6">Python / TypeScript / APIs</text><text x="768" y="488" font-size="14.7" fill="#C7C4D6">Agents / Assistants / Workflows</text><text x="768" y="520" font-size="14.7" fill="#C7C4D6">Integrations / Reporting / Testing</text>
 <text x="43" y="603" font-size="13" class="mono" fill="#96A3B8">CORE EXPERIENCE + ADDITIONAL PROJECT OPTIONS; STAFFING AND SUITABILITY CONFIRMED PER ENGAGEMENT</text>
 </svg>
