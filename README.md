@@ -1,94 +1,120 @@
-<!-- Portfolio profile: concise, responsive, and client-focused. Automated sections below are preserved. -->
-
+<!-- Syed Hasnain Raza — GitHub-safe professional purple/cyan 3D portfolio. No private app source. -->
 <div align="center">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-banner-mobile.svg" />
-    <img src="./assets/profile-banner-desktop.svg" width="100%" alt="Syed Hasnain Raza — custom software developer for websites, mobile apps, desktop apps, and enterprise solutions. Lahore, Pakistan and Dubai, UAE." />
-  </picture>
 
-### Software Developer & Technical Lead
+<img src="./assets/agency-identity.svg?v=8" width="100%" alt="Syed's IT Solution & Digital Marketing Services software development team" />
 
-I design and build practical digital products, from professional websites to custom business platforms, desktop tools, and mobile applications.
+<img src="./assets/reel-terminal.svg?v=7" width="100%" alt="Animated purple particle portrait and developer terminal" />
 
-**[Discuss Your Project](mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry)** &nbsp; · &nbsp; **[View Selected Work](./PORTFOLIO.md)**
+### Custom Software Development · Complete Business IT Solutions · Digital Innovation
+
+**All Types of Websites • Custom Web Applications • Windows/Desktop Software • Android & iOS Apps • ERP/CRM/CMS • AI & Automation**
+
+**Lahore, Pakistan** &nbsp;|&nbsp; **Dubai, UAE** &nbsp;|&nbsp; **Serving Clients Worldwide**
+
+**Have an idea? We can help turn it into a website, mobile app, desktop product, enterprise system, or a complete digital business platform.**
+
+**Tell us about your project — we'll propose an appropriate technology, scope, timeline and implementation approach.**
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="3">
+      <h3>Let's Build Your Next Digital Product</h3>
+      <p>From a professional website to a complete software platform, we create tailored solutions for your business.</p>
+      <p><a href="mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry"><strong>Request a Project Proposal</strong></a></p>
+      <sub>Share your requirements to discuss the right approach, scope and next steps.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./SERVICES.md"><strong>Explore Our Services</strong></a><br/>
+      <sub>Websites, web, mobile and desktop software</sub>
+    </td>
+    <td align="center" width="34%">
+      <a href="./TECHNOLOGY_STACK.md"><strong>Technologies We Work With</strong></a><br/>
+      <sub>Languages, frameworks and platforms</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./PORTFOLIO.md"><strong>View Our Portfolio</strong></a><br/>
+      <sub>Selected projects and case studies</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
 
 </div>
 
----
+## About our software development team
 
-## About
+**Syed's IT Solution & Digital Marketing Services** is a **multidisciplinary organization/team** delivering digital products and software solutions through collaboration across technical and creative disciplines.
 
-I'm **Syed Hasnain Raza**, a software developer, IT manager, and electronic engineer working with **Syed's IT Solution & Digital Marketing Services**.
+**Technical Lead:** **Syed Hasnain Raza** — Software Developer, IT Manager, Full-Stack Engineer and Electronic Engineer. **Lahore, Pakistan · Dubai, UAE · Remote collaboration worldwide.**
 
-We work across web, mobile, desktop, and enterprise software. The project comes first: we select languages, frameworks, and infrastructure to match its requirements and the available delivery team.
+**Our team approach:** We combine project planning, UI/UX, frontend and backend engineering, database systems, mobile and desktop solutions, quality assurance, release engineering and ongoing support. Individual assignments and availability are agreed for each project.
 
-**Based in Lahore, Pakistan and Dubai, UAE · Working with clients worldwide.**
+**What we design and deliver:** Any scale of website or landing page; tailor-made **web apps, Android applications, iOS apps, Windows/macOS/Linux desktop software**; **ERP, CRM, CMS, HRMS, POS, LMS, SaaS**; multi-vendor marketplaces, e-commerce stores, admin and customer portals, cloud software, database-backed systems, device/IoT integrations, AI tools and automation. We select the language and stack around the actual project, not the other way around. Team expertise and delivery feasibility are confirmed per engagement.
 
-## What we build
+[**Request a proposal from our team →**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry)
 
-**Websites & e-commerce**  
-Business websites, landing pages, portfolios, online stores, directories, and multi-vendor marketplaces.
+<div align="center">
 
-**Web apps & business systems**  
-Custom portals, SaaS platforms, ERP, CRM, CMS, HRMS, POS, LMS, dashboards, and management tools.
+<img src="./assets/agency-team.svg?v=8" width="100%" alt="Collaborative software team functions from planning to delivery" />
+<img src="./assets/agency-stack.svg?v=8" width="100%" alt="Programming languages technologies and platforms used for websites web apps mobile and desktop solutions" />
 
-**Mobile & desktop applications**  
-Android and iOS apps, Windows software, cross-platform desktop utilities, offline workflows, and device integrations.
+</div>
 
-**AI, APIs & automation**  
-Assistants, integrations, reporting workflows, data systems, and operational automation.
+## Full-service software engineering
 
-[**Explore all software services**](./SERVICES.md)
+<div align="center">
 
-## Selected projects
+<img src="./assets/enterprise-service-matrix.svg?v=10" width="100%" alt="Twelve premium enterprise software agency services spanning websites, landing pages, ERP, CRM, CMS, SaaS, ecommerce, mobile apps, desktop software and automation" />
 
-**Dr. Muhammad Shoaib Zafar — Healthcare platform**  
-A psychiatry website and private clinic-system project, with specialist content, care pathways, and management workflows.
+</div>
 
-**RehabConnect — Healthcare discovery**  
-A rehabilitation-centre and professional directory with location-based discovery and facility operations.
+| Digital experiences | Business systems | Applications and integrations |
+|:--|:--|:--|
+| Corporate, personal, nonprofit and industry websites | **ERP**, accounting workflows, procurement and inventory | Custom web apps, SaaS, PWA and customer portals |
+| Landing pages: PPC, lead generation, apps, products, events and sales funnels | **CRM**, lead pipelines, support, HRMS and project management | **Android & iOS**, desktop software, device integrations |
+| Content portals, blogs, news, editorial platforms, multilingual sites | **CMS**, LMS, POS, bookings and reporting dashboards | E-commerce, marketplaces, APIs, automation and AI assistants |
 
-**Hadia Collection — E-commerce**  
-A fashion storefront with product discovery, shopping features, and order-management workflows.
+**[Explore the complete website, ERP, CRM, CMS, SaaS and app service catalog →](./SERVICES.md)**
 
-These are selected portfolio examples, not an exhaustive list. Public website screenshots and private-system capabilities are described separately in the case studies.
+### What type of project do you need?
 
-[**Explore portfolio, previews & case studies**](./PORTFOLIO.md)
+| 🌐 Websites & online presence | 🧩 Web apps & business software | 📱 Mobile & 💻 desktop apps |
+|:--|:--|:--|
+| Corporate, company, startup and agency websites | Custom portals, dashboards and SaaS platforms | Android apps (native or cross-platform) |
+| Portfolio, personal, real-estate and property websites | ERP, CRM, CMS, HRMS, POS, LMS and inventory | iPhone/iPad apps and cross-platform mobile apps |
+| Blogs, news, e-learning, healthcare and directories | Booking, billing, accounting and subscription systems | Windows desktop apps and Windows services |
+| E-commerce, Shopify/WordPress and multi-vendor stores | Hospital, school, gym, hotel, restaurant and construction systems | macOS/Linux software and offline-first tools |
+| Responsive, multilingual and SEO-ready landing pages | Marketplace, logistics, analytics and membership apps | Device integrations, biometric tools and automation |
+| Web design, redesign and website maintenance | Secure APIs, AI assistants, workflows and integrations | Custom utilities, sync engines and companion apps |
 
-## Technology
+**Industries:** Retail & e-commerce · Health & medical · Education · Real estate · Construction · Logistics · Hospitality · Finance workflows · Sports & gyms · Agencies · Startups · Professional services.
 
-**Core experience:** JavaScript, TypeScript, React, Node.js, Python, SQL/MySQL, PostgreSQL, MongoDB, APIs, and automation.
+**Whether you need a small business website or a large multi-panel system, share your requirements and we'll help scope a practical solution.**
 
-**Other project options:** PHP, Java, Kotlin, Swift, Dart, C#, C/C++, Go, Rust, Flutter, React Native, .NET, Laravel, Spring Boot, Electron, Qt, and related ecosystems.
+[**See the full project and service catalog →**](./SERVICES.md) &nbsp;·&nbsp; [**Discuss your custom software →**](mailto:razahasnain0300@gmail.com?subject=My%20Website%20or%20Software%20Idea)
 
-We assess additional languages and frameworks against the project's needs and verified team availability; this isn't a claim of expert proficiency in every technology.
+## Inspired developer interface
 
-[**View the full language & technology catalog**](./TECHNOLOGY_STACK.md)
+Built in the same purple/cyan brand identity, these panels combine an animated terminal introduction, technology toolbox and an illustrative category map. They represent the team and its service scope, not made-up technical ratings.
 
-## How we work
+<div align="center">
 
-**Discover → Design → Develop → Integrate → Test → Deploy → Support**
+<img src="./assets/reference-whoami.svg?v=9" width="100%" alt="Animated whoami terminal for Syed's IT Solution development team"/>
+<img src="./assets/reference-toolbox.svg?v=9" width="100%" alt="Fourteen professional development technologies in animated toolbox cards"/>
+<img src="./assets/reference-skill-radars.svg?v=9" width="100%" alt="Illustrative software engineering and delivery category radar charts"/>
 
-Each engagement starts with a discussion of requirements, scope, delivery approach, and practical milestones.
 
-## Contact
+</div>
 
-**Have a website, app, or software idea?** Send an overview of the project to discuss the right solution.
+<div align="center">
 
-**Email:** [razahasnain0300@gmail.com](mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry)  
-**Team:** Syed's IT Solution & Digital Marketing Services  
-**Locations:** Lahore, Pakistan · Dubai, UAE · Worldwide collaboration
+<img src="./assets/client-process.svg?v=7" width="100%" alt="Three-stage software project workflow" />
+<img src="./assets/reel-stack.svg?v=7" width="100%" alt="Development technologies and frameworks" />
 
-**[Request a Project Proposal](mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry)**
-
----
-
-## More from the portfolio
-
-Detailed showcases and activity are available below for visitors who want to explore further.
-
-<details>
-<summary><strong>Complete project gallery</strong> — additional portfolio concepts and approved previews</summary>
+</div>
 
 <!-- AUTO-PROJECT-GALLERY:START -->
 ## Our latest software projects
@@ -123,11 +149,6 @@ Detailed showcases and activity are available below for visitors who want to exp
 *Project count is generated from public repositories and approved showcases; it is not a claim about undisclosed private projects. Public repositories refresh hourly. Private sources are not linked.*
 <!-- AUTO-PROJECT-GALLERY:END -->
 
-</details>
-
-<details>
-<summary><strong>GitHub activity</strong> — contribution animation</summary>
-
 <!-- PURPLE-SNAKE:START -->
 ## Purple Contribution Snake — Live GitHub Activity
 
@@ -151,10 +172,7 @@ Detailed showcases and activity are available below for visitors who want to exp
 
 <!-- PURPLE-SNAKE:END -->
 
-</details>
 
-<details>
-<summary><strong>Automatically discovered public repositories</strong></summary>
 
 <!-- PUBLIC-REPO-AUTO:START -->
 ## Latest public project previews · Automatically updated
@@ -170,9 +188,48 @@ Project cards above show previews only.
 *Updated approximately hourly. Project cards do not link to source code. Private repositories remain protected.*
 <!-- PUBLIC-REPO-AUTO:END -->
 
-</details>
-
 <!-- APPROVED-CASESTUDIES:START -->
 <!-- APPROVED-CASESTUDIES:END -->
 
-<sub>Public profile graphics and case studies do not expose private application source code. Activity graphics show genuine GitHub activity, not fabricated contribution counts.</sub>
+## Programming languages, frameworks & platform capabilities
+
+<div align="center">
+
+<img src="./assets/enterprise-technology-matrix.svg?v=10" width="100%" alt="Full-stack technology coverage including React Next.js Three.js Python Node.js .NET C# Java Kotlin Swift Flutter Electron PHP SQL Go Rust and cloud" />
+
+</div>
+
+| Technology area | Languages, frameworks and project options |
+|:--|:--|
+| **Web & interactive UI** | HTML5, CSS3, JavaScript, TypeScript, React, **Next.js**, **Three.js**, Vue, Nuxt, Angular, Svelte, Tailwind |
+| **Backend & APIs** | **Python**, Django, FastAPI, Flask, **Node.js**, Express, NestJS, PHP/Laravel, Ruby/Rails, Go, REST, GraphQL |
+| **Enterprise & .NET** | **C#**, **.NET / ASP.NET Core**, Blazor, **Java**, Spring Boot, Kotlin, C/C++, Rust |
+| **Android & iOS** | **Java**, **Kotlin**, **Swift**, Objective-C, **Flutter/Dart**, React Native, Ionic/Capacitor |
+| **Desktop & systems** | Electron, Tauri, Python, **C#/.NET**, Java, C++, Qt, WPF, WinUI, .NET MAUI, Bash, PowerShell |
+| **Databases & DevOps** | MySQL, PostgreSQL, MariaDB, SQL Server, SQLite, MongoDB, Redis, Firebase, Git, GitHub Actions, Linux, VPS, Docker, AWS, Azure, GCP |
+| **CMS & e-commerce ecosystems** | WordPress, WooCommerce, Shopify, Drupal, headless CMS, Magento, custom CMS |
+
+**More languages & technologies for project evaluation:** JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, Dart, C, C++, C#, Go, Rust, Ruby, SQL, Bash, PowerShell, R, Scala, Lua, Visual Basic/.NET, MATLAB and specialized languages where justified. HTML, CSS and Sass/SCSS are also included for web presentation.
+
+**Core demonstrated experience:** JavaScript/TypeScript, React, Node.js, Python, relational/NoSQL databases, APIs, desktop tooling and automation. **The full list represents technologies we can evaluate or staff for a project—not a claim of personal mastery of every language.**
+
+**[View our complete language, framework, database & platform catalog →](./TECHNOLOGY_STACK.md)**
+
+**[Full language-by-language technology matrix →](./TECHNOLOGY_STACK.md)**
+
+GitHub's own contribution graph is the authoritative record of contributions; neither these graphics nor the profile automation invent commit counts.
+
+## Work with our team
+
+<div align="center">
+
+<img src="./assets/enterprise-contact.svg?v=10" width="100%" alt="Premium team-led enterprise web mobile desktop development invitation" />
+<img src="./assets/client-contact.svg?v=7" width="100%" alt="Invite clients to request a project quote" />
+
+[**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
+
+<sub>Syed's IT Solution & Digital Marketing Services · Custom Web, Mobile & Desktop Software · Lahore, Pakistan · Dubai, UAE · Worldwide</sub>
+
+<sub>Design uses self-contained GitHub-safe SVGs. Animation support varies; GitHub's outer light/dark appearance depends on each visitor's settings.</sub>
+
+</div>
