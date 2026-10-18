@@ -1,50 +1,34 @@
-<!-- Syed Hasnain Raza — GitHub-safe professional purple/cyan 3D portfolio. No private app source. -->
+<!-- Syed Hasnain Raza — GitHub-safe client portfolio. Personalized editorial layout inspired by a visual reference. No private application source. -->
 <div align="center">
 
-<img src="./assets/agency-identity.svg?v=8" width="100%" alt="Syed's IT Solution & Digital Marketing Services software development team" />
-
-<img src="./assets/reel-terminal.svg?v=7" width="100%" alt="Animated purple particle portrait and developer terminal" />
-
-### Custom Software Development · Complete Business IT Solutions · Digital Innovation
-
-**All Types of Websites • Custom Web Applications • Windows/Desktop Software • Android & iOS Apps • ERP/CRM/CMS • AI & Automation**
-
-**Lahore, Pakistan** &nbsp;|&nbsp; **Dubai, UAE** &nbsp;|&nbsp; **Serving Clients Worldwide**
-
-**Have an idea? We can help turn it into a website, mobile app, desktop product, enterprise system, or a complete digital business platform.**
-
-**Tell us about your project — we'll propose an appropriate technology, scope, timeline and implementation approach.**
+<img src="./assets/editorial-hero.svg?v=1" width="100%" alt="Syed Hasnain Raza — software engineering, custom websites, web applications, Android and iOS apps, Windows desktop software and enterprise solutions" />
 
 <table width="100%">
   <tr>
-    <td align="center" colspan="3">
-      <h3>Let's Build Your Next Digital Product</h3>
-      <p>From a professional website to a complete software platform, we create tailored solutions for your business.</p>
-      <p><a href="mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry"><strong>Request a Project Proposal</strong></a></p>
-      <sub>Share your requirements to discuss the right approach, scope and next steps.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="./SERVICES.md"><strong>Explore Our Services</strong></a><br/>
-      <sub>Websites, web, mobile and desktop software</sub>
-    </td>
-    <td align="center" width="34%">
-      <a href="./TECHNOLOGY_STACK.md"><strong>Technologies We Work With</strong></a><br/>
-      <sub>Languages, frameworks and platforms</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="./PORTFOLIO.md"><strong>View Our Portfolio</strong></a><br/>
-      <sub>Selected projects and case studies</sub>
-    </td>
+    <td align="center"><a href="#about"><strong>ABOUT</strong></a></td>
+    <td align="center"><a href="#services"><strong>SERVICES</strong></a></td>
+    <td align="center"><a href="#projects"><strong>PROJECTS</strong></a></td>
+    <td align="center"><a href="#technology"><strong>TECHNOLOGIES</strong></a></td>
+    <td align="center"><a href="#activity"><strong>ACTIVITY</strong></a></td>
+    <td align="center"><a href="#contact"><strong>CONTACT</strong></a></td>
   </tr>
 </table>
 
-<img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
+**Websites &amp; Web Applications · Desktop Software · Android &amp; iOS · Enterprise Systems · AI &amp; Automation**
+
+Lahore, Pakistan &nbsp; / &nbsp; Dubai, UAE &nbsp; / &nbsp; Worldwide Clients
+
+**From first idea to production-ready software — we design, develop, integrate and support tailored digital products.**
+
+[**Request a Project Proposal**](mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry) &nbsp; · &nbsp; [**Browse Our Work**](./PORTFOLIO.md) &nbsp; · &nbsp; [**Explore Services**](./SERVICES.md)
 
 </div>
 
-## About our software development team
+## About
+
+<div align="center">
+<img src="./assets/agency-identity.svg?v=8" width="100%" alt="Syed's IT Solution and Digital Marketing Services multidisciplinary software development team" />
+</div>
 
 **Syed's IT Solution & Digital Marketing Services** is a **multidisciplinary organization/team** delivering digital products and software solutions through collaboration across technical and creative disciplines.
 
@@ -63,7 +47,13 @@
 
 </div>
 
-## Full-service software engineering
+## Services
+
+Design, engineering, integration and ongoing improvements for organizations that need **web, desktop and mobile software**. We are not restricted to a single programming language or framework.
+
+[**Full service directory**](./SERVICES.md) &nbsp; · &nbsp; [**Technology options**](./TECHNOLOGY_STACK.md)
+
+### Full-service software engineering
 
 <div align="center">
 
@@ -96,7 +86,18 @@
 
 [**See the full project and service catalog →**](./SERVICES.md) &nbsp;·&nbsp; [**Discuss your custom software →**](mailto:razahasnain0300@gmail.com?subject=My%20Website%20or%20Software%20Idea)
 
-## Inspired developer interface
+## Engineering workspace
+
+A view into our software-delivery approach. These are **illustrative interface visualizations**, not operational dashboards or fabricated skill scores.
+
+<details>
+<summary><strong>Explore our development interface and technical diagrams</strong></summary>
+
+<div align="center">
+<img src="./assets/reel-terminal.svg?v=7" width="100%" alt="Animated developer terminal illustration with purple and cyan highlights" />
+</div>
+
+### Additional visual panels
 
 Built in the same purple/cyan brand identity, these panels combine an animated terminal introduction, technology toolbox and an illustrative category map. They represent the team and its service scope, not made-up technical ratings.
 
@@ -115,6 +116,23 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 <img src="./assets/reel-stack.svg?v=7" width="100%" alt="Development technologies and frameworks" />
 
 </div>
+
+</details>
+
+## Highlights
+
+<div align="center">
+<img src="./assets/editorial-evidence.svg?v=1" width="100%" alt="Selected project evidence showing Dr Shoaib Zafar, RehabConnect and Hadia Collection" />
+</div>
+
+**Selected public-facing case studies:** Dr. Shoaib Zafar (healthcare and clinic content), RehabConnect (healthcare discovery) and Hadia Collection (e-commerce). Each showcase distinguishes actual public-page screenshots from illustrative concepts and private-system capabilities.
+
+[**Read our project case studies**](./PORTFOLIO.md) &nbsp; · &nbsp; [**Request similar software**](mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry)
+
+## Projects
+
+Our approved project gallery and selected public repository previews update through GitHub Actions. Application source code and private repositories are not published by this README.
+
 
 <!-- AUTO-PROJECT-GALLERY:START -->
 ## Our latest software projects
@@ -148,6 +166,10 @@ Built in the same purple/cyan brand identity, these panels combine an animated t
 
 *Project count is generated from public repositories and approved showcases; it is not a claim about undisclosed private projects. Public repositories refresh hourly. Private sources are not linked.*
 <!-- AUTO-PROJECT-GALLERY:END -->
+
+## Activity
+
+Authentic GitHub contributions and automatically generated activity artwork. The animation below is updated by the existing workflow; we do not simulate contributions, invent statistics or manufacture commits.
 
 <!-- PURPLE-SNAKE:START -->
 ## Purple Contribution Snake — Live GitHub Activity
@@ -191,13 +213,25 @@ Project cards above show previews only.
 <!-- APPROVED-CASESTUDIES:START -->
 <!-- APPROVED-CASESTUDIES:END -->
 
-## Programming languages, frameworks & platform capabilities
+## Technology
 
 <div align="center">
-
-<img src="./assets/enterprise-technology-matrix.svg?v=10" width="100%" alt="Full-stack technology coverage including React Next.js Three.js Python Node.js .NET C# Java Kotlin Swift Flutter Electron PHP SQL Go Rust and cloud" />
-
+<img src="./assets/editorial-technologies.svg?v=1" width="100%" alt="Bento technology cards for web frontend, backend, Android iOS, desktop, databases, cloud, AI and automation" />
 </div>
+
+**Technology-flexible engineering:** the team scopes and evaluates tools by product requirements, maintainability, integrations and available specialist expertise. Technologies shown are *project options*; they are not claims of mastery of every language.
+
+<details>
+<summary><strong>Expand the full technical ecosystem diagram</strong></summary>
+
+<div align="center">
+<img src="./assets/enterprise-technology-matrix.svg?v=10" width="100%" alt="Full stack language and framework choices spanning web mobile desktop APIs cloud and databases" />
+</div>
+</details>
+
+### Programming languages, frameworks & platform capabilities
+
+
 
 | Technology area | Languages, frameworks and project options |
 |:--|:--|
@@ -219,14 +253,20 @@ Project cards above show previews only.
 
 GitHub's own contribution graph is the authoritative record of contributions; neither these graphics nor the profile automation invent commit counts.
 
-## Work with our team
+## Contact
+
+### Tell us what you want to build
+
+Whether it is a first website, an Android application, an internal desktop utility, a marketplace, or an enterprise-wide system, describe your goals and we will help define the implementation approach.
+
+**Project enquiries:** [razahasnain0300@gmail.com](mailto:razahasnain0300@gmail.com?subject=New%20Software%20Development%20Project) &nbsp; · &nbsp; **Based in:** Lahore, Pakistan / Dubai, UAE
 
 <div align="center">
 
 <img src="./assets/enterprise-contact.svg?v=10" width="100%" alt="Premium team-led enterprise web mobile desktop development invitation" />
 <img src="./assets/client-contact.svg?v=7" width="100%" alt="Invite clients to request a project quote" />
 
-[**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
+[**Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
 
 <sub>Syed's IT Solution & Digital Marketing Services · Custom Web, Mobile & Desktop Software · Lahore, Pakistan · Dubai, UAE · Worldwide</sub>
 
