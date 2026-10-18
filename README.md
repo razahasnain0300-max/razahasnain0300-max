@@ -15,7 +15,26 @@
 
 **Tell us about your project — we'll propose an appropriate technology, scope, timeline and implementation approach.**
 
-[**🚀 Start Your Project / Get a Quote**](mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry) &nbsp;·&nbsp; [**What We Build**](./SERVICES.md) &nbsp;·&nbsp; [**Languages & Tools**](./TECHNOLOGY_STACK.md) &nbsp;·&nbsp; [**Project Portfolio**](./PORTFOLIO.md)
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry"><strong>START A PROJECT</strong></a><br/>
+      <sub>Request a tailored proposal</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="./SERVICES.md"><strong>OUR SERVICES</strong></a><br/>
+      <sub>Discover what we build</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="./TECHNOLOGY_STACK.md"><strong>TECHNOLOGY STACK</strong></a><br/>
+      <sub>Languages and platforms</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="./PORTFOLIO.md"><strong>OUR PORTFOLIO</strong></a><br/>
+      <sub>Explore selected projects</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
 
