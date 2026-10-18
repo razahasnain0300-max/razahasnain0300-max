@@ -1,5 +1,5 @@
 # Programming Languages, Frameworks & Platforms
-**Syed's IT Solution & Digital Marketing Services** · Technology selection for web, enterprise, mobile and desktop software.
+**Syed's IT Solution & Digital Marketing Services** · Web, desktop, mobile & enterprise engineering · **Lahore, Pakistan | Dubai, UAE | Worldwide**.
 
 [← GitHub Profile](./README.md) · [Software Services](./SERVICES.md) · [Project Portfolio](./PORTFOLIO.md) · [Request a Quote](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry)
 
@@ -12,6 +12,25 @@ The best technology is the one that meets the business requirements, integrates 
 **Core demonstrated project experience:** JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, Python, SQL, MySQL, PostgreSQL, MongoDB, REST APIs, Electron-based desktop and automation workflows, Linux/VPS deployment.
 
 **Additional ecosystems for project evaluation:** Next.js, Three.js, .NET/C#, Java, Spring, Kotlin, Swift, Dart/Flutter, PHP, C/C++, Go, Rust, Ruby and other platforms. Team qualification, staffing, third-party dependencies and delivery feasibility are verified during planning.
+
+## Programming language directory
+
+We are **technology-flexible**, with implementation decisions based on requirements, engineering suitability and verified staffing. These languages are listed as **options to evaluate**, not a statement that every one is an established individual specialization.
+
+| Category | Programming languages and scripting options |
+|---|---|
+| Web and browser applications | **JavaScript, TypeScript, PHP**, Python, Ruby, Go |
+| APIs and enterprise software | **C#, Java, Python, TypeScript, PHP, Kotlin**, Go, Rust, Ruby, Scala, F#, Visual Basic .NET |
+| Android and iOS | **Kotlin, Java, Swift, Objective-C, Dart, JavaScript, TypeScript**, C# |
+| Windows/macOS/Linux desktop | **C#, C++, Python, Java, JavaScript, TypeScript, Rust, C, Swift**, Dart, Visual Basic .NET |
+| Systems, embedded and devices | **C, C++, Rust, Python**, Assembly, MicroPython, C# |
+| Data, analytics and automation | **SQL, Python, R, Bash, PowerShell**, Julia, MATLAB, Perl |
+| Specialized ecosystems, where appropriate | **Go, Scala, Lua, Elixir, Erlang, Haskell, Clojure, Solidity**, F#, Delphi/Object Pascal |
+| Web markup and styling (not general-purpose programming languages) | **HTML5, CSS3, Sass/SCSS, XML**, Markdown |
+
+**Common framework choices:** React, Next.js, Vue, Angular, Svelte, Node.js, Express, NestJS, Django, Flask, FastAPI, Laravel, Spring Boot, ASP.NET Core, React Native, Flutter, Jetpack Compose, SwiftUI, .NET MAUI, Electron, Tauri, Qt and other appropriate ecosystems.
+
+Our documented core background remains **JavaScript/TypeScript, React, Node.js, Python, SQL databases, MongoDB, APIs, DevOps and automation**. All other languages and platforms are subject to solution design and qualification.
 
 ## Web foundations and frontend engineering
 
@@ -89,6 +108,21 @@ App-store publishing, account access, compliance and any regulated-domain requir
 - **Additional or specialized stacks:** Other relevant languages and frameworks considered through discovery, feasibility and specialist review.
 
 *HTML and CSS are markup/styling technologies rather than general-purpose programming languages. Brand names listed here are third-party ecosystems, not endorsements or certifications.*
+
+## Choose the right stack for the product
+
+| Solution | Example technology approaches to evaluate |
+|---|---|
+| Small business website, CMS or online store | Custom React/Next.js, WordPress/WooCommerce, Shopify, PHP/Laravel or other suitable CMS |
+| Large web portal, SaaS, ERP or CRM | React/Vue/Angular + Node.js/Python/.NET/Java + relational database |
+| Android mobile application | Native Kotlin/Java, Flutter/Dart, React Native/TypeScript |
+| Android + iOS mobile application | Flutter/Dart, React Native, or separate Kotlin and Swift codebases |
+| Windows business software | C#/.NET, Python/PySide, Electron, Java or Qt |
+| Cross-platform desktop utility | Electron, Tauri, Qt, Flutter desktop or another supported desktop toolkit |
+| AI-enabled custom workflow | Python or JavaScript/TypeScript orchestration with suitable APIs, models, privacy and quality checks |
+| Embedded/hardware-connected app | C/C++/Python/Rust and vendor SDKs where compatibility is demonstrated |
+
+These are **architectural examples**, not promises that every provider, framework or deployment target is supported without discovery.
 
 ## How we work as a team
 
