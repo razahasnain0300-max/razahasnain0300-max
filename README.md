@@ -5,11 +5,17 @@
 
 <img src="./assets/reel-terminal.svg?v=7" width="100%" alt="Animated purple particle portrait and developer terminal" />
 
-### Full-service software engineering · Enterprise solutions · Digital transformation
+### Custom Software Development · Complete Business IT Solutions · Digital Innovation
 
-**Websites & Landing Pages • ERP • CRM • CMS • SaaS • E-commerce • Web Apps • Android & iOS • Desktop Software • AI & Automation**
+**All Types of Websites • Custom Web Applications • Windows/Desktop Software • Android & iOS Apps • ERP/CRM/CMS • AI & Automation**
 
-[**✉️ Request a Software Proposal**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Services**](./SERVICES.md) &nbsp;·&nbsp; [**Technology Stack**](./TECHNOLOGY_STACK.md) &nbsp;·&nbsp; [**Project Gallery**](./PORTFOLIO.md)
+📍 **Lahore, Pakistan** &nbsp;|&nbsp; 🌍 **Dubai, UAE & Worldwide Clients**
+
+**Have an idea? We can help turn it into a website, mobile app, desktop product, enterprise system, or a complete digital business platform.**
+
+**Tell us about your project — we'll propose an appropriate technology, scope, timeline and implementation approach.**
+
+[**🚀 Start Your Project / Get a Quote**](mailto:razahasnain0300@gmail.com?subject=Custom%20Software%20Project%20Inquiry) &nbsp;·&nbsp; [**What We Build**](./SERVICES.md) &nbsp;·&nbsp; [**Languages & Tools**](./TECHNOLOGY_STACK.md) &nbsp;·&nbsp; [**Project Portfolio**](./PORTFOLIO.md)
 
 <img src="./assets/client-services.svg?v=7" width="100%" alt="Six professional software services in dimensional purple and cyan cards" />
 
@@ -19,11 +25,11 @@
 
 **Syed's IT Solution & Digital Marketing Services** is a **multidisciplinary organization/team** delivering digital products and software solutions through collaboration across technical and creative disciplines.
 
-**Technical Lead:** **Syed Hasnain Raza**, a Dubai-based Full-Stack Developer, IT Manager, Web Developer and Electronic Engineer.
+**Technical Lead:** **Syed Hasnain Raza** — Software Developer, IT Manager, Full-Stack Engineer and Electronic Engineer. **Lahore, Pakistan · Dubai, UAE · Remote collaboration worldwide.**
 
 **Our team approach:** We combine project planning, UI/UX, frontend and backend engineering, database systems, mobile and desktop solutions, quality assurance, release engineering and ongoing support. Individual assignments and availability are agreed for each project.
 
-**What we design and deliver:** Corporate websites and every kind of campaign landing page; custom **ERP, CRM, CMS, HRMS, POS, LMS and SaaS** platforms; business portals and dashboards; e-commerce and marketplaces; Android/iOS apps; Windows/macOS/Linux desktop software; APIs, integrations, automation, and AI-assisted workflows. Engagements are scoped according to the assigned team's verified skills and delivery capacity.
+**What we design and deliver:** Any scale of website or landing page; tailor-made **web apps, Android applications, iOS apps, Windows/macOS/Linux desktop software**; **ERP, CRM, CMS, HRMS, POS, LMS, SaaS**; multi-vendor marketplaces, e-commerce stores, admin and customer portals, cloud software, database-backed systems, device/IoT integrations, AI tools and automation. We select the language and stack around the actual project, not the other way around. Team expertise and delivery feasibility are confirmed per engagement.
 
 [**Request a proposal from our team →**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry)
 
@@ -49,6 +55,23 @@
 | Content portals, blogs, news, editorial platforms, multilingual sites | **CMS**, LMS, POS, bookings and reporting dashboards | E-commerce, marketplaces, APIs, automation and AI assistants |
 
 **[Explore the complete website, ERP, CRM, CMS, SaaS and app service catalog →](./SERVICES.md)**
+
+### What type of project do you need?
+
+| 🌐 Websites & online presence | 🧩 Web apps & business software | 📱 Mobile & 💻 desktop apps |
+|:--|:--|:--|
+| Corporate, company, startup and agency websites | Custom portals, dashboards and SaaS platforms | Android apps (native or cross-platform) |
+| Portfolio, personal, real-estate and property websites | ERP, CRM, CMS, HRMS, POS, LMS and inventory | iPhone/iPad apps and cross-platform mobile apps |
+| Blogs, news, e-learning, healthcare and directories | Booking, billing, accounting and subscription systems | Windows desktop apps and Windows services |
+| E-commerce, Shopify/WordPress and multi-vendor stores | Hospital, school, gym, hotel, restaurant and construction systems | macOS/Linux software and offline-first tools |
+| Responsive, multilingual and SEO-ready landing pages | Marketplace, logistics, analytics and membership apps | Device integrations, biometric tools and automation |
+| Web design, redesign and website maintenance | Secure APIs, AI assistants, workflows and integrations | Custom utilities, sync engines and companion apps |
+
+**Industries:** Retail & e-commerce · Health & medical · Education · Real estate · Construction · Logistics · Hospitality · Finance workflows · Sports & gyms · Agencies · Startups · Professional services.
+
+**Whether you need a small business website or a large multi-panel system, share your requirements and we'll help scope a practical solution.**
+
+[**See the full project and service catalog →**](./SERVICES.md) &nbsp;·&nbsp; [**Discuss your custom software →**](mailto:razahasnain0300@gmail.com?subject=My%20Website%20or%20Software%20Idea)
 
 ## Inspired developer interface
 
@@ -159,11 +182,15 @@ Project cards above show previews only.
 | **Backend & APIs** | **Python**, Django, FastAPI, Flask, **Node.js**, Express, NestJS, PHP/Laravel, Ruby/Rails, Go, REST, GraphQL |
 | **Enterprise & .NET** | **C#**, **.NET / ASP.NET Core**, Blazor, **Java**, Spring Boot, Kotlin, C/C++, Rust |
 | **Android & iOS** | **Java**, **Kotlin**, **Swift**, Objective-C, **Flutter/Dart**, React Native, Ionic/Capacitor |
-| **Desktop & systems** | Electron, Tauri, Python, **C#/.NET**, Java, C++, Qt, WPF, WinUI, Bash, PowerShell |
-| **Databases & DevOps** | MySQL, PostgreSQL, SQL Server, SQLite, MongoDB, Redis, Git, GitHub Actions, Linux, VPS, Docker, AWS, Azure, GCP |
+| **Desktop & systems** | Electron, Tauri, Python, **C#/.NET**, Java, C++, Qt, WPF, WinUI, .NET MAUI, Bash, PowerShell |
+| **Databases & DevOps** | MySQL, PostgreSQL, MariaDB, SQL Server, SQLite, MongoDB, Redis, Firebase, Git, GitHub Actions, Linux, VPS, Docker, AWS, Azure, GCP |
 | **CMS & e-commerce ecosystems** | WordPress, WooCommerce, Shopify, Drupal, headless CMS, Magento, custom CMS |
 
-**Our proven/core project background** focuses on React, Node.js, JavaScript/TypeScript, Python, SQL/MySQL, MongoDB, APIs and software automation. **Additional frameworks/languages are project options assessed against team availability**, rather than unverified claims of expert proficiency in every stack.
+**More languages & technologies for project evaluation:** JavaScript, TypeScript, Python, PHP, Java, Kotlin, Swift, Dart, C, C++, C#, Go, Rust, Ruby, SQL, Bash, PowerShell, R, Scala, Lua, Visual Basic/.NET, MATLAB and specialized languages where justified. HTML, CSS and Sass/SCSS are also included for web presentation.
+
+**Core demonstrated experience:** JavaScript/TypeScript, React, Node.js, Python, relational/NoSQL databases, APIs, desktop tooling and automation. **The full list represents technologies we can evaluate or staff for a project—not a claim of personal mastery of every language.**
+
+**[View our complete language, framework, database & platform catalog →](./TECHNOLOGY_STACK.md)**
 
 **[Full language-by-language technology matrix →](./TECHNOLOGY_STACK.md)**
 
@@ -178,7 +205,7 @@ GitHub's own contribution graph is the authoritative record of contributions; ne
 
 [**✉️ Request a Project Quote**](mailto:razahasnain0300@gmail.com?subject=Enterprise%20Software%20Development%20Inquiry) &nbsp;·&nbsp; [**Full Portfolio**](./PORTFOLIO.md) &nbsp;·&nbsp; [**GitHub**](https://github.com/razahasnain0300-max)
 
-<sub>Syed's IT Solution & Digital Marketing Services · Multidisciplinary software team · Dubai, UAE</sub>
+<sub>Syed's IT Solution & Digital Marketing Services · Custom Web, Mobile & Desktop Software · Lahore, Pakistan · Dubai, UAE · Worldwide</sub>
 
 <sub>Design uses self-contained GitHub-safe SVGs. Animation support varies; GitHub's outer light/dark appearance depends on each visitor's settings.</sub>
 
