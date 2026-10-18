@@ -1,6 +1,6 @@
 # Software Development Portfolio
 
-**Syed's IT Solution & Digital Marketing Services** — team-led engineering services, guided by **Syed Hasnain Raza**. Websites, landing pages, ERP/CRM/CMS, SaaS, mobile and desktop applications, e-commerce, APIs, AI and automation.
+**Syed's IT Solution & Digital Marketing Services** — led by **Syed Hasnain Raza**. **Lahore, Pakistan | Dubai, UAE | Worldwide.** We scope custom websites, web apps, Android/iOS mobile apps, Windows/macOS/Linux desktop software, enterprise ERP/CRM/CMS, e-commerce, APIs, AI and automation.
 
 [Technology matrix](./TECHNOLOGY_STACK.md) · [Complete solutions catalog](./SERVICES.md)
 
@@ -11,6 +11,16 @@
 ## Software development services
 
 Our team works on **websites, all types of landing pages, ERP, CRM, CMS, HRMS, POS, LMS, SaaS, web applications, Android/iOS and desktop software, custom dashboards, APIs, e-commerce, automation and integrations**. This is a capability overview, not a claim that each project has a public live demonstration.
+
+### Projects by platform and business goal
+
+| Website & web application projects | Desktop & mobile software projects | Enterprise & emerging solutions |
+|---|---|---|
+| Company, portfolio, real estate, healthcare, education, travel and content sites | Native Android, cross-platform mobile, Windows applications and utilities | ERP, CRM, CMS, HRMS, POS, LMS, SaaS and admin dashboards |
+| E-commerce stores, multi-vendor marketplaces, directories, bookings, subscriptions | Offline-first tools, biometric/device integrations, automation and sync software | Hospital, construction, property, retail, gym, logistics and school systems |
+| Business portals, landing pages, PWAs, reporting tools, search/filter experiences | Mobile business apps, customer apps, field operations and desktop management | AI assistants, API integrations, data dashboards and workflow automation |
+
+**Looking for a specific application type not shown below?** [Describe your requirements and request a proposal](mailto:razahasnain0300@gmail.com?subject=Custom%20Website%20Desktop%20or%20Android%20Software%20Inquiry).
 
 An automatically maintained project gallery, backed by approved, privacy-conscious public showcases. Each image below is an **illustrative design mockup**, not a real application screenshot. Project descriptions are intentionally high level. This public document does **not** contain the underlying private source code, credentials or deployment configuration.
 
