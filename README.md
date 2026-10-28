@@ -2,7 +2,7 @@
 
 <img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza cyberpunk banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF88&center=true&vCenter=true&width=850&lines=Welcome+to+my+digital+workspace;Full-Stack+Web+Developer;Building+fast%2C+scalable+web+applications;PHP+%7C+MySQL+%7C+JavaScript+%7C+Bootstrap" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF88&center=true&vCenter=true&width=850&lines=Welcome+to+my+digital+workspace;Websites+%7C+Web+Apps+%7C+Android+%7C+iOS;Full-Stack+%26+Cross-Platform+Development;Frontend+%7C+Backend+%7C+Mobile+%7C+Cloud;Modern+Languages+%26+Frameworks" alt="Animated introduction" />
 
 <img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&style=for-the-badge&color=00c896&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -13,17 +13,40 @@
 ```bash
 $ developer --profile
 NAME       : Syed Hasnain Raza
-ROLE       : Full-Stack Web Developer
-FOCUS      : E-commerce • Dashboards • Web Applications
-STACK      : PHP • MySQL • JavaScript • Bootstrap
+ROLE       : Full-Stack & Cross-Platform Application Developer
+SERVICES   : Websites • Web Apps • Android Apps • iOS Apps
+SOLUTIONS  : E-commerce • Marketplaces • SaaS • Dashboards • APIs
+TECH       : Multi-language • Multi-framework • Multi-platform
 STATUS     : Building useful things on the web
 ```
+
+### `> services --all-platforms`
+
+🌐 **Websites:** Business, corporate, portfolio, blogs, e-commerce, marketplaces, CMS, and landing pages.
+
+💻 **Web applications:** SaaS, dashboards, admin panels, CRM, ERP, booking systems, portals, and custom business software.
+
+📱 **Mobile applications:** Android and iOS apps, cross-platform apps, PWAs, and mobile-first experiences.
+
+⚙️ **Backend & cloud:** REST/GraphQL APIs, databases, authentication, payments, integrations, deployment, and automation.
+
+### `> languages --ecosystem`
+
+**Programming & scripting:** JavaScript · TypeScript · PHP · Python · Java · Kotlin · Swift · Dart · C · C++ · C# · Go · Rust · Ruby · SQL · Bash
+
+**Web & UI:** HTML5 · CSS3 · React · Next.js · Vue · Angular · Node.js · Express · Laravel · Django · Flask · FastAPI · ASP.NET · Bootstrap · Tailwind CSS · jQuery
+
+**Mobile:** Flutter · React Native · Android (Kotlin/Java) · iOS (Swift) · Progressive Web Apps
+
+**Data & infrastructure:** MySQL · PostgreSQL · MongoDB · SQLite · Firebase · Redis · Docker · Git · GitHub Actions · Linux · AWS · Azure · Google Cloud
+
+*Technologies listed represent the development ecosystem and solution coverage, not a claim of equal proficiency in every language or framework.*
 
 ### `> tech --stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,jquery,git,github,vscode&theme=dark" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=php,mysql,js,ts,python,java,kotlin,swift,dart,react,nextjs,nodejs,flutter,laravel,django,mongodb,postgres,docker,git&theme=dark" alt="Technology stack" />
 
 </div>
 
