@@ -1,22 +1,26 @@
 <div align="center">
 
-<img src="./assets/code-terminal.svg" width="100%" alt="Animated cyberpunk coding terminal" />
+<img src="./assets/visual-lab.svg" width="100%" alt="Animated particle coding visual laboratory" />
 
-<br />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8E7BFF&center=true&vCenter=true&width=850&lines=SYED+HASNAIN+RAZA;Websites+%7C+Web+Apps+%7C+Android+%7C+iOS;Full-Stack+%26+Cross-Platform+Development;Building+digital+experiences" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=BA85FF&center=true&vCenter=true&width=850&lines=SYED+HASNAIN+RAZA;Full-Stack+Software+Developer;Websites+%7C+Web+Apps+%7C+Android+%7C+iOS;Building+Tomorrow+with+Code" alt="Animated typing introduction"/>
 
-<br />
+<br/>
 
-<img src="https://avatars.githubusercontent.com/u/239327170?v=4" width="200" alt="Syed Hasnain Raza portrait" />
+<img src="./assets/hasnain-coding-animation.gif" width="680" alt="Animated profile portrait with rotating neon rings and typing code" />
 
-<br /><br />
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&style=for-the-badge&color=7957d5&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-42ffad?style=for-the-badge&labelColor=10152b" alt="Status online"/>
+<img src="https://img.shields.io/badge/BUILD-WEB%20%7C%20ANDROID%20%7C%20IOS-a66aff?style=for-the-badge&labelColor=10152b" alt="Platforms"/>
+<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&style=for-the-badge&color=7957d5&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-### `> developer --identity`
+---
+
+## 🧬 SYSTEM / DEVELOPER IDENTITY
 
 ```bash
 $ developer --profile
@@ -28,7 +32,7 @@ TECH       : Multi-language • Multi-framework • Multi-platform
 STATUS     : Building useful things on the web
 ```
 
-### `> modules --services`
+## 🧩 MODULES / WHAT I BUILD
 
 🌐 **Websites:** Business, corporate, portfolio, blogs, e-commerce, marketplaces, CMS, and landing pages.
 
@@ -38,7 +42,7 @@ STATUS     : Building useful things on the web
 
 ⚙️ **Backend & cloud:** REST/GraphQL APIs, databases, authentication, payments, integrations, deployment, and automation.
 
-### `> system --languages`
+## 🛠️ TECH ECOSYSTEM
 
 **Programming & scripting:** JavaScript · TypeScript · PHP · Python · Java · Kotlin · Swift · Dart · C · C++ · C# · Go · Rust · Ruby · SQL · Bash
 
@@ -50,7 +54,7 @@ STATUS     : Building useful things on the web
 
 *Technologies listed represent the development ecosystem and solution coverage, not a claim of equal proficiency in every language or framework.*
 
-### `> dependencies --stack`
+## 💻 LANGUAGE & FRAMEWORK ICONS
 
 <div align="center">
 
@@ -58,7 +62,7 @@ STATUS     : Building useful things on the web
 
 </div>
 
-### `> telemetry --github`
+## 📈 LIVE GITHUB TELEMETRY
 
 <div align="center">
 
@@ -67,7 +71,7 @@ STATUS     : Building useful things on the web
 
 </div>
 
-### `> contribution --snake`
+## 🐍 CONTRIBUTION ANIMATION
 
 <div align="center">
 
@@ -75,7 +79,7 @@ STATUS     : Building useful things on the web
 
 </div>
 
-### `> contribution --3d`
+## 🧊 3D CONTRIBUTION GRID
 
 <div align="center">
 
@@ -83,7 +87,7 @@ STATUS     : Building useful things on the web
 
 </div>
 
-### `> connect --developer`
+## 🔗 CONNECT
 
 <div align="center">
 
