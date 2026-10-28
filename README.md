@@ -32,6 +32,8 @@ TECH       : Multi-language • Multi-framework • Multi-platform
 STATUS     : Building useful things on the web
 ```
 
+<div align="center"><img src="./assets/development-modules.svg" width="100%" alt="Cyberpunk development services dashboard" /></div>
+
 ## 🧩 MODULES / WHAT I BUILD
 
 🌐 **Websites:** Business, corporate, portfolio, blogs, e-commerce, marketplaces, CMS, and landing pages.
