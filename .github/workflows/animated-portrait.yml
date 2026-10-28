@@ -25,5 +25,6 @@ jobs:
           git add assets/hasnain-coding-animation.gif
           if ! git diff --cached --quiet; then
             git commit -m 'Render animated developer portrait'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
