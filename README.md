@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza cyberpunk banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF88&center=true&vCenter=true&width=850&lines=Welcome+to+my+digital+workspace;Websites+%7C+Web+Apps+%7C+Android+%7C+iOS;Full-Stack+%26+Cross-Platform+Development;Frontend+%7C+Backend+%7C+Mobile+%7C+Cloud;Modern+Languages+%26+Frameworks" alt="Animated introduction" />
-
-<img src="https://avatars.githubusercontent.com/u/239327170?v=4" width="260" height="260" alt="Syed Hasnain Raza profile photo" />
+<img src="./assets/code-terminal.svg" width="100%" alt="Animated cyberpunk coding terminal" />
 
 <br />
 
-<img src="./assets/cyber-portrait-accent.svg" width="340" alt="Animated neon cyberpunk accent" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8E7BFF&center=true&vCenter=true&width=850&lines=SYED+HASNAIN+RAZA;Websites+%7C+Web+Apps+%7C+Android+%7C+iOS;Full-Stack+%26+Cross-Platform+Development;Building+digital+experiences" alt="Animated developer introduction" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&style=for-the-badge&color=00c896&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://avatars.githubusercontent.com/u/239327170?v=4" width="200" alt="Syed Hasnain Raza portrait" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&style=for-the-badge&color=7957d5&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-### `> whoami`
+### `> developer --identity`
 
 ```bash
 $ developer --profile
@@ -28,7 +28,7 @@ TECH       : Multi-language • Multi-framework • Multi-platform
 STATUS     : Building useful things on the web
 ```
 
-### `> services --all-platforms`
+### `> modules --services`
 
 🌐 **Websites:** Business, corporate, portfolio, blogs, e-commerce, marketplaces, CMS, and landing pages.
 
@@ -38,7 +38,7 @@ STATUS     : Building useful things on the web
 
 ⚙️ **Backend & cloud:** REST/GraphQL APIs, databases, authentication, payments, integrations, deployment, and automation.
 
-### `> languages --ecosystem`
+### `> system --languages`
 
 **Programming & scripting:** JavaScript · TypeScript · PHP · Python · Java · Kotlin · Swift · Dart · C · C++ · C# · Go · Rust · Ruby · SQL · Bash
 
@@ -50,7 +50,7 @@ STATUS     : Building useful things on the web
 
 *Technologies listed represent the development ecosystem and solution coverage, not a claim of equal proficiency in every language or framework.*
 
-### `> tech --stack`
+### `> dependencies --stack`
 
 <div align="center">
 
@@ -58,7 +58,7 @@ STATUS     : Building useful things on the web
 
 </div>
 
-### `> github --telemetry`
+### `> telemetry --github`
 
 <div align="center">
 
