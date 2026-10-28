@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="./assets/animated-portrait.svg" width="340" alt="Animated neon cyberpunk frame" />
+<img src="./assets/cyber-portrait-accent.svg" width="340" alt="Animated neon cyberpunk accent" />
 
 <br />
 
