@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/visual-lab.svg" width="100%" alt="Animated particle coding visual laboratory" />
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=BA85FF&center=true&vCenter=true&width=850&lines=SYED+HASNAIN+RAZA;Full-Stack+Software+Developer;Websites+%7C+Web+Apps+%7C+Android+%7C+iOS;Building+Tomorrow+with+Code" alt="Animated typing introduction"/>
 
 <br/>
