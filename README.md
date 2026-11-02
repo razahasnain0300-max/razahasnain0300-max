@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="./assets/professional-header.svg" width="100%" alt="Syed Hasnain Raza — Full-Stack Web Developer. Websites, commerce and business applications." />
+<img src="./assets/professional-header.svg" width="100%" alt="Syed Hasnain Raza — Full-Stack and Application Developer. Websites, web apps, desktop, Android and iOS." />
 
 # Turning business ideas into useful software.
 
-I build responsive websites, e-commerce experiences, and custom web applications,<br/>
-connecting thoughtful interfaces with the backend systems that power them.
+**Websites · Web Applications · Desktop Software · Android · iOS**
 
-**PHP · MySQL · JavaScript · Bootstrap · REST APIs**
+From customer-facing experiences to the systems behind them,<br/>
+my development services cover web, desktop, and mobile applications.
 
-[Explore my expertise](#what-i-build) · [How I work](#how-i-work) · [Let's connect](#lets-build-something-useful)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=6AF0B0&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Full-Stack+%26+Application+Development;Websites+%7C+Web+Apps+%7C+Desktop+Software;Android+%7C+iOS+%7C+Cross-Platform+Apps;From+Your+Idea+to+a+Working+Product" width="850" alt="Animated introduction: full-stack, web, desktop, Android and iOS application development" />
+
+<img src="./assets/hasnain-coding-animation.gif" width="680" alt="Syed Hasnain Raza's animated coding portrait with neon accents" />
+
+[What I build](#what-i-build) · [Technology ecosystem](#technology-ecosystem) · [How I work](#how-i-work) · [Let's connect](#lets-build-something-useful)
 
 </div>
 
@@ -17,51 +21,68 @@ connecting thoughtful interfaces with the backend systems that power them.
 
 ## About me
 
-I'm **Syed Hasnain Raza**, a web developer with **4+ years of experience** working across frontend interfaces, backend logic, and relational databases.
+I'm **Syed Hasnain Raza**, a developer with **4+ years of web development experience**, working across frontend interfaces, backend logic, and relational databases.
 
-My focus is practical business software: online stores, booking flows, customer portals, inventory tools, and admin dashboards. I care about making everyday tasks easier for both customers and the people managing the system.
+My core hands-on stack is **PHP, MySQL/MariaDB, JavaScript, HTML, CSS, and Bootstrap**. My service scope spans websites, web applications, desktop software, and Android/iOS applications, with the implementation approach matched to each project's requirements.
+
+I focus on practical business software: online stores, booking flows, customer portals, inventory tools, and admin dashboards—making everyday tasks easier for customers and the people managing the system.
 
 ## What I build
 
-| Focus | What I can help you create |
+| Platform / solution | Application types |
 | :--- | :--- |
-| **Websites & storefronts** | Responsive business websites, product catalogs, shopping carts, and e-commerce experiences. |
-| **Business applications** | Admin dashboards, inventory and ledger tools, customer portals, and reporting workflows. |
-| **Booking & service platforms** | Booking flows, order tracking, vendor dashboards, and customer communication features. |
-| **Backend & integrations** | PHP and JavaScript application logic, REST APIs, authentication, and MySQL data models. |
+| **Websites** | Business websites, portfolios, landing pages, blogs, content-managed sites, and real estate websites. |
+| **Web applications** | SaaS products, customer portals, dashboards, booking systems, and service platforms. |
+| **E-commerce & marketplaces** | Online stores, product catalogs, carts, checkout flows, and vendor management. |
+| **Desktop applications** | Windows, macOS, and Linux business tools, POS systems, inventory software, and utilities. |
+| **Android applications** | Business apps, commerce experiences, service booking, and customer-facing mobile tools. |
+| **iOS applications** | iPhone and iPad experiences for commerce, services, and business workflows. |
+| **Cross-platform applications** | Shared-code mobile and desktop experiences, plus progressive web apps. |
+| **Custom business software** | CRM, ERP, inventory, ledger, reporting, and workflow automation systems. |
+| **Backend & integrations** | APIs, authentication, database design, payments, and third-party service integrations. |
 
-## My development toolkit
+## Technology ecosystem
 
-| Layer | Technologies & practices |
+**Core stack:** PHP · MySQL · MariaDB · JavaScript · HTML5 · CSS3 · Bootstrap · AJAX · PDO
+
+The broader ecosystem below covers technologies for different project types. It is not a claim of equal hands-on proficiency in every language or framework; the stack and delivery scope are agreed for each project.
+
+| Area | Languages, frameworks & tools |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, responsive layouts, AJAX |
-| **Backend** | PHP, Node.js, Express, REST APIs |
-| **Database** | MySQL, MariaDB, PDO, relational data modeling |
-| **Workflow** | Git, GitHub, XAMPP, debugging, integration testing |
+| **Programming & scripting** | JavaScript, TypeScript, PHP, Python, Java, C#, C, C++, Go, Rust, Ruby, Kotlin, Swift, Dart, Objective-C, Visual Basic .NET, R, SQL, Bash, PowerShell |
+| **Frontend & UI** | HTML5, CSS3, Sass, React, Next.js, Vue, Nuxt, Angular, Svelte, Bootstrap, Tailwind CSS, jQuery |
+| **Backend & APIs** | Node.js, Express, NestJS, Laravel, Symfony, Django, Flask, FastAPI, ASP.NET Core, Spring Boot, Ruby on Rails, REST, GraphQL |
+| **Android & iOS** | Kotlin, Java, Swift, SwiftUI, Dart, Flutter, React Native, .NET MAUI |
+| **Desktop** | C#/.NET, WPF, WinForms, Electron, Tauri, Qt, JavaFX, Python/PySide |
+| **Databases & storage** | MySQL, MariaDB, PostgreSQL, SQLite, SQL Server, MongoDB, Redis, Firebase |
+| **Development & delivery** | Git, GitHub, GitHub Actions, Docker, Linux, XAMPP, Postman, AWS, Azure, Google Cloud |
 
-I choose technologies around the project's needs, with an emphasis on maintainability and a straightforward handover.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cs,cpp,go,rust,ruby,kotlin,swift,dart&amp;perline=7&amp;theme=dark" alt="Programming languages: PHP, JavaScript, TypeScript, Python, Java, C sharp, C plus plus, Go, Rust, Ruby, Kotlin, Swift and Dart" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,nodejs,laravel,django,dotnet,flutter,electron,mysql,postgres,docker,git&amp;perline=8&amp;theme=dark" alt="Web, mobile, desktop, database and development tools" />
+
+</div>
 
 ## How I work
 
-1. **Understand the workflow** — clarify the users, business rules, and what a successful result looks like.
-2. **Build the full experience** — connect the interface, application logic, and database.
-3. **Check real scenarios** — test forms, permissions, calculations, and the main user journeys.
-4. **Prepare for handover** — organize the code and explain setup and configuration.
-
-<details>
-<summary><strong>Behind the code — my animated workspace</strong></summary>
-<br/>
-<div align="center">
-<img src="./assets/hasnain-coding-animation.gif" width="620" alt="Syed Hasnain Raza's animated coding portrait with neon accents" />
-</div>
-</details>
+1. **Understand the workflow** — clarify the users, business rules, target platforms, and what a successful result looks like.
+2. **Choose the right stack** — agree on the technology, scope, integrations, and delivery milestones.
+3. **Build the full experience** — connect the interface, application logic, and database.
+4. **Check real scenarios** — test forms, permissions, calculations, and the main user journeys.
+5. **Prepare for handover** — organize the code and explain setup and configuration.
 
 ---
 
 ## Let's build something useful
 
-Have a website or web application in mind? Share the problem you want to solve, the features you need, and your target timeline.
+Have a **website, web app, desktop application, or Android/iOS app** in mind?
+
+Share the problem you want to solve, your target platforms, the features you need, and your timeline.
 
 **[Email me about your project](mailto:razahasnain0300@gmail.com)** · [GitHub repositories](https://github.com/razahasnain0300-max?tab=repositories)
 
-<sub>Syed Hasnain Raza · Websites · E-commerce · Custom web applications</sub>
+<sub>Syed Hasnain Raza · Web · Desktop · Mobile · Custom software</sub>
