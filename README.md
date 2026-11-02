@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/professional-header.svg" width="100%" alt="Syed Hasnain Raza — Full-Stack and Application Developer. Websites, web apps, desktop, Android and iOS." />
-
 # Turning business ideas into useful software.
 
 **Websites · Web Applications · Desktop Software · Android · iOS**
