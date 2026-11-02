@@ -1,96 +1,67 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=BA85FF&center=true&vCenter=true&width=850&lines=SYED+HASNAIN+RAZA;Full-Stack+Software+Developer;Websites+%7C+Web+Apps+%7C+Android+%7C+iOS;Building+Tomorrow+with+Code" alt="Animated typing introduction"/>
+<img src="./assets/professional-header.svg" width="100%" alt="Syed Hasnain Raza — Full-Stack Web Developer. Websites, commerce and business applications." />
 
-<br/>
+# Turning business ideas into useful software.
 
-<img src="./assets/hasnain-coding-animation.gif" width="680" alt="Animated profile portrait with rotating neon rings and typing code" />
+I build responsive websites, e-commerce experiences, and custom web applications,<br/>
+connecting thoughtful interfaces with the backend systems that power them.
 
-<br/><br/>
+**PHP · MySQL · JavaScript · Bootstrap · REST APIs**
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-42ffad?style=for-the-badge&labelColor=10152b" alt="Status online"/>
-<img src="https://img.shields.io/badge/BUILD-WEB%20%7C%20ANDROID%20%7C%20IOS-a66aff?style=for-the-badge&labelColor=10152b" alt="Platforms"/>
-<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&style=for-the-badge&color=7957d5&label=PROFILE+VIEWS" alt="Profile views"/>
+[Explore my expertise](#what-i-build) · [How I work](#how-i-work) · [Let's connect](#lets-build-something-useful)
 
 </div>
 
 ---
 
-## 🧬 SYSTEM / DEVELOPER IDENTITY
+## About me
 
-```bash
-$ developer --profile
-NAME       : Syed Hasnain Raza
-ROLE       : Full-Stack & Cross-Platform Application Developer
-SERVICES   : Websites • Web Apps • Android Apps • iOS Apps
-SOLUTIONS  : E-commerce • Marketplaces • SaaS • Dashboards • APIs
-TECH       : Multi-language • Multi-framework • Multi-platform
-STATUS     : Building useful things on the web
-```
+I'm **Syed Hasnain Raza**, a web developer with **4+ years of experience** working across frontend interfaces, backend logic, and relational databases.
 
-<div align="center"><img src="./assets/development-modules.svg" width="100%" alt="Cyberpunk development services dashboard" /></div>
+My focus is practical business software: online stores, booking flows, customer portals, inventory tools, and admin dashboards. I care about making everyday tasks easier for both customers and the people managing the system.
 
-## 🧩 MODULES / WHAT I BUILD
+## What I build
 
-🌐 **Websites:** Business, corporate, portfolio, blogs, e-commerce, marketplaces, CMS, and landing pages.
+| Focus | What I can help you create |
+| :--- | :--- |
+| **Websites & storefronts** | Responsive business websites, product catalogs, shopping carts, and e-commerce experiences. |
+| **Business applications** | Admin dashboards, inventory and ledger tools, customer portals, and reporting workflows. |
+| **Booking & service platforms** | Booking flows, order tracking, vendor dashboards, and customer communication features. |
+| **Backend & integrations** | PHP and JavaScript application logic, REST APIs, authentication, and MySQL data models. |
 
-💻 **Web applications:** SaaS, dashboards, admin panels, CRM, ERP, booking systems, portals, and custom business software.
+## My development toolkit
 
-📱 **Mobile applications:** Android and iOS apps, cross-platform apps, PWAs, and mobile-first experiences.
+| Layer | Technologies & practices |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, responsive layouts, AJAX |
+| **Backend** | PHP, Node.js, Express, REST APIs |
+| **Database** | MySQL, MariaDB, PDO, relational data modeling |
+| **Workflow** | Git, GitHub, XAMPP, debugging, integration testing |
 
-⚙️ **Backend & cloud:** REST/GraphQL APIs, databases, authentication, payments, integrations, deployment, and automation.
+I choose technologies around the project's needs, with an emphasis on maintainability and a straightforward handover.
 
-## 🛠️ TECH ECOSYSTEM
+## How I work
 
-**Programming & scripting:** JavaScript · TypeScript · PHP · Python · Java · Kotlin · Swift · Dart · C · C++ · C# · Go · Rust · Ruby · SQL · Bash
+1. **Understand the workflow** — clarify the users, business rules, and what a successful result looks like.
+2. **Build the full experience** — connect the interface, application logic, and database.
+3. **Check real scenarios** — test forms, permissions, calculations, and the main user journeys.
+4. **Prepare for handover** — organize the code and explain setup and configuration.
 
-**Web & UI:** HTML5 · CSS3 · React · Next.js · Vue · Angular · Node.js · Express · Laravel · Django · Flask · FastAPI · ASP.NET · Bootstrap · Tailwind CSS · jQuery
-
-**Mobile:** Flutter · React Native · Android (Kotlin/Java) · iOS (Swift) · Progressive Web Apps
-
-**Data & infrastructure:** MySQL · PostgreSQL · MongoDB · SQLite · Firebase · Redis · Docker · Git · GitHub Actions · Linux · AWS · Azure · Google Cloud
-
-*Technologies listed represent the development ecosystem and solution coverage, not a claim of equal proficiency in every language or framework.*
-
-## 💻 LANGUAGE & FRAMEWORK ICONS
-
+<details>
+<summary><strong>Behind the code — my animated workspace</strong></summary>
+<br/>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,mysql,js,ts,python,java,kotlin,swift,dart,react,nextjs,nodejs,flutter,laravel,django,mongodb,postgres,docker,git&theme=dark" alt="Technology stack" />
-
+<img src="./assets/hasnain-coding-animation.gif" width="620" alt="Syed Hasnain Raza's animated coding portrait with neon accents" />
 </div>
+</details>
 
-## 📈 LIVE GITHUB TELEMETRY
+---
 
-<div align="center">
+## Let's build something useful
 
-<img src="https://github-readme-stats.vercel.app/api?username=razahasnain0300-max&show_icons=true&hide_border=true&bg_color=050b12&title_color=39ff88&text_color=c9e7e8&icon_color=25c8ff" height="175" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razahasnain0300-max&layout=compact&hide_border=true&bg_color=050b12&title_color=39ff88&text_color=c9e7e8" height="175" alt="Most used languages" />
+Have a website or web application in mind? Share the problem you want to solve, the features you need, and your target timeline.
 
-</div>
+**[Email me about your project](mailto:razahasnain0300@gmail.com)** · [GitHub repositories](https://github.com/razahasnain0300-max?tab=repositories)
 
-## 🐍 CONTRIBUTION ANIMATION
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
-
-</div>
-
-## 🧊 3D CONTRIBUTION GRID
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar" />
-
-</div>
-
-## 🔗 CONNECT
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-razahasnain0300--max-07121c?style=for-the-badge&logo=github&logoColor=39ff88)](https://github.com/razahasnain0300-max)
-
-**`[ ACCESS GRANTED ]`** · *Thanks for visiting my digital workspace.*
-
-</div>
+<sub>Syed Hasnain Raza · Websites · E-commerce · Custom web applications</sub>
