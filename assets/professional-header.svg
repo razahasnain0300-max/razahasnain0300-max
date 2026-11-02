@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Syed Hasnain Raza — Full-Stack Web Developer</title>
-<desc id="desc">Websites, commerce and business applications. Dark navy banner with green and cyan geometric accents.</desc>
+<title id="title">Syed Hasnain Raza — Full-Stack &amp; Application Developer</title>
+<desc id="desc">Websites, web apps, desktop software, Android and iOS applications. Dark navy banner with green and cyan geometric accents.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111d2b"/></linearGradient><linearGradient id="accent"><stop stop-color="#6af0b0"/><stop offset="1" stop-color="#65d9ef"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#263747" stroke-width=".6"/></pattern></defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)" opacity=".45"/>
 <rect x="52" y="52" width="46" height="4" rx="2" fill="url(#accent)"/>
 <text x="52" y="94" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#6af0b0">DEVELOPMENT WITH PURPOSE</text>
 <text x="48" y="162" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" fill="#f0f6fc">Syed Hasnain Raza</text>
-<text x="52" y="207" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#c2cfdd">Full-Stack Web Developer</text>
-<text x="52" y="270" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#9fb0c3">Websites. Commerce. Business applications.</text>
+<text x="52" y="207" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#c2cfdd">Full-Stack &amp; Application Developer</text>
+<text x="52" y="270" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#9fb0c3">Websites · Web apps · Desktop · Android · iOS</text>
 <path d="M960 103l-52 52 52 52M1060 103l52 52-52 52M1030 83l-42 144" stroke="url(#accent)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-<circle cx="1010" cy="155" r="116" fill="none" stroke="#294456"/><circle cx="1010" cy="155" r="137" fill="none" stroke="#203344" stroke-dasharray="4 12"/>
+<circle cx="1010" cy="155" r="116" fill="none" stroke="#294456"/><circle cx="1010" cy="155" r="137" fill="none" stroke="#203344" stroke-dasharray="4 12"><animateTransform attributeName="transform" type="rotate" from="0 1010 155" to="360 1010 155" dur="60s" repeatCount="indefinite"/></circle>
 <rect x="52" y="314" width="1096" height="1" fill="#2a3b4b"/><rect x="52" y="314" width="220" height="2" fill="url(#accent)"/>
 </svg>
