@@ -26,20 +26,20 @@
 
 ---
 
-## 👥 Our development team
+## <img src="https://img.shields.io/badge/TEAM-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="TEAM" height="22" /> Our development team
 
 **Syeds Tech** presents a collaborative, multidisciplinary approach to delivering complete digital products. The roles below describe the disciplines involved in a full project delivery—not a verified public employee roster.
 
 | Team / discipline | Focus |
 |:---|:---|
-| 🎨 **UI/UX & Product Design** | Research, wireframes, visual design, responsive experiences |
-| 🌐 **Frontend Development** | Websites, web apps, interactive interfaces |
+| <img src="https://img.shields.io/badge/DESIGN-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESIGN" height="19" /> **UI/UX & Product Design** | Research, wireframes, visual design, responsive experiences |
+| <img src="https://img.shields.io/badge/WEB-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="WEB" height="19" /> **Frontend Development** | Websites, web apps, interactive interfaces |
 | ⚙️ **Backend & API Development** | Business logic, integrations, authentication, services |
-| 📱 **Android & iOS Development** | Native and cross-platform mobile solutions |
-| 🖥️ **Desktop & Business Software** | POS, ERP, CRM, inventory, custom desktop workflows |
-| 🗄️ **Database & Architecture** | Relational design, data modeling, performance |
-| 🤖 **AI & Automation** | AI-enabled features, integrations, workflow automation |
-| 🧪 **QA, DevOps & Delivery** | Testing, deployment, monitoring and maintenance |
+| <img src="https://img.shields.io/badge/MOBILE-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="MOBILE" height="19" /> **Android & iOS Development** | Native and cross-platform mobile solutions |
+| <img src="https://img.shields.io/badge/DESKTOP-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESKTOP" height="19" /> **Desktop & Business Software** | POS, ERP, CRM, inventory, custom desktop workflows |
+| <img src="https://img.shields.io/badge/DATA-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DATA" height="19" /> **Database & Architecture** | Relational design, data modeling, performance |
+| <img src="https://img.shields.io/badge/AI-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="AI" height="19" /> **AI & Automation** | AI-enabled features, integrations, workflow automation |
+| <img src="https://img.shields.io/badge/QA-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="QA" height="19" /> **QA, DevOps & Delivery** | Testing, deployment, monitoring and maintenance |
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 </div>
 
-## 💻 Programming languages
+## <img src="https://img.shields.io/badge/CODE-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="CODE" height="22" /> Programming languages
 
 A wide language ecosystem for different project types. **Listed languages represent our service and technology scope, not verified equal proficiency or a claim that every language is used on every project.**
 
@@ -65,7 +65,7 @@ A wide language ecosystem for different project types. **Listed languages repres
 
 </div>
 
-## 👨‍💻 About me
+## 👨‍<img src="https://img.shields.io/badge/CODE-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="CODE" height="22" /> About me
 
 I'm **Syed Hasnain Raza**, with **4+ years of web development experience**. I represent the Syeds Tech software development offering, bringing together the disciplines needed for end-to-end digital projects. I work on responsive interfaces, backend business rules, APIs, and relational databases.
 
@@ -83,22 +83,22 @@ $ focus
   Reliable data flows > impressive-looking demos
 ```
 
-## 🚀 What I build
+## <img src="https://img.shields.io/badge/BUILD-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="BUILD" height="22" /> What I build
 
 | Solution | Examples of work |
 | --- | --- |
-| 🌐 **Business websites** | Company websites, landing pages, portfolios, real-estate experiences |
-| 🧩 **Web applications** | Admin dashboards, CRM tools, customer portals, SaaS-style systems |
-| 🛒 **E-commerce & marketplaces** | Catalogs, carts, checkout journeys, vendor portals, stock management |
-| 📅 **Booking & service platforms** | Reservations, order tracking, schedules, messaging, payments |
-| 📦 **Inventory & operations** | Purchases, sales, ledger flows, stock visibility, reporting |
-| 🔗 **Backends & integrations** | REST APIs, authentication, relational data, service integration |
-| 🖥️ **Desktop solutions** | Business tooling and POS-style application projects |
-| 📱 **Mobile solutions** | Android, iOS, cross-platform and progressive web app project scope |
+| <img src="https://img.shields.io/badge/WEB-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="WEB" height="19" /> **Business websites** | Company websites, landing pages, portfolios, real-estate experiences |
+| <img src="https://img.shields.io/badge/APP-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="APP" height="19" /> **Web applications** | Admin dashboards, CRM tools, customer portals, SaaS-style systems |
+| <img src="https://img.shields.io/badge/STORE-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="STORE" height="19" /> **E-commerce & marketplaces** | Catalogs, carts, checkout journeys, vendor portals, stock management |
+| <img src="https://img.shields.io/badge/BOOKING-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="BOOKING" height="19" /> **Booking & service platforms** | Reservations, order tracking, schedules, messaging, payments |
+| <img src="https://img.shields.io/badge/STOCK-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="STOCK" height="19" /> **Inventory & operations** | Purchases, sales, ledger flows, stock visibility, reporting |
+| <img src="https://img.shields.io/badge/API-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="API" height="19" /> **Backends & integrations** | REST APIs, authentication, relational data, service integration |
+| <img src="https://img.shields.io/badge/DESKTOP-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESKTOP" height="19" /> **Desktop solutions** | Business tooling and POS-style application projects |
+| <img src="https://img.shields.io/badge/MOBILE-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="MOBILE" height="19" /> **Mobile solutions** | Android, iOS, cross-platform and progressive web app project scope |
 
 > **Private-code policy:** Project source code and downloadable packages are not offered through this portfolio. For a similar feature or custom build, contact us via WhatsApp.
 
-## 🔒 Private project portfolio — 21 projects
+## <img src="https://img.shields.io/badge/PRIVATE-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="PRIVATE" height="22" /> Private project portfolio — 21 projects
 
 **Our source repositories are private.** These project summaries share high-level purposes, technology stacks and documented functionality—not code, downloadable packages or private credentials. Feature descriptions are based on project documentation; they are not a guarantee that every feature is live in production.
 
@@ -114,7 +114,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Public browsing, customer and seller portals, admin operations, charging and services architecture.
 
-[**💬 Request a similar GOEV Pakistan project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20GOEV%20Pakistan.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar GOEV Pakistan project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20GOEV%20Pakistan.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
@@ -126,7 +126,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Student-facing application, admin management, shared API, independently built application surfaces.
 
-[**💬 Request a similar MedBoostPro project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20MedBoostPro.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar MedBoostPro project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20MedBoostPro.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
@@ -138,7 +138,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Product variants, cart and checkout, inventory, order tracking, returns/refunds, customer accounts, real-time admin notifications.
 
-[**💬 Request a similar Kanz Store project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Kanz%20Store.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar Kanz Store project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Kanz%20Store.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
@@ -150,7 +150,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Public professional website, administrative workspace, doctor portal, clinic inventory module; some content/release items pending review.
 
-[**💬 Request a similar Dr. Shoaib Zafar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Dr.%20Shoaib%20Zafar.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar Dr. Shoaib Zafar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Dr.%20Shoaib%20Zafar.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
@@ -162,7 +162,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Marketplace-oriented interface foundation; detailed commerce workflows not independently verified.
 
-[**💬 Request a similar Meem Connects project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Meem%20Connects.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar Meem Connects project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Meem%20Connects.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
@@ -174,12 +174,12 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Property-focused web experience, server-side database integration and contact configuration.
 
-[**💬 Request a similar Amaken Real Estate project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Amaken%20Real%20Estate.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar Amaken Real Estate project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Amaken%20Real%20Estate.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
 <details>
-<summary><b>📂 Load More Projects — View 15 More (7–21 of 21)</b></summary>
+<summary><b><img src="https://img.shields.io/badge/PROJECTS-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="PROJECTS" height="19" /> Load More Projects — View 15 More (7–21 of 21)</b></summary>
 
 ### 07 · rTMS Machine
 
@@ -189,7 +189,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Web application foundation; specialized workflow implementation not independently verified.
 
-[**💬 Request a similar rTMS Machine project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20rTMS%20Machine.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar rTMS Machine project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20rTMS%20Machine.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
@@ -201,7 +201,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Business website foundation and service presentation; detailed features not independently verified.
 
-[**💬 Request a similar Syeds Tech Company Website project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Syeds%20Tech%20Company%20Website.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+[** Request a similar Syeds Tech Company Website project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Syeds%20Tech%20Company%20Website.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
 
@@ -213,7 +213,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Responsive digital identity and interactive web presentation.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%205D%20Interactive%20ARE%20Business%20Card.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%205D%20Interactive%20ARE%20Business%20Card.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -225,7 +225,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Floating information cubes, animated presentation, profile details and vCard export.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%203D%2F5D%20ARE%20Business%20Card.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%203D%2F5D%20ARE%20Business%20Card.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -237,7 +237,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Property, sales, leads and performance analytics dashboard scope.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Amaken%20CEO%20Dashboard.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Amaken%20CEO%20Dashboard.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -249,7 +249,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Executive oversight, property management and analytics scope.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Amaken%20Executive%20Management.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Amaken%20Executive%20Management.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -261,7 +261,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Storefront application foundation; checkout and inventory workflows not verified.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Fatima%20Boutique.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Fatima%20Boutique.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -273,7 +273,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Customer accounts, cart/COD checkout, inventory, returns/refunds, admin portal and real-time order updates.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Hadia%20Collection.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Hadia%20Collection.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -285,7 +285,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Project-specific features not independently documented.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Rehab%20Connects.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Rehab%20Connects.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -297,7 +297,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Holographic interface, multilingual voice/chat, permission-controlled local agents and audit logs; local inference requires setup.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20SYDEX%20AI%20Command%20Center.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20SYDEX%20AI%20Command%20Center.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -309,7 +309,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Project purpose and feature implementation pending documentation.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Over%20The%20Top.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Over%20The%20Top.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -321,7 +321,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Commerce-oriented application foundation; detailed store workflows not verified.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Syeds%20Collection.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Syeds%20Collection.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -333,7 +333,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Web application foundation; specific designer features not verified.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Gani%20Designer.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Gani%20Designer.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -345,7 +345,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Homepage, services pages, shared navigation and contact form.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Telal%20Al%20Qema%20Contracting.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Telal%20Al%20Qema%20Contracting.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -357,7 +357,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Database-backed application foundation; specific law-office workflows not verified.
 
-[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Syed%20Imran%20Law%20Associates.%20Please%20share%20details%20and%20pricing.)
+[** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Syed%20Imran%20Law%20Associates.%20Please%20share%20details%20and%20pricing.)
 
 ---
 
@@ -371,11 +371,11 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **WhatsApp UAE:** [+971 55 261 5993](https://wa.me/971552615993) · **WhatsApp Pakistan:** [+92 306 596 7478](https://wa.me/923065967478) · **Email:** [razahasnain0300@gmail.com](mailto:razahasnain0300@gmail.com)
 
-[**💬 Discuss your custom project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20custom%20software%20development%20project.%20Please%20contact%20me.)
+[** Discuss your custom project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20custom%20software%20development%20project.%20Please%20contact%20me.)
 
 </div>
 
-## 🧰 Frameworks, tools & technology stack
+## <img src="https://img.shields.io/badge/TOOLS-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="TOOLS" height="22" /> Frameworks, tools & technology stack
 
 **Daily development stack**
 
@@ -405,7 +405,7 @@ I explore or work with technologies appropriate to project requirements; this is
 
 </details>
 
-## 🛠️ How I deliver
+## <img src="https://img.shields.io/badge/PROCESS-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="PROCESS" height="22" /> How I deliver
 
 ```mermaid
 flowchart LR
@@ -418,7 +418,7 @@ flowchart LR
 
 I favor usable interfaces, secure data handling, clear validation, role-based access where needed, and reproducible setups. Each project deserves attention to loading states, error handling, mobile responsiveness, and complete UI-to-database integration.
 
-## 📈 GitHub activity
+## <img src="https://img.shields.io/badge/ACTIVITY-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="ACTIVITY" height="22" /> GitHub activity
 
 <div align="center">
 
@@ -441,7 +441,7 @@ I favor usable interfaces, secure data handling, clear validation, role-based ac
 
 </details>
 
-## 🤝 Work with me
+## <img src="https://img.shields.io/badge/CONTACT-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="CONTACT" height="22" /> Work with me
 
 Need a **website, web app, admin system, API, e-commerce platform, or custom business solution**?
 
@@ -453,9 +453,9 @@ Tell us the problem, key features, expected users, platform, and timeline. We ca
 
 <br /><br />
 
-[**💬 Contact Syeds Tech on WhatsApp (UAE)**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20project.)
+[** Contact Syeds Tech on WhatsApp (UAE)**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20project.)
 
-[**💬 WhatsApp Pakistan: +92 306 596 7478**](https://wa.me/923065967478?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project.) · [**✉ Email: razahasnain0300@gmail.com**](mailto:razahasnain0300@gmail.com)
+[** WhatsApp Pakistan: +92 306 596 7478**](https://wa.me/923065967478?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project.) · [** Email: razahasnain0300@gmail.com**](mailto:razahasnain0300@gmail.com)
 
 <sub>© Syed Hasnain Raza · Websites · Web applications · Mobile apps · Desktop software · Business systems</sub>
 
