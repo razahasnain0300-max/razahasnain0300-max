@@ -11,7 +11,7 @@
 <br />
 
 <a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Email-Discuss%20a%20project-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email about a project" /></a>
-<a href="https://github.com/razahasnain0300-max?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-24D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" alt="Explore repositories" /></a>
+<a href="https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project."><img src="https://img.shields.io/badge/WhatsApp-Request%20a%20Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B1220" alt="Request a project on WhatsApp" /></a>
 
 <br />
 
@@ -19,7 +19,7 @@
 
 <sub>One animated portrait, a clean layout, and a focus on real-world solutions.</sub>
 
-**[Team](#-our-development-team)** · **[Languages](#-programming-languages)** · **[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-featured-public-repositories)** · **[Tech](#-frameworks-tools--technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
+**[Team](#-our-development-team)** · **[Languages](#-programming-languages)** · **[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-private-project-portfolio--features--technology)** · **[Tech](#-frameworks-tools--technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
 
 </div>
 
@@ -95,24 +95,117 @@ $ focus
 | 🖥️ **Desktop solutions** | Business tooling and POS-style application projects |
 | 📱 **Mobile solutions** | Android, iOS, cross-platform and progressive web app project scope |
 
-> **Portfolio note:** Many client and business projects are in private repositories. I share public code and project details only where they are authorized for publication. [Browse my public repositories](https://github.com/razahasnain0300-max?tab=repositories).
+> **Private-code policy:** Project source code and downloadable packages are not offered through this portfolio. For a similar feature or custom build, contact us via WhatsApp.
 
-## 🌟 Featured public repositories
+## 🔒 Private project portfolio — features & technology
 
-A selection of projects from my public GitHub account. Availability of live demos and feature completeness varies by repository.
+**Our source repositories are private.** These project summaries share high-level purposes, technology stacks and documented functionality—not code, downloadable packages or private credentials. Feature descriptions are based on project documentation; they are not a guarantee that every feature is live in production.
 
-| Repository | Project area |
-|:---|:---|
-| [**GOEV Pakistan**](https://github.com/razahasnain0300-max/goev-pk) | Automotive platform |
-| [**MedBoostPro**](https://github.com/razahasnain0300-max/medboostpro) | Education and service software |
-| [**Kanz Store**](https://github.com/razahasnain0300-max/kanzstore) | E-commerce and retail |
-| [**Dr. Shoaib Zafar**](https://github.com/razahasnain0300-max/dr.shoaib.zafar) | Specialist professional website |
-| [**Meem Connects**](https://github.com/razahasnain0300-max/meemconnects) | Marketplace platform |
-| [**Amaken Real Estate**](https://github.com/razahasnain0300-max/amakenrealestate) | Property technology |
+Interested in a similar website, web app, Android/iOS app or custom software? Use the project-specific **Request on WhatsApp** link below. It opens a prefilled enquiry for **+971 55 261 5993**.
+
+### 01 · GOEV Pakistan
+
+**Purpose:** Electric-vehicle marketplace and ecosystem platform.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS · Node.js · Express · PostgreSQL/Supabase.
+
+**Documented features / scope:** Public browsing, customer and seller portals, admin operations, charging and services architecture.
+
+[**💬 Request a similar GOEV Pakistan project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20GOEV%20Pakistan.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
+
+### 02 · MedBoostPro
+
+**Purpose:** Education platform with separated public, student and admin experiences.
+
+**Technologies:** React · TanStack Start · Vite · Node.js · Express.
+
+**Documented features / scope:** Student-facing application, admin management, shared API, independently built application surfaces.
+
+[**💬 Request a similar MedBoostPro project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20MedBoostPro.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
+
+### 03 · Kanz Store
+
+**Purpose:** Multi-category online store and retail operations platform.
+
+**Technologies:** Node.js · Express · MySQL · Socket.IO · JavaScript.
+
+**Documented features / scope:** Product variants, cart and checkout, inventory, order tracking, returns/refunds, customer accounts, real-time admin notifications.
+
+[**💬 Request a similar Kanz Store project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Kanz%20Store.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
+
+### 04 · Dr. Shoaib Zafar
+
+**Purpose:** Specialist website and clinic management ecosystem.
+
+**Technologies:** React · Node.js · Express · MySQL.
+
+**Documented features / scope:** Public professional website, administrative workspace, doctor portal, clinic inventory module; some content/release items pending review.
+
+[**💬 Request a similar Dr. Shoaib Zafar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Dr.%20Shoaib%20Zafar.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
+
+### 05 · Meem Connects
+
+**Purpose:** Multi-vendor commerce project.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS.
+
+**Documented features / scope:** Marketplace-oriented interface foundation; detailed commerce workflows not independently verified.
+
+[**💬 Request a similar Meem Connects project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Meem%20Connects.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
+
+### 06 · Amaken Real Estate
+
+**Purpose:** Property and real-estate website.
+
+**Technologies:** PHP · MySQL · PDO · Bootstrap.
+
+**Documented features / scope:** Property-focused web experience, server-side database integration and contact configuration.
+
+[**💬 Request a similar Amaken Real Estate project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Amaken%20Real%20Estate.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
+
+### 07 · rTMS Machine
+
+**Purpose:** Neuromodulation-focused web project.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS.
+
+**Documented features / scope:** Web application foundation; specialized workflow implementation not independently verified.
+
+[**💬 Request a similar rTMS Machine project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20rTMS%20Machine.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
+
+### 08 · Syeds Tech Company Website
+
+**Purpose:** IT services and digital agency website.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS.
+
+**Documented features / scope:** Business website foundation and service presentation; detailed features not independently verified.
+
+[**💬 Request a similar Syeds Tech Company Website project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Syeds%20Tech%20Company%20Website.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
+
+---
 
 <div align="center">
 
-[**Browse all public repositories →**](https://github.com/razahasnain0300-max?tab=repositories)
+### Have a different project in mind?
+
+**Websites · Web Apps · SaaS · E-commerce · ERP · CRM · POS · Android · iOS · Desktop · AI Integrations**
+
+[**💬 Discuss your custom project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20custom%20software%20development%20project.%20Please%20contact%20me.)
 
 </div>
 
@@ -186,13 +279,15 @@ I favor usable interfaces, secure data handling, clear validation, role-based ac
 
 Need a **website, web app, admin system, API, e-commerce platform, or custom business solution**?
 
-Tell me the problem, key features, expected users, platform, and timeline. I can help shape the technical approach into a practical development plan.
+Tell us the problem, key features, expected users, platform, and timeline. We can discuss a suitable development plan. **Project enquiries: +971 55 261 5993.**
 
 <div align="center">
 
 <a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk%20about%20your%20project-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Contact Syed Hasnain Raza by email" /></a>
 
 <br /><br />
+
+[**💬 Contact Syeds Tech on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20project.)
 
 <sub>© Syed Hasnain Raza · Websites · Web applications · Mobile apps · Desktop software · Business systems</sub>
 
