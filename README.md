@@ -1,86 +1,160 @@
 <div align="center">
 
-# Turning business ideas into useful software.
+<img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza — full-stack developer, neon cybersecurity themed header" />
 
-**Websites · Web Applications · Desktop Software · Android · iOS**
+### Full-stack web developer · Business software & application development
 
-From customer-facing experiences to the systems behind them,<br/>
-my development services cover web, desktop, and mobile applications.
+**4+ years building practical web solutions** | PHP · MySQL · JavaScript · Bootstrap
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=6AF0B0&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Full-Stack+%26+Application+Development;Websites+%7C+Web+Apps+%7C+Desktop+Software;Android+%7C+iOS+%7C+Cross-Platform+Apps;From+Your+Idea+to+a+Working+Product" width="850" alt="Animated introduction: full-stack, web, desktop, Android and iOS application development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=850&color=39FF88&center=true&vCenter=true&width=760&lines=Websites+%26+Web+Applications;E-commerce+%26+Marketplaces;Admin+Dashboards+%26+Automation;APIs+%26+Database-Driven+Systems;Desktop+%26+Mobile+Project+Solutions" alt="Animated developer capabilities" />
 
-<img src="./assets/hasnain-coding-animation.gif" width="680" alt="Syed Hasnain Raza's animated coding portrait with neon accents" />
+<br />
 
-[What I build](#what-i-build) · [Technology ecosystem](#technology-ecosystem) · [How I work](#how-i-work) · [Let's connect](#lets-build-something-useful)
+<a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Email-Discuss%20a%20project-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email about a project" /></a>
+<a href="https://github.com/razahasnain0300-max?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-24D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" alt="Explore repositories" /></a>
+
+<br />
+
+<img src="./assets/hasnain-coding-animation.gif" width="680" alt="Single animated coding portrait of Syed Hasnain Raza" />
+
+<sub>One animated portrait, a clean layout, and a focus on real-world solutions.</sub>
+
+**[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-featured-public-repositories)** · **[Tech](#-technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
-I'm **Syed Hasnain Raza**, a developer with **4+ years of web development experience**, working across frontend interfaces, backend logic, and relational databases.
+I'm **Syed Hasnain Raza**, a developer with **4+ years of web development experience**. I work on responsive interfaces, backend business rules, APIs, and relational databases.
 
-My core hands-on stack is **PHP, MySQL/MariaDB, JavaScript, HTML, CSS, and Bootstrap**. My service scope spans websites, web applications, desktop software, and Android/iOS applications, with the implementation approach matched to each project's requirements.
+My primary hands-on technologies are **PHP, MySQL/MariaDB, JavaScript, HTML, CSS, and Bootstrap**. I enjoy connecting the full experience—from a customer's first click to an administrator's daily operations.
 
-I focus on practical business software: online stores, booking flows, customer portals, inventory tools, and admin dashboards—making everyday tasks easier for customers and the people managing the system.
+I help turn workflows into maintainable software, with particular interest in **e-commerce, booking portals, inventory, reporting, customer management, and custom dashboards**.
 
-## What I build
+```text
+$ whoami
+  Syed Hasnain Raza | Full-stack web developer
 
-| Platform / solution | Application types |
-| :--- | :--- |
-| **Websites** | Business websites, portfolios, landing pages, blogs, content-managed sites, and real estate websites. |
-| **Web applications** | SaaS products, customer portals, dashboards, booking systems, and service platforms. |
-| **E-commerce & marketplaces** | Online stores, product catalogs, carts, checkout flows, and vendor management. |
-| **Desktop applications** | Windows, macOS, and Linux business tools, POS systems, inventory software, and utilities. |
-| **Android applications** | Business apps, commerce experiences, service booking, and customer-facing mobile tools. |
-| **iOS applications** | iPhone and iPad experiences for commerce, services, and business workflows. |
-| **Cross-platform applications** | Shared-code mobile and desktop experiences, plus progressive web apps. |
-| **Custom business software** | CRM, ERP, inventory, ledger, reporting, and workflow automation systems. |
-| **Backend & integrations** | APIs, authentication, database design, payments, and third-party service integrations. |
+$ focus
+  Useful products > unnecessary complexity
+  Clear user journeys > disconnected screens
+  Reliable data flows > impressive-looking demos
+```
 
-## Technology ecosystem
+## 🚀 What I build
 
-**Core stack:** PHP · MySQL · MariaDB · JavaScript · HTML5 · CSS3 · Bootstrap · AJAX · PDO
+| Solution | Examples of work |
+| --- | --- |
+| 🌐 **Business websites** | Company websites, landing pages, portfolios, real-estate experiences |
+| 🧩 **Web applications** | Admin dashboards, CRM tools, customer portals, SaaS-style systems |
+| 🛒 **E-commerce & marketplaces** | Catalogs, carts, checkout journeys, vendor portals, stock management |
+| 📅 **Booking & service platforms** | Reservations, order tracking, schedules, messaging, payments |
+| 📦 **Inventory & operations** | Purchases, sales, ledger flows, stock visibility, reporting |
+| 🔗 **Backends & integrations** | REST APIs, authentication, relational data, service integration |
+| 🖥️ **Desktop solutions** | Business tooling and POS-style application projects |
+| 📱 **Mobile solutions** | Android, iOS, cross-platform and progressive web app project scope |
 
-The broader ecosystem below covers technologies for different project types. It is not a claim of equal hands-on proficiency in every language or framework; the stack and delivery scope are agreed for each project.
+> **Portfolio note:** Many client and business projects are in private repositories. I share public code and project details only where they are authorized for publication. [Browse my public repositories](https://github.com/razahasnain0300-max?tab=repositories).
 
-| Area | Languages, frameworks & tools |
-| :--- | :--- |
-| **Programming & scripting** | JavaScript, TypeScript, PHP, Python, Java, C#, C, C++, Go, Rust, Ruby, Kotlin, Swift, Dart, Objective-C, Visual Basic .NET, R, SQL, Bash, PowerShell |
-| **Frontend & UI** | HTML5, CSS3, Sass, React, Next.js, Vue, Nuxt, Angular, Svelte, Bootstrap, Tailwind CSS, jQuery |
-| **Backend & APIs** | Node.js, Express, NestJS, Laravel, Symfony, Django, Flask, FastAPI, ASP.NET Core, Spring Boot, Ruby on Rails, REST, GraphQL |
-| **Android & iOS** | Kotlin, Java, Swift, SwiftUI, Dart, Flutter, React Native, .NET MAUI |
-| **Desktop** | C#/.NET, WPF, WinForms, Electron, Tauri, Qt, JavaFX, Python/PySide |
-| **Databases & storage** | MySQL, MariaDB, PostgreSQL, SQLite, SQL Server, MongoDB, Redis, Firebase |
-| **Development & delivery** | Git, GitHub, GitHub Actions, Docker, Linux, XAMPP, Postman, AWS, Azure, Google Cloud |
+## 🌟 Featured public repositories
+
+A selection of projects from my public GitHub account. Availability of live demos and feature completeness varies by repository.
+
+| Repository | Project area |
+|:---|:---|
+| [**GOEV Pakistan**](https://github.com/razahasnain0300-max/goev-pk) | Automotive platform |
+| [**MedBoostPro**](https://github.com/razahasnain0300-max/medboostpro) | Education and service software |
+| [**Kanz Store**](https://github.com/razahasnain0300-max/kanzstore) | E-commerce and retail |
+| [**Dr. Shoaib Zafar**](https://github.com/razahasnain0300-max/dr.shoaib.zafar) | Specialist professional website |
+| [**Meem Connects**](https://github.com/razahasnain0300-max/meemconnects) | Marketplace platform |
+| [**Amaken Real Estate**](https://github.com/razahasnain0300-max/amakenrealestate) | Property technology |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cs,cpp,go,rust,ruby,kotlin,swift,dart&amp;perline=7&amp;theme=dark" alt="Programming languages: PHP, JavaScript, TypeScript, Python, Java, C sharp, C plus plus, Go, Rust, Ruby, Kotlin, Swift and Dart" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,nodejs,laravel,django,dotnet,flutter,electron,mysql,postgres,docker,git&amp;perline=8&amp;theme=dark" alt="Web, mobile, desktop, database and development tools" />
+[**Browse all public repositories →**](https://github.com/razahasnain0300-max?tab=repositories)
 
 </div>
 
-## How I work
+## 🧰 Technology stack
 
-1. **Understand the workflow** — clarify the users, business rules, target platforms, and what a successful result looks like.
-2. **Choose the right stack** — agree on the technology, scope, integrations, and delivery milestones.
-3. **Build the full experience** — connect the interface, application logic, and database.
-4. **Check real scenarios** — test forms, permissions, calculations, and the main user journeys.
-5. **Prepare for handover** — organize the code and explain setup and configuration.
+**Daily development stack**
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,git,github,vscode&perline=9&theme=dark" alt="Core development skills: PHP, MySQL, JavaScript, HTML, CSS, Bootstrap, Git, GitHub, VS Code" />
+</p>
 
-## Let's build something useful
+**Additional platform and framework ecosystem**
 
-Have a **website, web app, desktop application, or Android/iOS app** in mind?
+I explore or work with technologies appropriate to project requirements; this is a technology overview, **not a claim of equal expertise across every language or platform**.
 
-Share the problem you want to solve, your target platforms, the features you need, and your timeline.
+| Platform | Technologies to evaluate or use as suitable |
+| --- | --- |
+| Frontend | TypeScript, React, Next.js, Vue, Angular, Tailwind CSS |
+| Backend | Node.js, Express, Laravel, Python, Django, FastAPI, ASP.NET |
+| Mobile | Kotlin, Swift, Flutter, React Native, Dart |
+| Desktop | .NET, Electron, Tauri, Qt |
+| Data & delivery | PostgreSQL, SQLite, Docker, GitHub Actions, Linux, cloud hosting |
+| Other languages | Java, C#, C/C++, Go, Rust, Ruby |
 
-**[Email me about your project](mailto:razahasnain0300@gmail.com)** · [GitHub repositories](https://github.com/razahasnain0300-max?tab=repositories)
+<details>
+<summary><b>Explore the wider development ecosystem</b></summary>
 
-<sub>Syed Hasnain Raza · Web · Desktop · Mobile · Custom software</sub>
+<br />
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,angular,tailwind,nodejs,express,laravel,python,django,flask,dotnet,java,cs,cpp,go,rust,ruby,kotlin,swift,dart,flutter,postgres,sqlite,docker,linux&perline=9&theme=dark" alt="Additional technology ecosystem" />
+
+</details>
+
+## 🛠️ How I deliver
+
+```mermaid
+flowchart LR
+  A[Understand the business] --> B[Design the user flow]
+  B --> C[Build UI and backend]
+  C --> D[Connect database and APIs]
+  D --> E[Test real use cases]
+  E --> F[Deploy and document]
+```
+
+I favor usable interfaces, secure data handling, clear validation, role-based access where needed, and reproducible setups. Each project deserves attention to loading states, error handling, mobile responsiveness, and complete UI-to-database integration.
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="GitHub 3D contribution graph in a dark green theme" />
+
+<sub>Contribution visualization is generated by an existing GitHub Actions workflow.</sub>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=razahasnain0300-max&theme=github-dark-blue&hide_border=true&ring=39FF88&fire=24D9FF&currStreakLabel=39FF88" alt="GitHub contribution streak" />
+
+</div>
+
+<details>
+<summary><b>View contribution snake animation</b></summary>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake; generated when the existing snake workflow completes" />
+
+</details>
+
+## 🤝 Work with me
+
+Need a **website, web app, admin system, API, e-commerce platform, or custom business solution**?
+
+Tell me the problem, key features, expected users, platform, and timeline. I can help shape the technical approach into a practical development plan.
+
+<div align="center">
+
+<a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk%20about%20your%20project-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Contact Syed Hasnain Raza by email" /></a>
+
+<br /><br />
+
+<sub>© Syed Hasnain Raza · Full-stack web development · Business applications · Practical software</sub>
+
+</div>
