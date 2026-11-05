@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza — full-stack developer, neon cybersecurity themed header" />
+<img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza and Syeds Tech custom software development, React Node.js PHP MySQL web applications, e-commerce, SaaS, mobile and desktop software" />
 
-### SYEDS TECH · Full-Service Software Development Team
+### SYEDS TECH | Custom Software Development & Full-Stack Engineering
 
-**Websites · Web Apps · SaaS · Desktop Software · Android · iOS · AI & Automation**
+**Custom Websites · React & Node.js Web Apps · PHP & MySQL · E-commerce · SaaS · ERP/CRM/POS · Android & iOS · Desktop Apps · AI Automation**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=850&color=39FF88&center=true&vCenter=true&width=760&lines=Websites+%7C+Web+Apps+%7C+SaaS+Platforms;Android+%7C+iOS+%7C+Cross-Platform+Apps;Desktop+Software+%7C+ERP+%7C+CRM+%7C+POS;E-commerce+%7C+Marketplaces+%7C+Booking;AI+Integrations+%7C+APIs+%7C+Automation" alt="Animated cross-platform development services" />
 
@@ -20,11 +20,25 @@
 
 <sub>One animated portrait, a clean layout, and a focus on real-world solutions.</sub>
 
-**[Team](#-our-development-team)** · **[Languages](#-programming-languages)** · **[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-private-project-portfolio--21-projects)** · **[Tech](#-frameworks-tools--technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
+**[Visitors](#-profile-views--client-discovery)** · **[Team](#-our-development-team)** · **[Languages](#-programming-languages)** · **[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-private-project-portfolio--21-projects)** · **[Tech](#-frameworks-tools--technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
 
 </div>
 
 ---
+
+## <img src="https://img.shields.io/badge/VISITORS-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="VISITORS" height="22" /> Profile views & client discovery
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&label=PROFILE%20VIEWS&color=39ff88&style=for-the-badge" alt="Public GitHub profile view counter; counts reported by external counter service" />
+
+**21 private-code project showcases** · **6 featured projects** · **15 more via Load More**
+
+[**GitHub profile**](https://github.com/razahasnain0300-max) · [**Syeds Tech organization**](https://github.com/Syeds-Tech00) · [**WhatsApp UAE**](https://wa.me/971552615993) · [**WhatsApp Pakistan**](https://wa.me/923065967478)
+
+</div>
+
+<sub>The profile-view badge is supplied by an external service and may count repeat visits or image requests. It is not a unique-visitor or referral-source analytics report. GitHub README Markdown cannot accurately show where each visitor came from without a separate analytics-enabled website or service.</sub>
 
 ## <img src="https://img.shields.io/badge/TEAM-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="TEAM" height="22" /> Our development team
 
@@ -34,7 +48,7 @@
 |:---|:---|
 | <img src="https://img.shields.io/badge/DESIGN-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESIGN" height="19" /> **UI/UX & Product Design** | Research, wireframes, visual design, responsive experiences |
 | <img src="https://img.shields.io/badge/WEB-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="WEB" height="19" /> **Frontend Development** | Websites, web apps, interactive interfaces |
-| ⚙️ **Backend & API Development** | Business logic, integrations, authentication, services |
+| **[ BACKEND / API ] Backend & API Development** | Business logic, integrations, authentication, services |
 | <img src="https://img.shields.io/badge/MOBILE-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="MOBILE" height="19" /> **Android & iOS Development** | Native and cross-platform mobile solutions |
 | <img src="https://img.shields.io/badge/DESKTOP-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESKTOP" height="19" /> **Desktop & Business Software** | POS, ERP, CRM, inventory, custom desktop workflows |
 | <img src="https://img.shields.io/badge/DATA-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DATA" height="19" /> **Database & Architecture** | Relational design, data modeling, performance |
@@ -65,7 +79,7 @@ A wide language ecosystem for different project types. **Listed languages repres
 
 </div>
 
-## 👨‍<img src="https://img.shields.io/badge/CODE-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="CODE" height="22" /> About me
+## About Syed Hasnain Raza — full-stack developer
 
 I'm **Syed Hasnain Raza**, with **4+ years of web development experience**. I represent the Syeds Tech software development offering, bringing together the disciplines needed for end-to-end digital projects. I work on responsive interfaces, backend business rules, APIs, and relational databases.
 
@@ -114,6 +128,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Public browsing, customer and seller portals, admin operations, charging and services architecture.
 
+**Key features:** Separate public, customer, seller and administrator experiences; electric-vehicle discovery and model information; seller operations; variant-specific colors and galleries; specification and feature groupings; pricing calculator deep links; review dimensions; API-backed management. Some features are under ongoing integration/testing.
+
 [** Request a similar GOEV Pakistan project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20GOEV%20Pakistan.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
@@ -125,6 +141,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 **Technologies:** React · TanStack Start · Vite · Node.js · Express.
 
 **Documented features / scope:** Student-facing application, admin management, shared API, independently built application surfaces.
+
+**Key features:** Independently built public, student and admin applications; shared backend API; student access workflows; administration architecture; database migrations; visitor analytics integration scope; deployment configuration and health endpoints. Deployment/runtime readiness must be verified separately.
 
 [** Request a similar MedBoostPro project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20MedBoostPro.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
@@ -138,6 +156,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Product variants, cart and checkout, inventory, order tracking, returns/refunds, customer accounts, real-time admin notifications.
 
+**Key features:** Multi-category catalog; product colors and sizes; customer registration and email OTP; cart and server-validated checkout; order history and status tracking; real-time order notifications; inventory and stock restoration; cancellations, returns and refunds; admin messaging and customer contact management.
+
 [** Request a similar Kanz Store project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Kanz%20Store.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
@@ -149,6 +169,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 **Technologies:** React · Node.js · Express · MySQL.
 
 **Documented features / scope:** Public professional website, administrative workspace, doctor portal, clinic inventory module; some content/release items pending review.
+
+**Key features:** Specialist public website; clinic and doctor administration; research and educational content structure; doctor portal; MediStock inventory module; backend/database integration. Clinical content and production-release items require review.
 
 [** Request a similar Dr. Shoaib Zafar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Dr.%20Shoaib%20Zafar.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
@@ -162,6 +184,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Documented features / scope:** Marketplace-oriented interface foundation; detailed commerce workflows not independently verified.
 
+**Project scope:** Multi-vendor marketplace concept, responsive storefront foundation and commerce interface. Vendor payments, order fulfillment and other advanced workflows are not confirmed as implemented.
+
 [** Request a similar Meem Connects project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Meem%20Connects.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
@@ -173,6 +197,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 **Technologies:** PHP · MySQL · PDO · Bootstrap.
 
 **Documented features / scope:** Property-focused web experience, server-side database integration and contact configuration.
+
+**Key features / documented scope:** Property-focused website; PHP/PDO data access; Bootstrap responsive presentation; database configuration; contact/email integration configuration. Specific listing and CRM functions are not independently verified.
 
 [** Request a similar Amaken Real Estate project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Amaken%20Real%20Estate.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
@@ -296,6 +322,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 **Technologies:** React · Electron · Three.js · Gemini · Ollama.
 
 **Documented features / scope:** Holographic interface, multilingual voice/chat, permission-controlled local agents and audit logs; local inference requires setup.
+
+**Key features:** Electron desktop shell; responsive React interface; Three.js holographic avatar; Gemini integration; local Ollama integration prerequisites; multilingual chat/voice interface; tool permission gateway, approvals, audit logging and task telemetry.
 
 [** Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20SYDEX%20AI%20Command%20Center.%20Please%20share%20details%20and%20pricing.)
 
