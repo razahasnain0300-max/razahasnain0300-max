@@ -10,6 +10,7 @@
 
 <br />
 
+<a href="https://wa.me/923065967478?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project."><img src="https://img.shields.io/badge/WhatsApp%20PK-%2B92%20306%20596%207478-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B1220" alt="WhatsApp Pakistan +92 306 596 7478" /></a>
 <a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Email-Discuss%20a%20project-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email about a project" /></a>
 <a href="https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project."><img src="https://img.shields.io/badge/WhatsApp-Request%20a%20Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B1220" alt="Request a project on WhatsApp" /></a>
 
@@ -205,6 +206,8 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 **Websites · Web Apps · SaaS · E-commerce · ERP · CRM · POS · Android · iOS · Desktop · AI Integrations**
 
+**WhatsApp UAE:** [+971 55 261 5993](https://wa.me/971552615993) · **WhatsApp Pakistan:** [+92 306 596 7478](https://wa.me/923065967478) · **Email:** [razahasnain0300@gmail.com](mailto:razahasnain0300@gmail.com)
+
 [**💬 Discuss your custom project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20custom%20software%20development%20project.%20Please%20contact%20me.)
 
 </div>
@@ -279,7 +282,7 @@ I favor usable interfaces, secure data handling, clear validation, role-based ac
 
 Need a **website, web app, admin system, API, e-commerce platform, or custom business solution**?
 
-Tell us the problem, key features, expected users, platform, and timeline. We can discuss a suitable development plan. **Project enquiries: +971 55 261 5993.**
+Tell us the problem, key features, expected users, platform, and timeline. We can discuss a suitable development plan. **Project enquiries:** WhatsApp UAE **+971 55 261 5993** · WhatsApp Pakistan **+92 306 596 7478** · Email **razahasnain0300@gmail.com**.
 
 <div align="center">
 
@@ -287,7 +290,9 @@ Tell us the problem, key features, expected users, platform, and timeline. We ca
 
 <br /><br />
 
-[**💬 Contact Syeds Tech on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20project.)
+[**💬 Contact Syeds Tech on WhatsApp (UAE)**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20project.)
+
+[**💬 WhatsApp Pakistan: +92 306 596 7478**](https://wa.me/923065967478?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project.) · [**✉ Email: razahasnain0300@gmail.com**](mailto:razahasnain0300@gmail.com)
 
 <sub>© Syed Hasnain Raza · Websites · Web applications · Mobile apps · Desktop software · Business systems</sub>
 
