@@ -2,11 +2,11 @@
 
 <img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza — full-stack developer, neon cybersecurity themed header" />
 
-### Full-stack web developer · Business software & application development
+### Full-service software development · Websites · Web apps · Mobile · Desktop
 
-**4+ years building practical web solutions** | PHP · MySQL · JavaScript · Bootstrap
+**Building digital solutions across platforms — from business websites to complete software systems.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=850&color=39FF88&center=true&vCenter=true&width=760&lines=Websites+%26+Web+Applications;E-commerce+%26+Marketplaces;Admin+Dashboards+%26+Automation;APIs+%26+Database-Driven+Systems;Desktop+%26+Mobile+Project+Solutions" alt="Animated developer capabilities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=850&color=39FF88&center=true&vCenter=true&width=760&lines=Websites+%7C+Web+Apps+%7C+SaaS+Platforms;Android+%7C+iOS+%7C+Cross-Platform+Apps;Desktop+Software+%7C+ERP+%7C+CRM+%7C+POS;E-commerce+%7C+Marketplaces+%7C+Booking;AI+Integrations+%7C+APIs+%7C+Automation" alt="Animated cross-platform development services" />
 
 <br />
 
@@ -27,11 +27,11 @@
 
 ## 👨‍💻 About me
 
-I'm **Syed Hasnain Raza**, a developer with **4+ years of web development experience**. I work on responsive interfaces, backend business rules, APIs, and relational databases.
+I'm **Syed Hasnain Raza**, with **4+ years of web development experience**, presenting a broad software-development service offering for clients seeking team-based, end-to-end delivery. I work on responsive interfaces, backend business rules, APIs, and relational databases.
 
-My primary hands-on technologies are **PHP, MySQL/MariaDB, JavaScript, HTML, CSS, and Bootstrap**. I enjoy connecting the full experience—from a customer's first click to an administrator's daily operations.
+My core hands-on technologies are **PHP, MySQL/MariaDB, JavaScript, HTML, CSS, and Bootstrap**. I enjoy connecting the full experience—from a customer's first click to an administrator's daily operations.
 
-I help turn workflows into maintainable software, with particular interest in **e-commerce, booking portals, inventory, reporting, customer management, and custom dashboards**.
+Our project approach is to turn workflows into maintainable software, with particular interest in **e-commerce, booking portals, inventory, reporting, customer management, and custom dashboards**.
 
 ```text
 $ whoami
@@ -155,6 +155,6 @@ Tell me the problem, key features, expected users, platform, and timeline. I can
 
 <br /><br />
 
-<sub>© Syed Hasnain Raza · Full-stack web development · Business applications · Practical software</sub>
+<sub>© Syed Hasnain Raza · Websites · Web applications · Mobile apps · Desktop software · Business systems</sub>
 
 </div>
