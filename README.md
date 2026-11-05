@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza and Syeds Tech custom software development, React Node.js PHP MySQL web applications, e-commerce, SaaS, mobile and desktop software" />
+<img src="./assets/premium-hero.svg" width="100%" alt="Syed Hasnain Raza and Syeds Tech custom software development, React Node.js PHP MySQL web applications, e-commerce, SaaS, mobile and desktop software" />
 
-### SYEDS TECH | Custom Software Development & Full-Stack Engineering
+### SYEDS TECH | Premium Software Engineering Studio
+
+**Syed Hasnain Raza — Full-Stack Developer · Electronic Engineer · IT Manager**
 
 **Custom Websites · React & Node.js Web Apps · PHP & MySQL · E-commerce · SaaS · ERP/CRM/POS · Android & iOS · Desktop Apps · AI Automation**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=850&color=39FF88&center=true&vCenter=true&width=760&lines=Websites+%7C+Web+Apps+%7C+SaaS+Platforms;Android+%7C+iOS+%7C+Cross-Platform+Apps;Desktop+Software+%7C+ERP+%7C+CRM+%7C+POS;E-commerce+%7C+Marketplaces+%7C+Booking;AI+Integrations+%7C+APIs+%7C+Automation" alt="Animated cross-platform development services" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=850&color=28E6FF&center=true&vCenter=true&width=760&lines=Websites+%7C+Web+Apps+%7C+SaaS+Platforms;Android+%7C+iOS+%7C+Cross-Platform+Apps;Desktop+Software+%7C+ERP+%7C+CRM+%7C+POS;E-commerce+%7C+Marketplaces+%7C+Booking;AI+Integrations+%7C+APIs+%7C+Automation" alt="Animated cross-platform development services" />
 
 <br />
 
-<a href="https://wa.me/923065967478?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project."><img src="https://img.shields.io/badge/WhatsApp%20PK-%2B92%20306%20596%207478-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B1220" alt="WhatsApp Pakistan +92 306 596 7478" /></a>
-<a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Email-Discuss%20a%20project-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email about a project" /></a>
-<a href="https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project."><img src="https://img.shields.io/badge/WhatsApp-Request%20a%20Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B1220" alt="Request a project on WhatsApp" /></a>
+<a href="https://wa.me/923065967478?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project."><img src="https://img.shields.io/badge/WhatsApp%20PK-%2B92%20306%20596%207478-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0C1530" alt="WhatsApp Pakistan +92 306 596 7478" /></a>
+<a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Email-Discuss%20a%20project-28E6FF?style=for-the-badge&logo=gmail&logoColor=0C1530&labelColor=0C1530" alt="Email about a project" /></a>
+<a href="https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20would%20like%20to%20discuss%20a%20software%20development%20project."><img src="https://img.shields.io/badge/WhatsApp-Request%20a%20Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0C1530" alt="Request a project on WhatsApp" /></a>
 
 <br />
 
@@ -26,11 +28,11 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/VISITORS-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="VISITORS" height="22" /> Profile views & client discovery
+## <img src="https://img.shields.io/badge/VISITORS-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="VISITORS" height="22" /> Profile views & client discovery
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&label=PROFILE%20VIEWS&color=39ff88&style=for-the-badge" alt="Public GitHub profile view counter; counts reported by external counter service" />
+<img src="https://komarev.com/ghpvc/?username=razahasnain0300-max&label=PROFILE%20VIEWS&color=28e6ff&style=for-the-badge" alt="Public GitHub profile view counter; counts reported by external counter service" />
 
 **21 private-code project showcases** · **6 featured projects** · **15 more via Load More**
 
@@ -40,20 +42,31 @@
 
 <sub>The profile-view badge is supplied by an external service and may count repeat visits or image requests. It is not a unique-visitor or referral-source analytics report. GitHub README Markdown cannot accurately show where each visitor came from without a separate analytics-enabled website or service.</sub>
 
-## <img src="https://img.shields.io/badge/TEAM-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="TEAM" height="22" /> Our development team
+## Professional engineering services
+
+| Custom development | Enterprise systems | Connected platforms |
+|:---|:---|:---|
+| **Full-stack websites & web apps** — responsive experiences, React, JavaScript, PHP and Node.js | **ERP, CRM, CMS & POS** — inventory, ledger, orders, admin portals and reporting | **REST APIs & integrations** — authentication, service connectivity and data flows |
+| **E-commerce & marketplaces** — catalogs, variants, checkout, returns and vendor workflows | **Dashboards & automation** — management reporting, workflows and AI-assisted features | **Mobile & desktop project scope** — Android, iOS, Electron and cross-platform applications |
+
+**Core tools:** HTML5 · CSS3 · JavaScript · Bootstrap · jQuery · React · PHP · Node.js · Express · Laravel · Python · Django · MySQL · PostgreSQL · MongoDB · Git · GitHub · REST APIs · MVC · WordPress · XAMPP · VS Code.
+
+**Portfolio policy:** Featured project summaries are based on documented work. Technologies listed here are a broad project ecosystem, not a claim of equal hands-on proficiency in every technology.
+
+## <img src="https://img.shields.io/badge/TEAM-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="TEAM" height="22" /> Our development team
 
 **Syeds Tech** presents a collaborative, multidisciplinary approach to delivering complete digital products. The roles below describe the disciplines involved in a full project delivery—not a verified public employee roster.
 
 | Team / discipline | Focus |
 |:---|:---|
-| <img src="https://img.shields.io/badge/DESIGN-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESIGN" height="19" /> **UI/UX & Product Design** | Research, wireframes, visual design, responsive experiences |
-| <img src="https://img.shields.io/badge/WEB-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="WEB" height="19" /> **Frontend Development** | Websites, web apps, interactive interfaces |
+| <img src="https://img.shields.io/badge/DESIGN-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="DESIGN" height="19" /> **UI/UX & Product Design** | Research, wireframes, visual design, responsive experiences |
+| <img src="https://img.shields.io/badge/WEB-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="WEB" height="19" /> **Frontend Development** | Websites, web apps, interactive interfaces |
 | **[ BACKEND / API ] Backend & API Development** | Business logic, integrations, authentication, services |
-| <img src="https://img.shields.io/badge/MOBILE-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="MOBILE" height="19" /> **Android & iOS Development** | Native and cross-platform mobile solutions |
-| <img src="https://img.shields.io/badge/DESKTOP-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESKTOP" height="19" /> **Desktop & Business Software** | POS, ERP, CRM, inventory, custom desktop workflows |
-| <img src="https://img.shields.io/badge/DATA-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DATA" height="19" /> **Database & Architecture** | Relational design, data modeling, performance |
-| <img src="https://img.shields.io/badge/AI-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="AI" height="19" /> **AI & Automation** | AI-enabled features, integrations, workflow automation |
-| <img src="https://img.shields.io/badge/QA-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="QA" height="19" /> **QA, DevOps & Delivery** | Testing, deployment, monitoring and maintenance |
+| <img src="https://img.shields.io/badge/MOBILE-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="MOBILE" height="19" /> **Android & iOS Development** | Native and cross-platform mobile solutions |
+| <img src="https://img.shields.io/badge/DESKTOP-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="DESKTOP" height="19" /> **Desktop & Business Software** | POS, ERP, CRM, inventory, custom desktop workflows |
+| <img src="https://img.shields.io/badge/DATA-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="DATA" height="19" /> **Database & Architecture** | Relational design, data modeling, performance |
+| <img src="https://img.shields.io/badge/AI-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="AI" height="19" /> **AI & Automation** | AI-enabled features, integrations, workflow automation |
+| <img src="https://img.shields.io/badge/QA-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="QA" height="19" /> **QA, DevOps & Delivery** | Testing, deployment, monitoring and maintenance |
 
 <div align="center">
 
@@ -61,7 +74,7 @@
 
 </div>
 
-## <img src="https://img.shields.io/badge/CODE-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="CODE" height="22" /> Programming languages
+## <img src="https://img.shields.io/badge/CODE-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="CODE" height="22" /> Programming languages
 
 A wide language ecosystem for different project types. **Listed languages represent our service and technology scope, not verified equal proficiency or a claim that every language is used on every project.**
 
@@ -97,22 +110,22 @@ $ focus
   Reliable data flows > impressive-looking demos
 ```
 
-## <img src="https://img.shields.io/badge/BUILD-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="BUILD" height="22" /> What I build
+## <img src="https://img.shields.io/badge/BUILD-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="BUILD" height="22" /> What I build
 
 | Solution | Examples of work |
 | --- | --- |
-| <img src="https://img.shields.io/badge/WEB-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="WEB" height="19" /> **Business websites** | Company websites, landing pages, portfolios, real-estate experiences |
-| <img src="https://img.shields.io/badge/APP-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="APP" height="19" /> **Web applications** | Admin dashboards, CRM tools, customer portals, SaaS-style systems |
-| <img src="https://img.shields.io/badge/STORE-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="STORE" height="19" /> **E-commerce & marketplaces** | Catalogs, carts, checkout journeys, vendor portals, stock management |
-| <img src="https://img.shields.io/badge/BOOKING-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="BOOKING" height="19" /> **Booking & service platforms** | Reservations, order tracking, schedules, messaging, payments |
-| <img src="https://img.shields.io/badge/STOCK-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="STOCK" height="19" /> **Inventory & operations** | Purchases, sales, ledger flows, stock visibility, reporting |
-| <img src="https://img.shields.io/badge/API-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="API" height="19" /> **Backends & integrations** | REST APIs, authentication, relational data, service integration |
-| <img src="https://img.shields.io/badge/DESKTOP-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="DESKTOP" height="19" /> **Desktop solutions** | Business tooling and POS-style application projects |
-| <img src="https://img.shields.io/badge/MOBILE-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="MOBILE" height="19" /> **Mobile solutions** | Android, iOS, cross-platform and progressive web app project scope |
+| <img src="https://img.shields.io/badge/WEB-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="WEB" height="19" /> **Business websites** | Company websites, landing pages, portfolios, real-estate experiences |
+| <img src="https://img.shields.io/badge/APP-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="APP" height="19" /> **Web applications** | Admin dashboards, CRM tools, customer portals, SaaS-style systems |
+| <img src="https://img.shields.io/badge/STORE-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="STORE" height="19" /> **E-commerce & marketplaces** | Catalogs, carts, checkout journeys, vendor portals, stock management |
+| <img src="https://img.shields.io/badge/BOOKING-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="BOOKING" height="19" /> **Booking & service platforms** | Reservations, order tracking, schedules, messaging, payments |
+| <img src="https://img.shields.io/badge/STOCK-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="STOCK" height="19" /> **Inventory & operations** | Purchases, sales, ledger flows, stock visibility, reporting |
+| <img src="https://img.shields.io/badge/API-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="API" height="19" /> **Backends & integrations** | REST APIs, authentication, relational data, service integration |
+| <img src="https://img.shields.io/badge/DESKTOP-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="DESKTOP" height="19" /> **Desktop solutions** | Business tooling and POS-style application projects |
+| <img src="https://img.shields.io/badge/MOBILE-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="MOBILE" height="19" /> **Mobile solutions** | Android, iOS, cross-platform and progressive web app project scope |
 
 > **Private-code policy:** Project source code and downloadable packages are not offered through this portfolio. For a similar feature or custom build, contact us via WhatsApp.
 
-## <img src="https://img.shields.io/badge/PRIVATE-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="PRIVATE" height="22" /> Private project portfolio — 21 projects
+## <img src="https://img.shields.io/badge/PRIVATE-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="PRIVATE" height="22" /> Private project portfolio — 21 projects
 
 **Our source repositories are private.** These project summaries share high-level purposes, technology stacks and documented functionality—not code, downloadable packages or private credentials. Feature descriptions are based on project documentation; they are not a guarantee that every feature is live in production.
 
@@ -205,7 +218,7 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 ---
 
 <details>
-<summary><b><img src="https://img.shields.io/badge/PROJECTS-0B1220?style=flat-square&logo=codefactor&logoColor=24D9FF" alt="PROJECTS" height="19" /> Load More Projects — View 15 More (7–21 of 21)</b></summary>
+<summary><b><img src="https://img.shields.io/badge/PROJECTS-0C1530?style=flat-square&logo=codefactor&logoColor=A46BFF" alt="PROJECTS" height="19" /> Load More Projects — View 15 More (7–21 of 21)</b></summary>
 
 ### 07 · rTMS Machine
 
@@ -411,7 +424,7 @@ The catalog below refreshes **every 6 hours** and can also be updated manually f
 Public project list will appear after the first successful workflow run.
 <!-- AUTO-PUBLIC-PROJECTS:END -->
 
-## <img src="https://img.shields.io/badge/TOOLS-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="TOOLS" height="22" /> Frameworks, tools & technology stack
+## <img src="https://img.shields.io/badge/TOOLS-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="TOOLS" height="22" /> Frameworks, tools & technology stack
 
 **Daily development stack**
 
@@ -441,7 +454,7 @@ I explore or work with technologies appropriate to project requirements; this is
 
 </details>
 
-## <img src="https://img.shields.io/badge/PROCESS-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="PROCESS" height="22" /> How I deliver
+## <img src="https://img.shields.io/badge/PROCESS-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="PROCESS" height="22" /> How I deliver
 
 ```mermaid
 flowchart LR
@@ -454,7 +467,7 @@ flowchart LR
 
 I favor usable interfaces, secure data handling, clear validation, role-based access where needed, and reproducible setups. Each project deserves attention to loading states, error handling, mobile responsiveness, and complete UI-to-database integration.
 
-## <img src="https://img.shields.io/badge/ACTIVITY-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="ACTIVITY" height="22" /> GitHub activity
+## <img src="https://img.shields.io/badge/ACTIVITY-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="ACTIVITY" height="22" /> GitHub activity
 
 <div align="center">
 
@@ -464,7 +477,7 @@ I favor usable interfaces, secure data handling, clear validation, role-based ac
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=razahasnain0300-max&theme=github-dark-blue&hide_border=true&ring=39FF88&fire=24D9FF&currStreakLabel=39FF88" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=razahasnain0300-max&theme=github-dark-blue&hide_border=true&ring=28E6FF&fire=A46BFF&currStreakLabel=28E6FF" alt="GitHub contribution streak" />
 
 </div>
 
@@ -477,7 +490,7 @@ I favor usable interfaces, secure data handling, clear validation, role-based ac
 
 </details>
 
-## <img src="https://img.shields.io/badge/CONTACT-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="CONTACT" height="22" /> Work with me
+## <img src="https://img.shields.io/badge/CONTACT-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="CONTACT" height="22" /> Work with me
 
 Need a **website, web app, admin system, API, e-commerce platform, or custom business solution**?
 
@@ -485,7 +498,7 @@ Tell us the problem, key features, expected users, platform, and timeline. We ca
 
 <div align="center">
 
-<a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk%20about%20your%20project-39FF88?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Contact Syed Hasnain Raza by email" /></a>
+<a href="mailto:razahasnain0300@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk%20about%20your%20project-28E6FF?style=for-the-badge&logo=gmail&logoColor=0C1530" alt="Contact Syed Hasnain Raza by email" /></a>
 
 <br /><br />
 
