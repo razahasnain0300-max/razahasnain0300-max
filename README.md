@@ -19,7 +19,7 @@
 
 <sub>One animated portrait, a clean layout, and a focus on real-world solutions.</sub>
 
-**[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Tech](#-technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
+**[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-featured-public-repositories)** · **[Tech](#-technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
 
 </div>
 
@@ -57,6 +57,25 @@ $ focus
 | 📱 **Mobile solutions** | Android, iOS, cross-platform and progressive web app project scope |
 
 > **Portfolio note:** Many client and business projects are in private repositories. I share public code and project details only where they are authorized for publication. [Browse my public repositories](https://github.com/razahasnain0300-max?tab=repositories).
+
+## 🌟 Featured public repositories
+
+A selection of projects from my public GitHub account. Availability of live demos and feature completeness varies by repository.
+
+| Repository | Project area |
+|:---|:---|
+| [**GOEV Pakistan**](https://github.com/razahasnain0300-max/goev-pk) | Automotive platform |
+| [**MedBoostPro**](https://github.com/razahasnain0300-max/medboostpro) | Education and service software |
+| [**Kanz Store**](https://github.com/razahasnain0300-max/kanzstore) | E-commerce and retail |
+| [**Dr. Shoaib Zafar**](https://github.com/razahasnain0300-max/dr.shoaib.zafar) | Specialist professional website |
+| [**Meem Connects**](https://github.com/razahasnain0300-max/meemconnects) | Marketplace platform |
+| [**Amaken Real Estate**](https://github.com/razahasnain0300-max/amakenrealestate) | Property technology |
+
+<div align="center">
+
+[**Browse all public repositories →**](https://github.com/razahasnain0300-max?tab=repositories)
+
+</div>
 
 ## 🧰 Technology stack
 
@@ -111,7 +130,7 @@ I favor usable interfaces, secure data handling, clear validation, role-based ac
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=razahasnain0300-max&theme=github-dark-blue&hide_border=true&ring=39FF88&fire=24D9FF&currStreakLabel=39FF88" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=razahasnain0300-max&theme=github-dark-blue&hide_border=true&ring=39FF88&fire=24D9FF&currStreakLabel=39FF88" alt="GitHub contribution streak" />
 
 </div>
 
