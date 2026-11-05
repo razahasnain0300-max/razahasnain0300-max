@@ -421,7 +421,11 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 The catalog below refreshes **every 6 hours** and can also be updated manually from GitHub Actions. Newly created **public** repositories and changes to their descriptions, main language or latest push date appear here automatically. Existing **private** project showcases remain curated above: private code, files and repository links are never automatically published.
 
 <!-- AUTO-PUBLIC-PROJECTS:START -->
-Public project list will appear after the first successful workflow run.
+**0 public project repositories** are currently discoverable. This list is automatically refreshed from GitHub repository metadata. Private project showcases above are curated separately and remain source-code protected.
+
+No public project repositories are currently available.
+
+**Need a similar project?** [WhatsApp Pakistan](https://wa.me/923065967478) · [WhatsApp UAE](https://wa.me/971552615993) · [Email](mailto:razahasnain0300@gmail.com)
 <!-- AUTO-PUBLIC-PROJECTS:END -->
 
 ## <img src="https://img.shields.io/badge/TOOLS-0C1530?style=flat-square&logo=github&logoColor=28E6FF" alt="TOOLS" height="22" /> Frameworks, tools & technology stack
