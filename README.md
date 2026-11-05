@@ -20,7 +20,7 @@
 
 <sub>One animated portrait, a clean layout, and a focus on real-world solutions.</sub>
 
-**[Team](#-our-development-team)** · **[Languages](#-programming-languages)** · **[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-private-project-portfolio--features--technology)** · **[Tech](#-frameworks-tools--technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
+**[Team](#-our-development-team)** · **[Languages](#-programming-languages)** · **[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-private-project-portfolio--21-projects)** · **[Tech](#-frameworks-tools--technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
 
 </div>
 
@@ -98,9 +98,11 @@ $ focus
 
 > **Private-code policy:** Project source code and downloadable packages are not offered through this portfolio. For a similar feature or custom build, contact us via WhatsApp.
 
-## 🔒 Private project portfolio — features & technology
+## 🔒 Private project portfolio — 21 projects
 
 **Our source repositories are private.** These project summaries share high-level purposes, technology stacks and documented functionality—not code, downloadable packages or private credentials. Feature descriptions are based on project documentation; they are not a guarantee that every feature is live in production.
+
+**21 project repositories showcased · 6 featured projects shown initially · 15 more on demand.**
 
 Interested in a similar website, web app, Android/iOS app or custom software? Use the project-specific **Request on WhatsApp** link below. It opens a prefilled enquiry for **+971 55 261 5993**.
 
@@ -176,6 +178,9 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 ---
 
+<details>
+<summary><b>📂 Load More Projects — View 15 More (7–21 of 21)</b></summary>
+
 ### 07 · rTMS Machine
 
 **Purpose:** Neuromodulation-focused web project.
@@ -199,6 +204,164 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 [**💬 Request a similar Syeds Tech Company Website project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20similar%20project%20to%20Syeds%20Tech%20Company%20Website.%20Please%20share%20features%2C%20pricing%20and%20development%20details.)
 
 ---
+
+### 09 · 5D Interactive ARE Business Card
+
+**Purpose:** Interactive digital business card.
+
+**Technologies:** HTML · CSS · JavaScript · Bootstrap · React (documented technology ecosystem).
+
+**Documented features / scope:** Responsive digital identity and interactive web presentation.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%205D%20Interactive%20ARE%20Business%20Card.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 10 · 3D/5D ARE Business Card
+
+**Purpose:** Immersive digital business card.
+
+**Technologies:** 3D interface · Web animations (specific stack not verified).
+
+**Documented features / scope:** Floating information cubes, animated presentation, profile details and vCard export.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%203D%2F5D%20ARE%20Business%20Card.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 11 · Amaken CEO Dashboard
+
+**Purpose:** Executive real-estate dashboard.
+
+**Technologies:** Technology stack not independently verified.
+
+**Documented features / scope:** Property, sales, leads and performance analytics dashboard scope.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Amaken%20CEO%20Dashboard.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 12 · Amaken Executive Management
+
+**Purpose:** Leadership reporting and property management.
+
+**Technologies:** Technology stack not independently verified.
+
+**Documented features / scope:** Executive oversight, property management and analytics scope.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Amaken%20Executive%20Management.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 13 · Fatima Boutique
+
+**Purpose:** Boutique storefront project.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS.
+
+**Documented features / scope:** Storefront application foundation; checkout and inventory workflows not verified.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Fatima%20Boutique.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 14 · Hadia Collection
+
+**Purpose:** Fashion e-commerce and store operations.
+
+**Technologies:** Node.js · Express · MySQL · Socket.IO.
+
+**Documented features / scope:** Customer accounts, cart/COD checkout, inventory, returns/refunds, admin portal and real-time order updates.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Hadia%20Collection.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 15 · Rehab Connects
+
+**Purpose:** Rehabilitation-related digital project.
+
+**Technologies:** Technology stack not independently verified.
+
+**Documented features / scope:** Project-specific features not independently documented.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Rehab%20Connects.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 16 · SYDEX AI Command Center
+
+**Purpose:** Windows-first AI desktop assistant.
+
+**Technologies:** React · Electron · Three.js · Gemini · Ollama.
+
+**Documented features / scope:** Holographic interface, multilingual voice/chat, permission-controlled local agents and audit logs; local inference requires setup.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20SYDEX%20AI%20Command%20Center.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 17 · Over The Top
+
+**Purpose:** Custom digital project.
+
+**Technologies:** Technology stack not independently verified.
+
+**Documented features / scope:** Project purpose and feature implementation pending documentation.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Over%20The%20Top.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 18 · Syeds Collection
+
+**Purpose:** Retail storefront project.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS.
+
+**Documented features / scope:** Commerce-oriented application foundation; detailed store workflows not verified.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Syeds%20Collection.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 19 · Gani Designer
+
+**Purpose:** Creative/design website project.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS.
+
+**Documented features / scope:** Web application foundation; specific designer features not verified.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Gani%20Designer.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 20 · Telal Al Qema Contracting
+
+**Purpose:** Contracting company website.
+
+**Technologies:** PHP · Bootstrap · HTML · CSS.
+
+**Documented features / scope:** Homepage, services pages, shared navigation and contact form.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Telal%20Al%20Qema%20Contracting.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+### 21 · Syed Imran Law Associates
+
+**Purpose:** Law firm website and management project.
+
+**Technologies:** TypeScript · React · TanStack Start · Tailwind CSS · MySQL · Drizzle ORM.
+
+**Documented features / scope:** Database-backed application foundation; specific law-office workflows not verified.
+
+[**💬 Request a similar project on WhatsApp**](https://wa.me/971552615993?text=Hello%20Syeds%20Tech%2C%20I%20am%20interested%20in%20a%20project%20similar%20to%20Syed%20Imran%20Law%20Associates.%20Please%20share%20details%20and%20pricing.)
+
+---
+
+</details>
 
 <div align="center">
 
