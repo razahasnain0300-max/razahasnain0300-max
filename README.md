@@ -2,9 +2,9 @@
 
 <img src="./assets/cyber-header.svg" width="100%" alt="Syed Hasnain Raza — full-stack developer, neon cybersecurity themed header" />
 
-### Full-service software development · Websites · Web apps · Mobile · Desktop
+### SYEDS TECH · Full-Service Software Development Team
 
-**Building digital solutions across platforms — from business websites to complete software systems.**
+**Websites · Web Apps · SaaS · Desktop Software · Android · iOS · AI & Automation**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=850&color=39FF88&center=true&vCenter=true&width=760&lines=Websites+%7C+Web+Apps+%7C+SaaS+Platforms;Android+%7C+iOS+%7C+Cross-Platform+Apps;Desktop+Software+%7C+ERP+%7C+CRM+%7C+POS;E-commerce+%7C+Marketplaces+%7C+Booking;AI+Integrations+%7C+APIs+%7C+Automation" alt="Animated cross-platform development services" />
 
@@ -19,15 +19,54 @@
 
 <sub>One animated portrait, a clean layout, and a focus on real-world solutions.</sub>
 
-**[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-featured-public-repositories)** · **[Tech](#-technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
+**[Team](#-our-development-team)** · **[Languages](#-programming-languages)** · **[About](#-about-me)** · **[Solutions](#-what-i-build)** · **[Projects](#-featured-public-repositories)** · **[Tech](#-frameworks-tools--technology-stack)** · **[Workflow](#-how-i-deliver)** · **[Activity](#-github-activity)** · **[Contact](#-work-with-me)**
 
 </div>
 
 ---
 
+## 👥 Our development team
+
+**Syeds Tech** presents a collaborative, multidisciplinary approach to delivering complete digital products. The roles below describe the disciplines involved in a full project delivery—not a verified public employee roster.
+
+| Team / discipline | Focus |
+|:---|:---|
+| 🎨 **UI/UX & Product Design** | Research, wireframes, visual design, responsive experiences |
+| 🌐 **Frontend Development** | Websites, web apps, interactive interfaces |
+| ⚙️ **Backend & API Development** | Business logic, integrations, authentication, services |
+| 📱 **Android & iOS Development** | Native and cross-platform mobile solutions |
+| 🖥️ **Desktop & Business Software** | POS, ERP, CRM, inventory, custom desktop workflows |
+| 🗄️ **Database & Architecture** | Relational design, data modeling, performance |
+| 🤖 **AI & Automation** | AI-enabled features, integrations, workflow automation |
+| 🧪 **QA, DevOps & Delivery** | Testing, deployment, monitoring and maintenance |
+
+<div align="center">
+
+[**Syeds Tech GitHub Organization**](https://github.com/Syeds-Tech00)
+
+</div>
+
+## 💻 Programming languages
+
+A wide language ecosystem for different project types. **Listed languages represent our service and technology scope, not verified equal proficiency or a claim that every language is used on every project.**
+
+**Web & scripting:** JavaScript · TypeScript · PHP · Python · Ruby · Perl · Lua · Bash · PowerShell
+
+**Application & systems:** Java · C# · C · C++ · Go · Rust · Kotlin · Swift · Dart · Objective-C · Visual Basic .NET
+
+**Data & analytics:** SQL · R · MATLAB · Julia
+
+**Web markup & styling:** HTML5 · CSS3 · Sass · Less · XML · JSON
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,ruby,lua,bash,powershell,java,cs,c,cpp,go,rust,kotlin,swift,dart,html,css,sass,mysql&perline=7&theme=dark" alt="Programming language and development technology icons including JavaScript, TypeScript, PHP, Python, Ruby, Lua, Bash, PowerShell, Java, C#, C, C++, Go, Rust, Kotlin, Swift, Dart, HTML, CSS, Sass and MySQL" />
+
+</div>
+
 ## 👨‍💻 About me
 
-I'm **Syed Hasnain Raza**, with **4+ years of web development experience**, presenting a broad software-development service offering for clients seeking team-based, end-to-end delivery. I work on responsive interfaces, backend business rules, APIs, and relational databases.
+I'm **Syed Hasnain Raza**, with **4+ years of web development experience**. I represent the Syeds Tech software development offering, bringing together the disciplines needed for end-to-end digital projects. I work on responsive interfaces, backend business rules, APIs, and relational databases.
 
 My core hands-on technologies are **PHP, MySQL/MariaDB, JavaScript, HTML, CSS, and Bootstrap**. I enjoy connecting the full experience—from a customer's first click to an administrator's daily operations.
 
@@ -77,7 +116,7 @@ A selection of projects from my public GitHub account. Availability of live demo
 
 </div>
 
-## 🧰 Technology stack
+## 🧰 Frameworks, tools & technology stack
 
 **Daily development stack**
 
