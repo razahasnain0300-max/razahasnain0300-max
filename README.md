@@ -403,6 +403,14 @@ Interested in a similar website, web app, Android/iOS app or custom software? Us
 
 </div>
 
+## Automatically updated public projects
+
+The catalog below refreshes **every 6 hours** and can also be updated manually from GitHub Actions. Newly created **public** repositories and changes to their descriptions, main language or latest push date appear here automatically. Existing **private** project showcases remain curated above: private code, files and repository links are never automatically published.
+
+<!-- AUTO-PUBLIC-PROJECTS:START -->
+Public project list will appear after the first successful workflow run.
+<!-- AUTO-PUBLIC-PROJECTS:END -->
+
 ## <img src="https://img.shields.io/badge/TOOLS-0B1220?style=flat-square&logo=github&logoColor=39FF88" alt="TOOLS" height="22" /> Frameworks, tools & technology stack
 
 **Daily development stack**
