@@ -213,7 +213,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>Load More Projects · 6–10</b> &nbsp; <img alt="Show next five projects" src="https://img.shields.io/badge/LOAD_MORE_PROJECTS-SHOW_NEXT_5_%E2%86%92-8EFF24?style=for-the-badge&labelColor=07120B" /></summary>
+<summary><b>LOAD MORE PROJECTS — Show projects 6–10 (click to expand)</b></summary>
 
 <a id="case-realestate"></a>
 
@@ -267,7 +267,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>Load More Projects · 11–15</b> &nbsp; <img alt="Show next five projects" src="https://img.shields.io/badge/LOAD_MORE_PROJECTS-SHOW_NEXT_5_%E2%86%92-8EFF24?style=for-the-badge&labelColor=07120B" /></summary>
+<summary><b>LOAD MORE PROJECTS — Show projects 11–15 (click to expand)</b></summary>
 
 <details>
 <summary><b>▸ 11 / Imran Law — Professional services</b></summary>
@@ -315,7 +315,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>Load More Projects · 16–20</b> &nbsp; <img alt="Show next five projects" src="https://img.shields.io/badge/LOAD_MORE_PROJECTS-SHOW_NEXT_5_%E2%86%92-8EFF24?style=for-the-badge&labelColor=07120B" /></summary>
+<summary><b>LOAD MORE PROJECTS — Show projects 16–20 (click to expand)</b></summary>
 
 <details>
 <summary><b>▸ 16 / Javiz — Web project</b></summary>
