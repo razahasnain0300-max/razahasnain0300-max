@@ -22,7 +22,7 @@
 
 ### Services / At a glance
 
-<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-services-cards.svg?v=2" width="100%" alt="Three neon green SyedsTech service cards for full-stack development, business software and AI automation, with delivery focus" />
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-services-cards-v3.svg" width="100%" alt="Three neon green SyedsTech service cards for full-stack development, business software and AI automation, with delivery focus" />
 
 **Explore the service details below** to review scope, deliverables and implementation approach.
 
