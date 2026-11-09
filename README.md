@@ -76,7 +76,7 @@
 
 | FRONTEND | BACKEND | DATA |
 |:---:|:---:|:---:|
-| React · Next.js · UI | PHP · Node.js · Python | MySQL · PostgreSQL · Supabase |
+| React · Next.js · Three.js | PHP · Node.js · Django · ASP.NET | MySQL · PostgreSQL · Supabase |
 
 
 <div align="center">
@@ -84,6 +84,10 @@
 ![React](https://img.shields.io/badge/React-07120B?style=for-the-badge&logo=react&logoColor=8EFF24)
 ![Next.js](https://img.shields.io/badge/Next.js-07120B?style=for-the-badge&logo=nextdotjs&logoColor=8EFF24)
 ![TypeScript](https://img.shields.io/badge/TypeScript-07120B?style=for-the-badge&logo=typescript&logoColor=8EFF24)
+![Three.js](https://img.shields.io/badge/Three.js-07120B?style=for-the-badge&logo=threedotjs&logoColor=8EFF24)
+![Django](https://img.shields.io/badge/Django-07120B?style=for-the-badge&logo=django&logoColor=8EFF24)
+![REST API](https://img.shields.io/badge/REST%20API-07120B?style=for-the-badge&logo=fastapi&logoColor=8EFF24)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-07120B?style=for-the-badge&logo=dotnet&logoColor=8EFF24)
 ![PHP](https://img.shields.io/badge/PHP-07120B?style=for-the-badge&logo=php&logoColor=8EFF24)
 ![Node.js](https://img.shields.io/badge/Node.js-07120B?style=for-the-badge&logo=nodedotjs&logoColor=8EFF24)
 ![Python](https://img.shields.io/badge/Python-07120B?style=for-the-badge&logo=python&logoColor=8EFF24)
@@ -102,9 +106,9 @@ Responsive layouts, component architecture, interactive interfaces and visual ex
 </details>
 
 <details>
-<summary><b>▸ Backend Engineering — PHP, Node.js & Python</b></summary>
+<summary><b>▸ Backend Engineering — PHP, Node.js, Django & ASP.NET</b></summary>
 
-PHP · Node.js · Express.js · Python · Django · REST APIs · authentication · service integrations
+PHP · Node.js · Express.js · Python · Django · ASP.NET · REST APIs · authentication · service integrations
 
 Server-side logic, application architecture and API-backed workflows.
 
