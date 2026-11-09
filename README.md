@@ -74,9 +74,9 @@
 
 </div>
 
-| FRONTEND | BACKEND | DATA |
-|:---:|:---:|:---:|
-| React · Next.js · Three.js | PHP · Node.js · Django · ASP.NET | MySQL · PostgreSQL · Supabase |
+| FRONTEND | BACKEND | PROGRAMMING LANGUAGES | DATABASES |
+|:---:|:---:|:---:|:---:|
+| React · Next.js · Three.js | PHP · Node.js · Django · ASP.NET · REST APIs | JavaScript · TypeScript · Python · C# · C++ · C | MySQL · PostgreSQL · Supabase · SQL Server |
 
 
 <div align="center">
@@ -88,6 +88,10 @@
 ![Django](https://img.shields.io/badge/Django-07120B?style=for-the-badge&logo=django&logoColor=8EFF24)
 ![REST API](https://img.shields.io/badge/REST%20API-07120B?style=for-the-badge&logo=fastapi&logoColor=8EFF24)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-07120B?style=for-the-badge&logo=dotnet&logoColor=8EFF24)
+![C#](https://img.shields.io/badge/C%23-07120B?style=for-the-badge&logo=sharp&logoColor=8EFF24)
+![C++](https://img.shields.io/badge/C%2B%2B-07120B?style=for-the-badge&logo=cplusplus&logoColor=8EFF24)
+![C](https://img.shields.io/badge/C-07120B?style=for-the-badge&logo=c&logoColor=8EFF24)
+![JavaScript](https://img.shields.io/badge/JavaScript-07120B?style=for-the-badge&logo=javascript&logoColor=8EFF24)
 ![PHP](https://img.shields.io/badge/PHP-07120B?style=for-the-badge&logo=php&logoColor=8EFF24)
 ![Node.js](https://img.shields.io/badge/Node.js-07120B?style=for-the-badge&logo=nodedotjs&logoColor=8EFF24)
 ![Python](https://img.shields.io/badge/Python-07120B?style=for-the-badge&logo=python&logoColor=8EFF24)
