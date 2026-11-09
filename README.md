@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-outline-hero.svg" width="100%" alt="SyedsTech black and neon-green portfolio banner" />
 
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/hasnain-coding-animation.gif" width="100%" alt="Animated SyedsTech coding terminal revealing Syed Hasnain Raza's original GitHub portrait in neon green" />
+
 ### FULL-STACK SOFTWARE ENGINEER · FOUNDER, SYEDSTECH
 
 **Custom Web Apps · Business Software · SaaS · AI Integration & Automation**
