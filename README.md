@@ -22,22 +22,9 @@
 
 ### Services / At a glance
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center"><h3>01 / FULL-STACK</h3><strong>Web Applications &amp; SaaS</strong><p>React · Next.js · PHP · Node.js</p><p>Responsive websites, custom web applications, API-backed products.</p><a href="#service-fullstack"><b>EXPLORE SERVICE ↓</b></a></td>
-<td width="33%" valign="top" align="center"><h3>02 / BUSINESS</h3><strong>Custom Software</strong><p>Dashboards · CRM · Inventory</p><p>Purpose-built systems for daily operations, teams and reporting.</p><a href="#service-business"><b>EXPLORE SERVICE ↓</b></a></td>
-<td width="34%" valign="top" align="center"><h3>03 / AUTOMATION</h3><strong>AI &amp; Integrations</strong><p>APIs · AI features · Workflows</p><p>Connected tools and thoughtful automation for repetitive processes.</p><a href="#service-ai"><b>EXPLORE SERVICE ↓</b></a></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-services-cards.svg" width="100%" alt="Three neon green SyedsTech service cards for full-stack development, business software and AI automation, with delivery focus" />
 
-### Capabilities / Deliverables
-
-<table>
-<tr><th align="left">SPECIALIZATION</th><th align="left">DELIVERABLES</th><th align="left">VALUE TO YOUR BUSINESS</th></tr>
-<tr><td><b>Full-Stack Engineering</b></td><td>Web apps, SaaS, APIs, secure authentication</td><td>Software tailored to real users and workflows</td></tr>
-<tr><td><b>Business Applications</b></td><td>Inventory, booking, admin panels, operational reporting</td><td>Organized processes and better visibility</td></tr>
-<tr><td><b>AI &amp; Automation</b></td><td>AI integrations, API connections, assisted workflows</td><td>Reduced manual effort where automation fits</td></tr>
-</table>
+**Explore the service details below** to review scope, deliverables and implementation approach.
 
 <a id="service-fullstack"></a>
 <details>
