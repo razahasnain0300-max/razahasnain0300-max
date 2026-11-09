@@ -16,49 +16,64 @@
 
 ## 01 / About & Services
 
-<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-services-dashboard.svg" width="100%" alt="SyedsTech services: full-stack engineering, business software, AI integration and automation" />
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-services-dashboard.svg" width="100%" alt="SyedsTech software development, business platforms and AI automation" />
 
-> **From idea to implementation.** Building practical, secure and scalable software for businesses, startups and product teams. Based in Lahore, Pakistan, collaborating remotely worldwide.
+> **Engineering digital products that solve business problems.** Custom software, modern web platforms and intelligent automation. Based in Lahore, Pakistan — available for remote collaboration worldwide.
 
-### Explore capabilities
+### Services / At a glance
 
 <table>
-<tr><th>Service</th><th>What I build</th><th>Business outcome</th></tr>
-<tr><td><b>01 · Full-Stack Engineering</b></td><td>Web applications, SaaS, APIs, responsive websites</td><td>Digital products designed around real users</td></tr>
-<tr><td><b>02 · Business Software</b></td><td>Dashboards, inventory, CRM-style tools, booking systems</td><td>Clearer workflows and operational visibility</td></tr>
-<tr><td><b>03 · AI &amp; Automation</b></td><td>API integrations, AI-assisted features, connected workflows</td><td>Less repetitive manual work</td></tr>
+<tr>
+<td width="33%" valign="top" align="center"><h3>01 / FULL-STACK</h3><strong>Web Applications &amp; SaaS</strong><p>React · Next.js · PHP · Node.js</p><p>Responsive websites, custom web applications, API-backed products.</p><a href="#service-fullstack"><b>EXPLORE SERVICE ↓</b></a></td>
+<td width="33%" valign="top" align="center"><h3>02 / BUSINESS</h3><strong>Custom Software</strong><p>Dashboards · CRM · Inventory</p><p>Purpose-built systems for daily operations, teams and reporting.</p><a href="#service-business"><b>EXPLORE SERVICE ↓</b></a></td>
+<td width="34%" valign="top" align="center"><h3>03 / AUTOMATION</h3><strong>AI &amp; Integrations</strong><p>APIs · AI features · Workflows</p><p>Connected tools and thoughtful automation for repetitive processes.</p><a href="#service-ai"><b>EXPLORE SERVICE ↓</b></a></td>
+</tr>
 </table>
 
+### Capabilities / Deliverables
+
+<table>
+<tr><th align="left">SPECIALIZATION</th><th align="left">DELIVERABLES</th><th align="left">VALUE TO YOUR BUSINESS</th></tr>
+<tr><td><b>Full-Stack Engineering</b></td><td>Web apps, SaaS, APIs, secure authentication</td><td>Software tailored to real users and workflows</td></tr>
+<tr><td><b>Business Applications</b></td><td>Inventory, booking, admin panels, operational reporting</td><td>Organized processes and better visibility</td></tr>
+<tr><td><b>AI &amp; Automation</b></td><td>AI integrations, API connections, assisted workflows</td><td>Reduced manual effort where automation fits</td></tr>
+</table>
+
+<a id="service-fullstack"></a>
 <details>
-<summary><b>01 / Explore Full-Stack Engineering</b></summary>
+<summary><b>01 / Full-Stack Engineering — View scope and deliverables</b></summary>
 
-**Capabilities:** custom websites · React/Next.js interfaces · PHP/Node.js backends · authentication · REST APIs · relational databases · responsive UI.
+**Build:** Custom websites, React/Next.js interfaces, PHP/Node.js backends, REST APIs, authentication and relational database applications.
 
-**Typical deliverables:** user-facing application, admin interface, integrations and deployment-ready code (subject to project scope).
+**Typical handover:** User-facing application, administration features, technical documentation and deployment guidance, according to agreed scope.
 
 </details>
 
+<a id="service-business"></a>
 <details>
-<summary><b>02 / Explore Business Software</b></summary>
+<summary><b>02 / Business Software — View scope and deliverables</b></summary>
 
-**Capabilities:** inventory management · e-commerce operations · CRM-style systems · booking workflows · admin dashboards · reporting.
+**Build:** Inventory systems, e-commerce workflows, CRM-style platforms, booking applications, dashboards and reports.
 
-**Typical deliverables:** role-based access, structured data models, operational screens and business reports.
+**Typical handover:** Permission-based workflows, structured data, operational screens and reporting tools.
 
 </details>
 
+<a id="service-ai"></a>
 <details>
-<summary><b>03 / Explore AI Integration & Automation</b></summary>
+<summary><b>03 / AI Integration & Automation — View scope and deliverables</b></summary>
 
-**Capabilities:** AI API integrations · workflow automation · data processing · intelligent search and assistance · third-party service connectivity.
+**Build:** AI API integrations, connected workflows, data processing, intelligent search and third-party service integrations.
 
-**Approach:** privacy-aware integration, reliable error handling and human review where needed.
+**Approach:** Privacy-aware design, error handling, appropriate human oversight and testing against real use cases.
 
 </details>
 
 <div align="center">
 
-[![Discuss a Project](https://img.shields.io/badge/DISCUSS_YOUR_PROJECT-8EFF24?style=for-the-badge&labelColor=07120B)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
+**Have a product idea or an operational problem to solve?**
+
+[![Discuss Your Project](https://img.shields.io/badge/DISCUSS_YOUR_PROJECT-8EFF24?style=for-the-badge&labelColor=07120B)](mailto:razahasnain0300@gmail.com?subject=SyedsTech%20Project%20Enquiry)
 
 </div>
 
