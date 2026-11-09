@@ -14,7 +14,7 @@
 
 ---
 
-## 01 / About & services
+<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">01 / About & services</font></h2><p><font color="#B7D8BD">SYEDSTECH / SERVICES</font></p></td></tr></table>
 
 <div align="center">
 
@@ -58,7 +58,7 @@ AI-assisted features, third-party API integration, process automation and intell
 
 ---
 
-## 02 / Engineering toolkit
+<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">02 / Engineering toolkit</font></h2><p><font color="#B7D8BD">SYEDSTECH / TECHNOLOGIES</font></p></td></tr></table>
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 ---
 
-## 03 / Selected projects
+<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">03 / Selected projects</font></h2><p><font color="#B7D8BD">SYEDSTECH / PROJECTS</font></p></td></tr></table>
 
 <div align="center">
 
@@ -213,7 +213,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>▸ LOAD MORE PROJECTS — SHOW NEXT 5 · BATCH 1</b></summary>
+<summary><b>Load More Projects · 6–10</b> &nbsp; <img alt="Show next five projects" src="https://img.shields.io/badge/LOAD_MORE_PROJECTS-SHOW_NEXT_5_%E2%86%92-8EFF24?style=for-the-badge&labelColor=07120B" /></summary>
 
 <a id="case-realestate"></a>
 
@@ -267,7 +267,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>▸ LOAD MORE PROJECTS — SHOW NEXT 5 · BATCH 2</b></summary>
+<summary><b>Load More Projects · 11–15</b> &nbsp; <img alt="Show next five projects" src="https://img.shields.io/badge/LOAD_MORE_PROJECTS-SHOW_NEXT_5_%E2%86%92-8EFF24?style=for-the-badge&labelColor=07120B" /></summary>
 
 <details>
 <summary><b>▸ 11 / Imran Law — Professional services</b></summary>
@@ -315,7 +315,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>▸ LOAD MORE PROJECTS — SHOW NEXT 5 · BATCH 3</b></summary>
+<summary><b>Load More Projects · 16–20</b> &nbsp; <img alt="Show next five projects" src="https://img.shields.io/badge/LOAD_MORE_PROJECTS-SHOW_NEXT_5_%E2%86%92-8EFF24?style=for-the-badge&labelColor=07120B" /></summary>
 
 <details>
 <summary><b>▸ 16 / Javiz — Web project</b></summary>
@@ -374,7 +374,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 ---
 
-## 04 / Delivery process
+<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">04 / Delivery process</font></h2><p><font color="#B7D8BD">SYEDSTECH / PROCESS</font></p></td></tr></table>
 
 <div align="center">
 
@@ -410,7 +410,7 @@ Connect APIs, test important workflows, review security and reliability, and pre
 
 ---
 
-## 05 / GitHub activity
+<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">05 / GitHub activity</font></h2><p><font color="#B7D8BD">SYEDSTECH / ACTIVITY</font></p></td></tr></table>
 
 <div align="center">
 
@@ -447,7 +447,7 @@ Connect APIs, test important workflows, review security and reliability, and pre
 
 ---
 
-## 06 / Public repositories — automatically updated
+<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">06 / Public repositories — automatically updated</font></h2><p><font color="#B7D8BD">SYEDSTECH / REPOSITORIES</font></p></td></tr></table>
 
 <div align="center">
 
@@ -475,7 +475,7 @@ No public project repositories are currently available.
 
 ---
 
-## 07 / Work together
+<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">07 / Work together</font></h2><p><font color="#B7D8BD">SYEDSTECH / CONTACT</font></p></td></tr></table>
 
 <div align="center">
 
