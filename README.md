@@ -16,6 +16,13 @@
 
 ## 01 / About & services
 
+<div align="center">
+
+![SERVICE CARDS · EXPLORE CAPABILITIES](https://img.shields.io/badge/SERVICE%20CARDS%20·%20EXPLORE%20CAPABILITIES-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+</div>
+
+
 > Building practical, secure and scalable software for businesses, startups and product teams. Based in Lahore, Pakistan; collaborating remotely worldwide.
 
 <details open>
@@ -48,6 +55,13 @@ AI-assisted features, third-party API integration, process automation and intell
 ---
 
 ## 02 / Engineering toolkit
+
+<div align="center">
+
+![TECHNOLOGY CARDS · EXPAND EACH STACK](https://img.shields.io/badge/TECHNOLOGY%20CARDS%20·%20EXPAND%20EACH%20STACK-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+</div>
+
 
 <div align="center">
 
@@ -100,7 +114,20 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 ## 03 / Selected projects
 
+<div align="center">
+
+![PROJECT SHOWCASE · FIRST FIVE + LOAD MORE](https://img.shields.io/badge/PROJECT%20SHOWCASE%20·%20FIRST%20FIVE%20+%20LOAD%20MORE-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+</div>
+
+
 > Large visual project cards inspired by the reference video. Expand each case study for details. Private repositories stay private; availability and production readiness vary.
+
+<div align="center">
+
+![Featured Projects](https://img.shields.io/badge/FEATURED_PROJECTS-05-8EFF24?style=for-the-badge&labelColor=07120B)
+
+</div>
 
 <a id="case-rehabconnect"></a>
 
@@ -177,6 +204,9 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+<details>
+<summary><b>▸ LOAD MORE PROJECTS — NEXT 1 VERIFIED CASE STUDY</b></summary>
+
 <a id="case-realestate"></a>
 
 [![Amaken Real Estate showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/realestate.svg)](#case-realestate)
@@ -193,17 +223,28 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>▸ Additional Project Categories</b></summary>
+<summary><b>▸ MORE PROJECT CATEGORIES — PROJECT DETAILS ON REQUEST</b></summary>
 
 Business dashboards · marketplace interfaces · contracting websites · retail storefronts · interactive business cards · experimental desktop AI tools.
 
-Additional details available subject to client confidentiality.
+These are additional areas of work, not six separately verified project case studies. Further project cards can be added in batches of five when their names, screenshots and descriptions are confirmed.
 
 </details>
+
+</details>
+
+<sub>GitHub README supports click-to-expand groups, not JavaScript pagination. New groups of five can be added as more projects are verified.</sub>
 
 ---
 
 ## 04 / Delivery process
+
+<div align="center">
+
+![WORKFLOW CARDS · DISCOVER TO DELIVERY](https://img.shields.io/badge/WORKFLOW%20CARDS%20·%20DISCOVER%20TO%20DELIVERY-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+</div>
+
 
 <details>
 <summary><b>▸ 01 — Discovery & Architecture</b></summary>
@@ -229,6 +270,13 @@ Connect APIs, test important workflows, review security and reliability, and pre
 ---
 
 ## 05 / GitHub activity
+
+<div align="center">
+
+![CONTRIBUTION VISUALS · EXPAND TO VIEW](https://img.shields.io/badge/CONTRIBUTION%20VISUALS%20·%20EXPAND%20TO%20VIEW-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+</div>
+
 
 <details open>
 <summary><b>▸ 3D Contribution Visualization</b></summary>
@@ -256,6 +304,13 @@ Connect APIs, test important workflows, review security and reliability, and pre
 
 ## 06 / Public repositories — automatically updated
 
+<div align="center">
+
+![PUBLIC CODE · AUTOMATICALLY REFRESHED](https://img.shields.io/badge/PUBLIC%20CODE%20·%20AUTOMATICALLY%20REFRESHED-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+</div>
+
+
 <details open>
 <summary><b>▸ Explore Public Repositories</b></summary>
 
@@ -272,6 +327,13 @@ No public project repositories are currently available.
 ---
 
 ## 07 / Work together
+
+<div align="center">
+
+![START A PROJECT · CONTACT SYEDSTECH](https://img.shields.io/badge/START%20A%20PROJECT%20·%20CONTACT%20SYEDSTECH-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+</div>
+
 
 <details open>
 <summary><b>▸ Start a Software Project</b></summary>
