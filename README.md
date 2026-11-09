@@ -68,7 +68,7 @@
 
 <table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">02 / Engineering toolkit</font></h2><p><font color="#B7D8BD">SYEDSTECH / TECHNOLOGIES</font></p></td></tr></table>
 
-<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-engineering-cards.svg" width="100%" alt="SyedsTech engineering toolkit showing premium cards for frontend, backend, programming languages and databases" />
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-engineering-cards-v2.svg" width="100%" alt="SyedsTech engineering toolkit showing premium cards for frontend, backend, programming languages and databases" />
 
 **Explore the engineering stack** using the expandable categories below.
 
