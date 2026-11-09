@@ -1,26 +1,51 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-outline-hero.svg" alt="Animated SyedsTech neon green outline banner" width="100%" />
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-outline-hero.svg" width="100%" alt="SyedsTech black and neon-green portfolio banner" />
 
 ### FULL-STACK SOFTWARE ENGINEER · FOUNDER, SYEDSTECH
 
-**Custom Web Applications · Business Software · SaaS · AI Integration & Automation**
+**Custom Web Apps · Business Software · SaaS · AI Integration & Automation**
 
-Building practical, secure and scalable software for startups and businesses.
-
-[![Project Enquiry](https://img.shields.io/badge/START-A_PROJECT-8EFF24?style=for-the-badge&labelColor=07120B)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry) [![Selected Work](https://img.shields.io/badge/EXPLORE-PROJECTS-8EFF24?style=for-the-badge&labelColor=07120B)](#03--selected-projects) [![Organization](https://img.shields.io/badge/SYEDSTECH-ORGANIZATION-8EFF24?style=for-the-badge&labelColor=07120B)](https://github.com/Syeds-Tech00)
+[![Start a Project](https://img.shields.io/badge/START_A_PROJECT-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
+[![View Projects](https://img.shields.io/badge/VIEW_PROJECTS-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](#03--selected-projects)
+[![SyedsTech](https://img.shields.io/badge/SYEDSTECH-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://github.com/Syeds-Tech00)
 
 </div>
 
 ---
 
-## 01 / What I build
+## 01 / About & services
 
-| Digital products | Business systems | Intelligent integrations |
-|---|---|---|
-| Custom websites, web apps, SaaS platforms | E-commerce, inventory, CRM, dashboards | REST APIs, workflow automation, AI integrations |
+> Building practical, secure and scalable software for businesses, startups and product teams. Based in Lahore, Pakistan; collaborating remotely worldwide.
 
-I work across frontend interfaces, backend services, databases and deployment. My approach prioritizes maintainability, responsive design, data integrity and real business workflows.
+<details open>
+<summary><b>▸ Full-Stack Engineering — Websites, Apps & SaaS</b></summary>
+
+Custom websites, responsive applications, SaaS products, API-backed experiences and maintainable frontend/backend systems.
+
+**Focus:** product architecture · authentication · integrations · performance · responsive UX
+
+</details>
+
+<details>
+<summary><b>▸ Business Software — Operations & Dashboards</b></summary>
+
+Business-oriented systems for e-commerce, inventory, order processing, CRM-style workflows, booking, reporting and administrative operations.
+
+**Focus:** data integrity · roles and permissions · reporting · operational workflows
+
+</details>
+
+<details>
+<summary><b>▸ AI Integration & Automation — Connected Workflows</b></summary>
+
+AI-assisted features, third-party API integration, process automation and intelligent application workflows, tailored to a project's actual requirements.
+
+**Focus:** practical automation · secure integrations · human review · measurable usefulness
+
+</details>
+
+---
 
 ## 02 / Engineering toolkit
 
@@ -29,80 +54,186 @@ I work across frontend interfaces, backend services, databases and deployment. M
 ![React](https://img.shields.io/badge/React-07120B?style=for-the-badge&logo=react&logoColor=8EFF24)
 ![Next.js](https://img.shields.io/badge/Next.js-07120B?style=for-the-badge&logo=nextdotjs&logoColor=8EFF24)
 ![TypeScript](https://img.shields.io/badge/TypeScript-07120B?style=for-the-badge&logo=typescript&logoColor=8EFF24)
-![Three.js](https://img.shields.io/badge/Three.js-07120B?style=for-the-badge&logo=threedotjs&logoColor=8EFF24)
 ![PHP](https://img.shields.io/badge/PHP-07120B?style=for-the-badge&logo=php&logoColor=8EFF24)
 ![Node.js](https://img.shields.io/badge/Node.js-07120B?style=for-the-badge&logo=nodedotjs&logoColor=8EFF24)
 ![Python](https://img.shields.io/badge/Python-07120B?style=for-the-badge&logo=python&logoColor=8EFF24)
-![Django](https://img.shields.io/badge/Django-07120B?style=for-the-badge&logo=django&logoColor=8EFF24)
-![MySQL](https://img.shields.io/badge/MySQL-07120B?style=for-the-badge&logo=mysql&logoColor=8EFF24)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07120B?style=for-the-badge&logo=postgresql&logoColor=8EFF24)
-![Supabase](https://img.shields.io/badge/Supabase-07120B?style=for-the-badge&logo=supabase&logoColor=8EFF24)
+![MySQL](https://img.shields.io/badge/MySQL-07120B?style=for-the-badge&logo=mysql&logoColor=8EFF24)
 
 </div>
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Bootstrap, Three.js  
-**Backend:** PHP, Node.js, Express, Python, Django, REST APIs  
-**Data:** MySQL, PostgreSQL, Supabase, SQL Server  
-**Workflow:** Git, GitHub, API testing, automation and AI-assisted development
-
-*Technology choices vary by project; this is not a claim of equal proficiency in every tool.*
-
-## 03 / Selected projects
-
-> Curated case studies: source repositories are private, and production readiness varies.
-
-> Project source repositories are private. These are high-level case studies, not public code demos. Screenshots and live links are included only where available and appropriate.
-
-### RehabConnect Pakistan — Healthcare discovery platform
-A patient-facing healthcare and rehabilitation directory featuring professional discovery, treatment-center listings, location-based exploration, educational resources and responsive navigation.
-
-[Explore the public website](https://rehabconnect.pk)
-
-### GOEV Pakistan — Electric mobility platform
-An electric-vehicle marketplace project with public discovery, seller and administrative experiences, variant management and API-backed workflows. **Status:** some integrations remain under development/testing.
-
-### Kanz Store — E-commerce operations
-A retail platform covering product variants, inventory, carts, orders and return workflows. Specific deployment and feature readiness should be verified before public claims.
-
-### MedBoostPro — Education technology
-An education platform architecture spanning public, student and administrator interfaces with a shared backend API. **Status:** production runtime readiness should be verified separately.
-
-### Dr. Shoaib Zafar — Specialist platform
-A professional website and clinic-management ecosystem with research content and administrative modules. Clinical content and production-release items require review.
-
-### Amaken Real Estate — Property website
-A property-focused web experience using PHP, PDO, MySQL and responsive Bootstrap layouts.
-
 <details>
-<summary><b>More project categories</b></summary>
+<summary><b>▸ Frontend Engineering — React, Next.js & Three.js</b></summary>
 
-Real estate dashboards · Business management · Marketplace interfaces · Interactive business cards · Contracting websites · Desktop AI assistant concepts · Retail storefronts.
+JavaScript · TypeScript · React · Next.js · HTML5 · CSS3 · Bootstrap · jQuery · Three.js
 
-Additional project details are available upon request, subject to client confidentiality.
+Responsive layouts, component architecture, interactive interfaces and visual experiences.
 
 </details>
 
-## 04 / From idea to release
+<details>
+<summary><b>▸ Backend Engineering — PHP, Node.js & Python</b></summary>
 
-**Discover → Design → Develop → Integrate → Test → Deliver**
+PHP · Node.js · Express.js · Python · Django · REST APIs · authentication · service integrations
 
-I translate business needs into clear features, connected workflows, secure data handling and maintainable code. I focus on real use cases, responsive interfaces and dependable application behavior.
+Server-side logic, application architecture and API-backed workflows.
 
-## 05 / A year of building
+</details>
+
+<details>
+<summary><b>▸ Databases & Infrastructure — MySQL, PostgreSQL & Supabase</b></summary>
+
+MySQL · PostgreSQL · Microsoft SQL Server · Supabase · schema design · SQL queries · database integration
+
+</details>
+
+<details>
+<summary><b>▸ Engineering Workflow — Git, Testing & Automation</b></summary>
+
+Git · GitHub · API testing · deployment · debugging · AI-assisted development · documentation
+
+*Technology experience varies by project; this is not a claim of equal proficiency in every tool.*
+
+</details>
+
+---
+
+## 03 / Selected projects
+
+> Click a project heading to expand its case study. Private source repositories stay private; availability and production readiness vary.
+
+<details>
+<summary><b>▸ RehabConnect Pakistan — Healthcare Technology</b></summary>
+
+> Healthcare and rehabilitation discovery platform for patients and professionals.
+
+**Highlights:** specialist profiles, rehabilitation-center listings, location-based discovery, educational resources and responsive navigation.
+
+[Visit RehabConnect Pakistan](https://rehabconnect.pk)
+
+</details>
+
+<details>
+<summary><b>▸ GOEV Pakistan — Electric Mobility</b></summary>
+
+> Marketplace project supporting electric mobility product discovery.
+
+**Highlights:** product variants, seller and administrative interfaces, API-backed workflows. **Status:** integrations under development/testing.
+
+
+
+</details>
+
+<details>
+<summary><b>▸ Kanz Store — E-Commerce</b></summary>
+
+> Retail application and business operations project.
+
+**Highlights:** catalog, product variants, carts, orders, inventory and returns. Deployment and individual feature readiness should be verified.
+
+
+
+</details>
+
+<details>
+<summary><b>▸ MedBoostPro — Education Technology</b></summary>
+
+> Multi-interface education platform architecture.
+
+**Highlights:** public, student and administrator interfaces with a shared backend API. **Status:** production runtime readiness requires verification.
+
+
+
+</details>
+
+<details>
+<summary><b>▸ Dr. Shoaib Zafar — Specialist Platform</b></summary>
+
+> Professional web presence with research and administrative components.
+
+**Highlights:** research content, public pages and management modules. Clinical content and release status require review.
+
+
+
+</details>
+
+<details>
+<summary><b>▸ Amaken Real Estate — Property Technology</b></summary>
+
+> Property-focused web platform.
+
+**Highlights:** PHP, PDO, MySQL and responsive Bootstrap property interfaces.
+
+
+
+</details>
+
+<details>
+<summary><b>▸ Additional Project Categories</b></summary>
+
+Business dashboards · marketplace interfaces · contracting websites · retail storefronts · interactive business cards · experimental desktop AI tools.
+
+Additional details available subject to client confidentiality.
+
+</details>
+
+---
+
+## 04 / Delivery process
+
+<details>
+<summary><b>▸ 01 — Discovery & Architecture</b></summary>
+
+Understand business goals, user roles, core workflows, integration requirements and delivery constraints.
+
+</details>
+
+<details>
+<summary><b>▸ 02 — Design & Development</b></summary>
+
+Build responsive interfaces, structured data models, backend services and clear user experiences.
+
+</details>
+
+<details>
+<summary><b>▸ 03 — Integration, Testing & Delivery</b></summary>
+
+Connect APIs, test important workflows, review security and reliability, and prepare the solution for deployment.
+
+</details>
+
+---
+
+## 05 / GitHub activity
+
+<details open>
+<summary><b>▸ 3D Contribution Visualization</b></summary>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/profile-3d-contrib/profile-night-green.svg" width="95%" alt="GitHub contribution visualization" />
 
-<details><summary>Contribution animation</summary>
-
-<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</div>
 
 </details>
 
+<details>
+<summary><b>▸ Contribution Snake Animation</b></summary>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
 </div>
 
+</details>
+
+---
+
 ## 06 / Public repositories — automatically updated
+
+<details open>
+<summary><b>▸ Explore Public Repositories</b></summary>
 
 <!-- AUTO-PUBLIC-PROJECTS:START -->
 **0 public project repositories** are currently discoverable. This list is automatically refreshed from GitHub repository metadata. Private project showcases above are curated separately and remain source-code protected.
@@ -112,12 +243,27 @@ No public project repositories are currently available.
 **Need a similar project?** [WhatsApp Pakistan](https://wa.me/923065967478) · [WhatsApp UAE](https://wa.me/971552615993) · [Email](mailto:razahasnain0300@gmail.com)
 <!-- AUTO-PUBLIC-PROJECTS:END -->
 
-## 07 / Let's build something useful
+</details>
 
-**Custom software · SaaS · Business systems · AI-enabled workflows**
+---
 
-Need a custom website, business platform, SaaS application, or AI-enabled workflow? Share the business problem, must-have features, expected users and timeline.
+## 07 / Work together
 
-**[Email a project enquiry](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)** · **[WhatsApp Pakistan](https://wa.me/923065967478)** · **[WhatsApp UAE](https://wa.me/971552615993)**
+<details open>
+<summary><b>▸ Start a Software Project</b></summary>
 
-<div align="center"><sub>SyedsTech · Lahore, Pakistan · Remote collaboration worldwide</sub></div>
+**Custom software · SaaS · Web applications · Business systems · AI-enabled workflows**
+
+Tell me about your business challenge, users, required features and timeline.
+
+[![Email Enquiry](https://img.shields.io/badge/EMAIL_ENQUIRY-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
+[![WhatsApp Pakistan](https://img.shields.io/badge/WHATSAPP_PAKISTAN-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://wa.me/923065967478)
+[![WhatsApp UAE](https://img.shields.io/badge/WHATSAPP_UAE-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://wa.me/971552615993)
+
+</details>
+
+<div align="center">
+
+<sub>SyedsTech · Lahore, Pakistan · Remote collaboration worldwide</sub>
+
+</div>
