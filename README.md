@@ -22,6 +22,10 @@
 
 </div>
 
+| FULL-STACK SOFTWARE | BUSINESS PLATFORMS | AI AUTOMATION |
+|:---:|:---:|:---:|
+| Web apps & SaaS | Operational systems | APIs & intelligent workflows |
+
 
 > Building practical, secure and scalable software for businesses, startups and product teams. Based in Lahore, Pakistan; collaborating remotely worldwide.
 
@@ -61,6 +65,10 @@ AI-assisted features, third-party API integration, process automation and intell
 ![TECHNOLOGY CARDS · EXPAND EACH STACK](https://img.shields.io/badge/TECHNOLOGY%20CARDS%20·%20EXPAND%20EACH%20STACK-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
 
 </div>
+
+| FRONTEND | BACKEND | DATA |
+|:---:|:---:|:---:|
+| React · Next.js · UI | PHP · Node.js · Python | MySQL · PostgreSQL · Supabase |
 
 
 <div align="center">
@@ -205,7 +213,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>▸ LOAD MORE PROJECTS — NEXT 1 VERIFIED CASE STUDY</b></summary>
+<summary><b>▸ LOAD MORE PROJECTS · SHOW 5 MORE · BATCH 1</b></summary>
 
 <a id="case-realestate"></a>
 
@@ -223,17 +231,174 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>▸ MORE PROJECT CATEGORIES — PROJECT DETAILS ON REQUEST</b></summary>
+<summary><b>▸ 07 / Fatima Boutique — Retail website</b></summary>
 
-Business dashboards · marketplace interfaces · contracting websites · retail storefronts · interactive business cards · experimental desktop AI tools.
+> Repository-listed project; implementation and deployment status not verified.
 
-These are additional areas of work, not six separately verified project case studies. Further project cards can be added in batches of five when their names, screenshots and descriptions are confirmed.
+![Project category](https://img.shields.io/badge/Retail%20website-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 08 / Hadia Collection — Online retail</b></summary>
+
+> Repository-listed storefront; feature status not verified.
+
+![Project category](https://img.shields.io/badge/Online%20retail-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 09 / Meem Connects — Subscription commerce</b></summary>
+
+> Repository-listed project; scope and readiness not verified.
+
+![Project category](https://img.shields.io/badge/Subscription%20commerce-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 10 / rTMS Machine — Healthcare technology</b></summary>
+
+> Repository-listed project; technical details not verified.
+
+![Project category](https://img.shields.io/badge/Healthcare%20technology-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ LOAD MORE PROJECTS · SHOW 5 MORE · BATCH 2</b></summary>
+
+<details>
+<summary><b>▸ 10 / rTMS Machine — Healthcare technology</b></summary>
+
+> Repository-listed project; technical details not verified.
+
+![Project category](https://img.shields.io/badge/Healthcare%20technology-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 11 / Imran Law — Professional services</b></summary>
+
+> Repository-listed project; scope and deployment not verified.
+
+![Project category](https://img.shields.io/badge/Professional%20services-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 12 / Telal Al Qema Contracting — Contracting business</b></summary>
+
+> Repository-listed project; scope and deployment not verified.
+
+![Project category](https://img.shields.io/badge/Contracting%20business-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 13 / Interactive Business Card — ARE — Interactive digital identity</b></summary>
+
+> Repository-listed 5D business-card concept; behavior not verified.
+
+![Project category](https://img.shields.io/badge/Interactive%20digital%20identity-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 14 / 3D Interactive Business Card — ARE — Interactive experience</b></summary>
+
+> Repository-listed 3D/5D concept; behavior not verified.
+
+![Project category](https://img.shields.io/badge/Interactive%20experience-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ LOAD MORE PROJECTS · SHOW 5 MORE · BATCH 3</b></summary>
+
+<details>
+<summary><b>▸ 15 / Amaken Real Estate CEO — Real estate branding</b></summary>
+
+> Repository-listed project; scope and deployment not verified.
+
+![Project category](https://img.shields.io/badge/Real%20estate%20branding-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 16 / Javiz — Web project</b></summary>
+
+> Repository-listed project; category and status not verified.
+
+![Project category](https://img.shields.io/badge/Web%20project-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 17 / Over The Top — Web project</b></summary>
+
+> Repository-listed project; category and status not verified.
+
+![Project category](https://img.shields.io/badge/Web%20project-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 18 / Gani Designer — Creative web project</b></summary>
+
+> Repository-listed project; category and status not verified.
+
+![Project category](https://img.shields.io/badge/Creative%20web%20project-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<details>
+<summary><b>▸ 19 / Syeds Collection — E-commerce branding</b></summary>
+
+> Repository-listed project; scope and status not verified.
+
+![Project category](https://img.shields.io/badge/E_commerce%20branding-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+
+**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+
+</details>
+
+<b>All 20 portfolio entries are now shown.</b>
 
 </details>
 
 </details>
 
-<sub>GitHub README supports click-to-expand groups, not JavaScript pagination. New groups of five can be added as more projects are verified.</sub>
+</details>
+
+<sub>Additional entries are based on accessible repository names. No private code or private repository URLs are exposed. GitHub uses expandable groups rather than JavaScript pagination.</sub>
 
 ---
 
@@ -244,6 +409,10 @@ These are additional areas of work, not six separately verified project case stu
 ![WORKFLOW CARDS · DISCOVER TO DELIVERY](https://img.shields.io/badge/WORKFLOW%20CARDS%20·%20DISCOVER%20TO%20DELIVERY-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
 
 </div>
+
+| DISCOVER | BUILD | DELIVER |
+|:---:|:---:|:---:|
+| Scope & architecture | UI · APIs · database | Integration · testing · release |
 
 
 <details>
@@ -276,6 +445,10 @@ Connect APIs, test important workflows, review security and reliability, and pre
 ![CONTRIBUTION VISUALS · EXPAND TO VIEW](https://img.shields.io/badge/CONTRIBUTION%20VISUALS%20·%20EXPAND%20TO%20VIEW-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
 
 </div>
+
+| CONTRIBUTIONS | ANIMATION |
+|:---:|:---:|
+| 3D graph | Contribution snake |
 
 
 <details open>
@@ -310,6 +483,10 @@ Connect APIs, test important workflows, review security and reliability, and pre
 
 </div>
 
+| PUBLIC WORK | PRIVATE WORK |
+|:---:|:---:|
+| Auto-updated metadata | Curated project showcases |
+
 
 <details open>
 <summary><b>▸ Explore Public Repositories</b></summary>
@@ -333,6 +510,10 @@ No public project repositories are currently available.
 ![START A PROJECT · CONTACT SYEDSTECH](https://img.shields.io/badge/START%20A%20PROJECT%20·%20CONTACT%20SYEDSTECH-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
 
 </div>
+
+| CUSTOM WEB APPS | BUSINESS SOFTWARE | AI WORKFLOWS |
+|:---:|:---:|:---:|
+| Discuss scope | Plan delivery | Explore integrations |
 
 
 <details open>
