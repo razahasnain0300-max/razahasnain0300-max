@@ -2,6 +2,8 @@
 
 <img src="./assets/syedstech-hero-green.svg" alt="SyedsTech — Syed Hasnain Raza, Full-Stack Software Engineer" width="100%" />
 
+<img src="./assets/syedstech-code-animation.svg" alt="Animated SyedsTech code terminal showing full-stack development and AI automation" width="100%" />
+
 ### Full-Stack Software Engineer · Founder, SyedsTech
 
 **Custom Web Applications · Business Software · SaaS · AI Integration & Automation**
