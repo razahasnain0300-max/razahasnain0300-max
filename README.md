@@ -68,37 +68,9 @@
 
 <table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">02 / Engineering toolkit</font></h2><p><font color="#B7D8BD">SYEDSTECH / TECHNOLOGIES</font></p></td></tr></table>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-engineering-cards.svg" width="100%" alt="SyedsTech engineering toolkit showing premium cards for frontend, backend, programming languages and databases" />
 
-![TECHNOLOGY CARDS · EXPAND EACH STACK](https://img.shields.io/badge/TECHNOLOGY%20CARDS%20·%20EXPAND%20EACH%20STACK-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-</div>
-
-| FRONTEND | BACKEND | PROGRAMMING LANGUAGES | DATABASES |
-|:---:|:---:|:---:|:---:|
-| React · Next.js · Three.js | PHP · Node.js · Django · ASP.NET · REST APIs | JavaScript · TypeScript · Python · C# · C++ · C | MySQL · PostgreSQL · Supabase · SQL Server |
-
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-07120B?style=for-the-badge&logo=react&logoColor=8EFF24)
-![Next.js](https://img.shields.io/badge/Next.js-07120B?style=for-the-badge&logo=nextdotjs&logoColor=8EFF24)
-![TypeScript](https://img.shields.io/badge/TypeScript-07120B?style=for-the-badge&logo=typescript&logoColor=8EFF24)
-![Three.js](https://img.shields.io/badge/Three.js-07120B?style=for-the-badge&logo=threedotjs&logoColor=8EFF24)
-![Django](https://img.shields.io/badge/Django-07120B?style=for-the-badge&logo=django&logoColor=8EFF24)
-![REST API](https://img.shields.io/badge/REST%20API-07120B?style=for-the-badge&logo=fastapi&logoColor=8EFF24)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-07120B?style=for-the-badge&logo=dotnet&logoColor=8EFF24)
-![C#](https://img.shields.io/badge/C%23-07120B?style=for-the-badge&logo=sharp&logoColor=8EFF24)
-![C++](https://img.shields.io/badge/C%2B%2B-07120B?style=for-the-badge&logo=cplusplus&logoColor=8EFF24)
-![C](https://img.shields.io/badge/C-07120B?style=for-the-badge&logo=c&logoColor=8EFF24)
-![JavaScript](https://img.shields.io/badge/JavaScript-07120B?style=for-the-badge&logo=javascript&logoColor=8EFF24)
-![PHP](https://img.shields.io/badge/PHP-07120B?style=for-the-badge&logo=php&logoColor=8EFF24)
-![Node.js](https://img.shields.io/badge/Node.js-07120B?style=for-the-badge&logo=nodedotjs&logoColor=8EFF24)
-![Python](https://img.shields.io/badge/Python-07120B?style=for-the-badge&logo=python&logoColor=8EFF24)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07120B?style=for-the-badge&logo=postgresql&logoColor=8EFF24)
-![MySQL](https://img.shields.io/badge/MySQL-07120B?style=for-the-badge&logo=mysql&logoColor=8EFF24)
-
-</div>
+**Explore the engineering stack** using the expandable categories below.
 
 <details>
 <summary><b>▸ Frontend Engineering — React, Next.js & Three.js</b></summary>
