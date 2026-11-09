@@ -420,16 +420,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 <table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">04 / Delivery process</font></h2><p><font color="#B7D8BD">SYEDSTECH / PROCESS</font></p></td></tr></table>
 
-<div align="center">
-
-![WORKFLOW CARDS · DISCOVER TO DELIVERY](https://img.shields.io/badge/WORKFLOW%20CARDS%20·%20DISCOVER%20TO%20DELIVERY-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-</div>
-
-| DISCOVER | BUILD | DELIVER |
-|:---:|:---:|:---:|
-| Scope & architecture | UI · APIs · database | Integration · testing · release |
-
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/overview-process-premium.svg" width="100%" alt="SyedsTech premium process overview cards" />
 
 <details>
 <summary><b>▸ 01 — Discovery & Architecture</b></summary>
@@ -456,16 +447,7 @@ Connect APIs, test important workflows, review security and reliability, and pre
 
 <table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">05 / GitHub activity</font></h2><p><font color="#B7D8BD">SYEDSTECH / ACTIVITY</font></p></td></tr></table>
 
-<div align="center">
-
-![CONTRIBUTION VISUALS · EXPAND TO VIEW](https://img.shields.io/badge/CONTRIBUTION%20VISUALS%20·%20EXPAND%20TO%20VIEW-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-</div>
-
-| CONTRIBUTIONS | ANIMATION |
-|:---:|:---:|
-| 3D graph | Contribution snake |
-
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/overview-activity-premium.svg" width="100%" alt="SyedsTech premium activity overview cards" />
 
 <details open>
 <summary><b>▸ 3D Contribution Visualization</b></summary>
@@ -493,16 +475,7 @@ Connect APIs, test important workflows, review security and reliability, and pre
 
 <table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">06 / Public repositories — automatically updated</font></h2><p><font color="#B7D8BD">SYEDSTECH / REPOSITORIES</font></p></td></tr></table>
 
-<div align="center">
-
-![PUBLIC CODE · AUTOMATICALLY REFRESHED](https://img.shields.io/badge/PUBLIC%20CODE%20·%20AUTOMATICALLY%20REFRESHED-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-</div>
-
-| PUBLIC WORK | PRIVATE WORK |
-|:---:|:---:|
-| Auto-updated metadata | Curated project showcases |
-
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/overview-repositories-premium.svg" width="100%" alt="SyedsTech premium repositories overview cards" />
 
 <details open>
 <summary><b>▸ Explore Public Repositories</b></summary>
@@ -521,16 +494,7 @@ No public project repositories are currently available.
 
 <table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">07 / Work together</font></h2><p><font color="#B7D8BD">SYEDSTECH / CONTACT</font></p></td></tr></table>
 
-<div align="center">
-
-![START A PROJECT · CONTACT SYEDSTECH](https://img.shields.io/badge/START%20A%20PROJECT%20·%20CONTACT%20SYEDSTECH-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-</div>
-
-| CUSTOM WEB APPS | BUSINESS SOFTWARE | AI WORKFLOWS |
-|:---:|:---:|:---:|
-| Discuss scope | Plan delivery | Explore integrations |
-
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/overview-contact-premium.svg" width="100%" alt="SyedsTech premium contact overview cards" />
 
 <details open>
 <summary><b>▸ Start a Software Project</b></summary>
