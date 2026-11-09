@@ -213,7 +213,7 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 </details>
 
 <details>
-<summary><b>▸ LOAD MORE PROJECTS · SHOW 5 MORE · BATCH 1</b></summary>
+<summary><b>▸ LOAD MORE PROJECTS — SHOW NEXT 5 · BATCH 1</b></summary>
 
 <a id="case-realestate"></a>
 
@@ -233,160 +233,132 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 <details>
 <summary><b>▸ 07 / Fatima Boutique — Retail website</b></summary>
 
-> Repository-listed project; implementation and deployment status not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Retail%20website-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 08 / Hadia Collection — Online retail</b></summary>
 
-> Repository-listed storefront; feature status not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Online%20retail-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 09 / Meem Connects — Subscription commerce</b></summary>
 
-> Repository-listed project; scope and readiness not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Subscription%20commerce-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 10 / rTMS Machine — Healthcare technology</b></summary>
 
-> Repository-listed project; technical details not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Healthcare%20technology-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
-<summary><b>▸ LOAD MORE PROJECTS · SHOW 5 MORE · BATCH 2</b></summary>
-
-<details>
-<summary><b>▸ 10 / rTMS Machine — Healthcare technology</b></summary>
-
-> Repository-listed project; technical details not verified.
-
-![Project category](https://img.shields.io/badge/Healthcare%20technology-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
-
-</details>
+<summary><b>▸ LOAD MORE PROJECTS — SHOW NEXT 5 · BATCH 2</b></summary>
 
 <details>
 <summary><b>▸ 11 / Imran Law — Professional services</b></summary>
 
-> Repository-listed project; scope and deployment not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Professional%20services-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 12 / Telal Al Qema Contracting — Contracting business</b></summary>
 
-> Repository-listed project; scope and deployment not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Contracting%20business-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 13 / Interactive Business Card — ARE — Interactive digital identity</b></summary>
 
-> Repository-listed 5D business-card concept; behavior not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Interactive%20digital%20identity-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 14 / 3D Interactive Business Card — ARE — Interactive experience</b></summary>
 
-> Repository-listed 3D/5D concept; behavior not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Interactive%20experience-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
-
-<details>
-<summary><b>▸ LOAD MORE PROJECTS · SHOW 5 MORE · BATCH 3</b></summary>
 
 <details>
 <summary><b>▸ 15 / Amaken Real Estate CEO — Real estate branding</b></summary>
 
-> Repository-listed project; scope and deployment not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Real%20estate%20branding-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
+<summary><b>▸ LOAD MORE PROJECTS — SHOW NEXT 5 · BATCH 3</b></summary>
+
+<details>
 <summary><b>▸ 16 / Javiz — Web project</b></summary>
 
-> Repository-listed project; category and status not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Web%20project-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 17 / Over The Top — Web project</b></summary>
 
-> Repository-listed project; category and status not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Web%20project-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 18 / Gani Designer — Creative web project</b></summary>
 
-> Repository-listed project; category and status not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/Creative%20web%20project-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
-
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
 <details>
 <summary><b>▸ 19 / Syeds Collection — E-commerce branding</b></summary>
 
-> Repository-listed project; scope and status not verified.
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
 
-![Project category](https://img.shields.io/badge/E_commerce%20branding-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
-**Portfolio note:** Repository exists in the connected account. Public screenshots, technical stack and launch status should be confirmed before adding claims or links.
+</details>
+
+<details>
+<summary><b>▸ 20 / Company Web — Corporate website</b></summary>
+
+> Project repository identified in the connected GitHub account. Scope, feature readiness and public deployment have not been verified.
+
+**Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
 
