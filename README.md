@@ -100,10 +100,14 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 ## 03 / Selected projects
 
-> Click a project heading to expand its case study. Private source repositories stay private; availability and production readiness vary.
+> Large visual project cards inspired by the reference video. Expand each case study for details. Private repositories stay private; availability and production readiness vary.
+
+<a id="case-rehabconnect"></a>
+
+[![RehabConnect Pakistan showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/rehabconnect.svg)](#case-rehabconnect)
 
 <details>
-<summary><b>▸ RehabConnect Pakistan — Healthcare Technology</b></summary>
+<summary><b>▸ Open RehabConnect Pakistan case study — Healthcare Technology</b></summary>
 
 > Healthcare and rehabilitation discovery platform for patients and professionals.
 
@@ -113,8 +117,12 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+<a id="case-goev"></a>
+
+[![GOEV Pakistan showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/goev.svg)](#case-goev)
+
 <details>
-<summary><b>▸ GOEV Pakistan — Electric Mobility</b></summary>
+<summary><b>▸ Open GOEV Pakistan case study — Electric Mobility</b></summary>
 
 > Marketplace project supporting electric mobility product discovery.
 
@@ -124,8 +132,12 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+<a id="case-kanz"></a>
+
+[![Kanz Store showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/kanz.svg)](#case-kanz)
+
 <details>
-<summary><b>▸ Kanz Store — E-Commerce</b></summary>
+<summary><b>▸ Open Kanz Store case study — E-Commerce</b></summary>
 
 > Retail application and business operations project.
 
@@ -135,8 +147,12 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+<a id="case-medboost"></a>
+
+[![MedBoostPro showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/medboost.svg)](#case-medboost)
+
 <details>
-<summary><b>▸ MedBoostPro — Education Technology</b></summary>
+<summary><b>▸ Open MedBoostPro case study — Education Technology</b></summary>
 
 > Multi-interface education platform architecture.
 
@@ -146,8 +162,12 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+<a id="case-shoaib"></a>
+
+[![Dr. Shoaib Zafar showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/shoaib.svg)](#case-shoaib)
+
 <details>
-<summary><b>▸ Dr. Shoaib Zafar — Specialist Platform</b></summary>
+<summary><b>▸ Open Dr. Shoaib Zafar case study — Specialist Platform</b></summary>
 
 > Professional web presence with research and administrative components.
 
@@ -157,8 +177,12 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+<a id="case-realestate"></a>
+
+[![Amaken Real Estate showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/realestate.svg)](#case-realestate)
+
 <details>
-<summary><b>▸ Amaken Real Estate — Property Technology</b></summary>
+<summary><b>▸ Open Amaken Real Estate case study — Property Technology</b></summary>
 
 > Property-focused web platform.
 
