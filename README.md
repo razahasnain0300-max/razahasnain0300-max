@@ -230,6 +230,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+[![Fatima Boutique — Retail website project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/fatima.svg)](#project-fatima)
+
+<a id="project-fatima"></a>
+
 <details>
 <summary><b>▸ 07 / Fatima Boutique — Retail website</b></summary>
 
@@ -238,6 +242,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 **Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
+
+[![Hadia Collection — Online retail project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/hadia.svg)](#project-hadia)
+
+<a id="project-hadia"></a>
 
 <details>
 <summary><b>▸ 08 / Hadia Collection — Online retail</b></summary>
@@ -248,6 +256,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+[![Meem Connects — Subscription commerce project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/meem.svg)](#project-meem)
+
+<a id="project-meem"></a>
+
 <details>
 <summary><b>▸ 09 / Meem Connects — Subscription commerce</b></summary>
 
@@ -256,6 +268,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 **Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
+
+[![rTMS Machine — Healthcare technology project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/rtms.svg)](#project-rtms)
+
+<a id="project-rtms"></a>
 
 <details>
 <summary><b>▸ 10 / rTMS Machine — Healthcare technology</b></summary>
@@ -269,6 +285,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 <details>
 <summary><b>LOAD MORE PROJECTS — Show projects 11–15 (click to expand)</b></summary>
 
+[![Imran Law — Professional services project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/imran.svg)](#project-imran)
+
+<a id="project-imran"></a>
+
 <details>
 <summary><b>▸ 11 / Imran Law — Professional services</b></summary>
 
@@ -277,6 +297,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 **Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
+
+[![Telal Al Qema Contracting — Contracting business project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/telal.svg)](#project-telal)
+
+<a id="project-telal"></a>
 
 <details>
 <summary><b>▸ 12 / Telal Al Qema Contracting — Contracting business</b></summary>
@@ -287,6 +311,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+[![Interactive Business Card — ARE — Interactive digital identity project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/are-card.svg)](#project-are-card)
+
+<a id="project-are-card"></a>
+
 <details>
 <summary><b>▸ 13 / Interactive Business Card — ARE — Interactive digital identity</b></summary>
 
@@ -296,6 +324,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+[![3D Interactive Business Card — ARE — Interactive experience project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/are-3d.svg)](#project-are-3d)
+
+<a id="project-are-3d"></a>
+
 <details>
 <summary><b>▸ 14 / 3D Interactive Business Card — ARE — Interactive experience</b></summary>
 
@@ -304,6 +336,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 **Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
+
+[![Amaken Real Estate CEO — Real estate branding project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/amaken-ceo.svg)](#project-amaken-ceo)
+
+<a id="project-amaken-ceo"></a>
 
 <details>
 <summary><b>▸ 15 / Amaken Real Estate CEO — Real estate branding</b></summary>
@@ -317,6 +353,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 <details>
 <summary><b>LOAD MORE PROJECTS — Show projects 16–20 (click to expand)</b></summary>
 
+[![Javiz — Web project project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/javiz.svg)](#project-javiz)
+
+<a id="project-javiz"></a>
+
 <details>
 <summary><b>▸ 16 / Javiz — Web project</b></summary>
 
@@ -325,6 +365,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 **Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
+
+[![Over The Top — Web project project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/overthetop.svg)](#project-overthetop)
+
+<a id="project-overthetop"></a>
 
 <details>
 <summary><b>▸ 17 / Over The Top — Web project</b></summary>
@@ -335,6 +379,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+[![Gani Designer — Creative web project project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/gani.svg)](#project-gani)
+
+<a id="project-gani"></a>
+
 <details>
 <summary><b>▸ 18 / Gani Designer — Creative web project</b></summary>
 
@@ -344,6 +392,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 
 </details>
 
+[![Syeds Collection — E-commerce branding project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/syedscollection.svg)](#project-syedscollection)
+
+<a id="project-syedscollection"></a>
+
 <details>
 <summary><b>▸ 19 / Syeds Collection — E-commerce branding</b></summary>
 
@@ -352,6 +404,10 @@ Git · GitHub · API testing · deployment · debugging · AI-assisted developme
 **Portfolio details:** Screenshots and verified technical highlights can be added later without exposing private source code.
 
 </details>
+
+[![Company Web — Corporate website project showcase](https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/projects/companyweb.svg)](#project-companyweb)
+
+<a id="project-companyweb"></a>
 
 <details>
 <summary><b>▸ 20 / Company Web — Corporate website</b></summary>
