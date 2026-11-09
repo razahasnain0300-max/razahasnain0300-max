@@ -14,47 +14,53 @@
 
 ---
 
-<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">01 / About & services</font></h2><p><font color="#B7D8BD">SYEDSTECH / SERVICES</font></p></td></tr></table>
+## 01 / About & Services
+
+<img src="https://raw.githubusercontent.com/razahasnain0300-max/razahasnain0300-max/main/assets/syedstech-services-dashboard.svg" width="100%" alt="SyedsTech services: full-stack engineering, business software, AI integration and automation" />
+
+> **From idea to implementation.** Building practical, secure and scalable software for businesses, startups and product teams. Based in Lahore, Pakistan, collaborating remotely worldwide.
+
+### Explore capabilities
+
+<table>
+<tr><th>Service</th><th>What I build</th><th>Business outcome</th></tr>
+<tr><td><b>01 · Full-Stack Engineering</b></td><td>Web applications, SaaS, APIs, responsive websites</td><td>Digital products designed around real users</td></tr>
+<tr><td><b>02 · Business Software</b></td><td>Dashboards, inventory, CRM-style tools, booking systems</td><td>Clearer workflows and operational visibility</td></tr>
+<tr><td><b>03 · AI &amp; Automation</b></td><td>API integrations, AI-assisted features, connected workflows</td><td>Less repetitive manual work</td></tr>
+</table>
+
+<details>
+<summary><b>01 / Explore Full-Stack Engineering</b></summary>
+
+**Capabilities:** custom websites · React/Next.js interfaces · PHP/Node.js backends · authentication · REST APIs · relational databases · responsive UI.
+
+**Typical deliverables:** user-facing application, admin interface, integrations and deployment-ready code (subject to project scope).
+
+</details>
+
+<details>
+<summary><b>02 / Explore Business Software</b></summary>
+
+**Capabilities:** inventory management · e-commerce operations · CRM-style systems · booking workflows · admin dashboards · reporting.
+
+**Typical deliverables:** role-based access, structured data models, operational screens and business reports.
+
+</details>
+
+<details>
+<summary><b>03 / Explore AI Integration & Automation</b></summary>
+
+**Capabilities:** AI API integrations · workflow automation · data processing · intelligent search and assistance · third-party service connectivity.
+
+**Approach:** privacy-aware integration, reliable error handling and human review where needed.
+
+</details>
 
 <div align="center">
 
-![SERVICE CARDS · EXPLORE CAPABILITIES](https://img.shields.io/badge/SERVICE%20CARDS%20·%20EXPLORE%20CAPABILITIES-07120B?style=for-the-badge&labelColor=07120B&color=8EFF24)
+[![Discuss a Project](https://img.shields.io/badge/DISCUSS_YOUR_PROJECT-8EFF24?style=for-the-badge&labelColor=07120B)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
 
 </div>
-
-| FULL-STACK SOFTWARE | BUSINESS PLATFORMS | AI AUTOMATION |
-|:---:|:---:|:---:|
-| Web apps & SaaS | Operational systems | APIs & intelligent workflows |
-
-
-> Building practical, secure and scalable software for businesses, startups and product teams. Based in Lahore, Pakistan; collaborating remotely worldwide.
-
-<details open>
-<summary><b>▸ Full-Stack Engineering — Websites, Apps & SaaS</b></summary>
-
-Custom websites, responsive applications, SaaS products, API-backed experiences and maintainable frontend/backend systems.
-
-**Focus:** product architecture · authentication · integrations · performance · responsive UX
-
-</details>
-
-<details>
-<summary><b>▸ Business Software — Operations & Dashboards</b></summary>
-
-Business-oriented systems for e-commerce, inventory, order processing, CRM-style workflows, booking, reporting and administrative operations.
-
-**Focus:** data integrity · roles and permissions · reporting · operational workflows
-
-</details>
-
-<details>
-<summary><b>▸ AI Integration & Automation — Connected Workflows</b></summary>
-
-AI-assisted features, third-party API integration, process automation and intelligent application workflows, tailored to a project's actual requirements.
-
-**Focus:** practical automation · secure integrations · human review · measurable usefulness
-
-</details>
 
 ---
 
