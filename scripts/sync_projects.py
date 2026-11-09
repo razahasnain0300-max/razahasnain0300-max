@@ -103,7 +103,7 @@ def main():
     if START in readme and END in readme:
         readme = readme[:readme.index(START)] + section + readme[readme.index(END)+len(END):]
     else:
-        marker = "\n## 04 / Delivery process"
+        marker = '<table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">04 / Delivery process</font>'
         idx = readme.find(marker)
         if idx < 0:
             idx = len(readme)
