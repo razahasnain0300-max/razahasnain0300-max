@@ -514,3 +514,13 @@ Tell me about your business challenge, users, required features and timeline.
 <sub>SyedsTech · Lahore, Pakistan · Remote collaboration worldwide</sub>
 
 </div>
+
+
+<!-- AUTO-PROJECTS:START -->
+### Automatically synced public repositories
+
+Premium cards are generated from public GitHub repository metadata. Descriptions and technologies reflect repository metadata, not independently verified deployments.
+
+New public repositories will appear here automatically.
+<!-- AUTO-PROJECTS:END -->
+
