@@ -91,7 +91,7 @@ I build systems that **automatically generate SEO content for your website** and
 | **Business System** | E-commerce, booking, inventory, CRM-style platforms | Workflows, roles and permissions, dashboards and reports |
 | **AI & SEO Automation** | Sites that want content and SEO generated at scale | AI integrations, automated SEO content, review workflow |
 
-Every project starts with a short discovery conversation. **Pricing is a tailored quote based on scope** — [ask for a quote](mailto:razahasnain0300@gmail.com?subject=Project%20Quote%20Request).
+Every project starts with a short discovery conversation. **Projects start from $100**; the final price depends on scope — [ask for a quote](mailto:razahasnain0300@gmail.com?subject=Project%20Quote%20Request).
 
 ---
 
