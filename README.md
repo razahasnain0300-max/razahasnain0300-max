@@ -6,7 +6,7 @@
 
 **Custom Web Apps · Business Software · SaaS · AI Integration & Automation · AI SEO Automation**
 
-[![Start a Project](https://img.shields.io/badge/START_A_PROJECT-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
+[![Start a Project](https://img.shields.io/badge/START_A_PROJECT-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://mail.google.com/mail/?view=cm&fs=1&to=razahasnain0300@gmail.com&su=Software%20Project%20Enquiry)
 [![View Projects](https://img.shields.io/badge/VIEW_PROJECTS-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](#03--selected-projects)
 [![SyedsTech](https://img.shields.io/badge/SYEDSTECH-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://github.com/Syeds-Tech00)
 
@@ -62,7 +62,7 @@
 
 **Have a product idea or an operational problem to solve?**
 
-[![Discuss Your Project](https://img.shields.io/badge/DISCUSS_YOUR_PROJECT-8EFF24?style=for-the-badge&labelColor=07120B)](mailto:razahasnain0300@gmail.com?subject=SyedsTech%20Project%20Enquiry)
+[![Discuss Your Project](https://img.shields.io/badge/DISCUSS_YOUR_PROJECT-8EFF24?style=for-the-badge&labelColor=07120B)](https://mail.google.com/mail/?view=cm&fs=1&to=razahasnain0300@gmail.com&su=SyedsTech%20Project%20Enquiry)
 
 </div>
 
@@ -81,7 +81,7 @@ I build systems that **automatically generate SEO content for your website** and
 
 **How it works:** 1. Audit your site and keywords → 2. Set up the generation workflow → 3. Review and publish through your site or CMS.
 
-[![Request an SEO Sample](https://img.shields.io/badge/REQUEST_AN_AI_SEO_SAMPLE-8EFF24?style=for-the-badge&labelColor=07120B)](mailto:razahasnain0300@gmail.com?subject=AI%20SEO%20Automation%20Enquiry)
+[![Request an SEO Sample](https://img.shields.io/badge/REQUEST_AN_AI_SEO_SAMPLE-8EFF24?style=for-the-badge&labelColor=07120B)](https://mail.google.com/mail/?view=cm&fs=1&to=razahasnain0300@gmail.com&su=AI%20SEO%20Automation%20Enquiry)
 
 ### Ways to work together
 
@@ -91,7 +91,7 @@ I build systems that **automatically generate SEO content for your website** and
 | **Business System** | E-commerce, booking, inventory, CRM-style platforms | Workflows, roles and permissions, dashboards and reports |
 | **AI & SEO Automation** | Sites that want content and SEO generated at scale | AI integrations, automated SEO content, review workflow |
 
-Every project starts with a short discovery conversation. **Projects start from $100**; the final price depends on scope — [ask for a quote](mailto:razahasnain0300@gmail.com?subject=Project%20Quote%20Request).
+Every project starts with a short discovery conversation. **Projects start from $100**; the final price depends on scope — [ask for a quote](https://mail.google.com/mail/?view=cm&fs=1&to=razahasnain0300@gmail.com&su=Project%20Quote%20Request).
 
 ---
 
@@ -514,7 +514,7 @@ Connect APIs, test important workflows, review security and reliability, and pre
 
 No public project repositories are currently available.
 
-**Need a similar project?** [WhatsApp Pakistan](https://wa.me/923065967478) · [WhatsApp UAE](https://wa.me/971552615993) · [Email](mailto:razahasnain0300@gmail.com)
+**Need a similar project?** [WhatsApp Pakistan](https://wa.me/923065967478) · [WhatsApp UAE](https://wa.me/971552615993) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=razahasnain0300@gmail.com)
 <!-- AUTO-PUBLIC-PROJECTS:END -->
 
 </details>
@@ -532,7 +532,7 @@ No public project repositories are currently available.
 
 Tell me about your business challenge, users, required features and timeline.
 
-[![Email Enquiry](https://img.shields.io/badge/EMAIL_ENQUIRY-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
+[![Email Enquiry](https://img.shields.io/badge/EMAIL_ENQUIRY-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://mail.google.com/mail/?view=cm&fs=1&to=razahasnain0300@gmail.com&su=Software%20Project%20Enquiry)
 [![WhatsApp Pakistan](https://img.shields.io/badge/WHATSAPP_PAKISTAN-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://wa.me/923065967478)
 [![WhatsApp UAE](https://img.shields.io/badge/WHATSAPP_UAE-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://wa.me/971552615993)
 

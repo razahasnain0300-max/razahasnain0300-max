@@ -30,7 +30,7 @@ const lines = [
     ""
   ]),
   ...(labels.length ? [] : ["No public project repositories are currently available.", ""]),
-  "**Need a similar project?** [WhatsApp Pakistan](https://wa.me/923065967478) · [WhatsApp UAE](https://wa.me/971552615993) · [Email](mailto:razahasnain0300@gmail.com)"
+  "**Need a similar project?** [WhatsApp Pakistan](https://wa.me/923065967478) · [WhatsApp UAE](https://wa.me/971552615993) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=razahasnain0300@gmail.com)"
 ].join("\n");
 const file = "README.md";
 const readme = fs.readFileSync(file,"utf8");
