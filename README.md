@@ -66,6 +66,33 @@
 
 </div>
 
+### AI SEO Automation — rank without writing every page by hand
+
+I build systems that **automatically generate SEO content for your website** and keep it consistent as your site grows.
+
+**What you get**
+- Page titles and meta descriptions generated for every page, matched to your services and keywords
+- Keyword-focused page copy and blog drafts in your brand voice
+- Structured data (schema) so search engines understand your business
+- Bulk generation for large catalogs, such as product pages or property and clinic listings
+- A review step: you approve content before it is published
+
+*Illustrative example — input:* a page about "dental clinic in Lahore". *Output:* an SEO title, a meta description under 160 characters, a heading structure and a draft intro, ready for your review.
+
+**How it works:** 1. Audit your site and keywords → 2. Set up the generation workflow → 3. Review and publish through your site or CMS.
+
+[![Request an SEO Sample](https://img.shields.io/badge/REQUEST_AN_AI_SEO_SAMPLE-8EFF24?style=for-the-badge&labelColor=07120B)](mailto:razahasnain0300@gmail.com?subject=AI%20SEO%20Automation%20Enquiry)
+
+### Ways to work together
+
+| Package | Best for | Includes |
+|---|---|---|
+| **Website & Web App** | Businesses needing a professional site or custom application | Design, development, admin features, deployment guidance |
+| **Business System** | E-commerce, booking, inventory, CRM-style platforms | Workflows, roles and permissions, dashboards and reports |
+| **AI & SEO Automation** | Sites that want content and SEO generated at scale | AI integrations, automated SEO content, review workflow |
+
+Every project starts with a short discovery conversation. **Pricing is a tailored quote based on scope** — [ask for a quote](mailto:razahasnain0300@gmail.com?subject=Project%20Quote%20Request).
+
 ---
 
 <table><tr><td width="100%" bgcolor="#07120B"><h2><font color="#8EFF24">02 / Engineering toolkit</font></h2><p><font color="#B7D8BD">SYEDSTECH / TECHNOLOGIES</font></p></td></tr></table>
