@@ -4,7 +4,7 @@
 
 ### FULL-STACK SOFTWARE ENGINEER · FOUNDER, SYEDSTECH
 
-**Custom Web Apps · Business Software · SaaS · AI Integration & Automation**
+**Custom Web Apps · Business Software · SaaS · AI Integration & Automation · AI SEO Automation**
 
 [![Start a Project](https://img.shields.io/badge/START_A_PROJECT-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
 [![View Projects](https://img.shields.io/badge/VIEW_PROJECTS-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](#03--selected-projects)
@@ -51,6 +51,8 @@
 <summary><b>03 / AI Integration & Automation — View scope and deliverables</b></summary>
 
 **Build:** AI API integrations, connected workflows, data processing, intelligent search and third-party service integrations.
+
+**AI SEO automation:** automatic generation of SEO content for your website — page titles, meta descriptions, keyword-focused copy, blog drafts and structured data — produced by AI and published through your site or CMS, with a human review step before anything goes live.
 
 **Approach:** Privacy-aware design, error handling, appropriate human oversight and testing against real use cases.
 
@@ -506,6 +508,12 @@ Tell me about your business challenge, users, required features and timeline.
 [![Email Enquiry](https://img.shields.io/badge/EMAIL_ENQUIRY-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](mailto:razahasnain0300@gmail.com?subject=Software%20Project%20Enquiry)
 [![WhatsApp Pakistan](https://img.shields.io/badge/WHATSAPP_PAKISTAN-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://wa.me/923065967478)
 [![WhatsApp UAE](https://img.shields.io/badge/WHATSAPP_UAE-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://wa.me/971552615993)
+
+**Find me elsewhere:**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://www.linkedin.com/in/syed-s-it-solution-and-digital-marketing-692922395/)
+[![Upwork](https://img.shields.io/badge/UPWORK-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://www.upwork.com/freelancers/~0113ea8c37dbd5decb)
+[![SyedsTech on GitHub](https://img.shields.io/badge/SYEDSTECH_ORG-07120B?style=for-the-badge&labelColor=07120B&color=69E52E)](https://github.com/Syeds-Tech00)
 
 </details>
 
